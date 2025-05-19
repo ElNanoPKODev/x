@@ -1,0 +1,18 @@
+<root>
+
+<StartGame 	name="button.bmp" left0="0" top0="0" width0="142" height0="96" left1="0" top1="96" width1="142" height1="96" left2="0" top2="192" width2="142" height2="96" left3="0" top3="288" width3="142" height3="96" x="619" y="282" w="142" h="96" keycolor="-1" />
+<Register 	name="button.bmp" left0="142" top0="0" width0="142" height0="73" left1="142" top1="73" width1="142" height1="73" left2="142" top2="146" width2="142" height2="73" left3="142" top3="219" width3="142" height3="73" x="619" y="378" w="142" h="73" keycolor="-1" />
+<Exit 			name="button.bmp" left0="284" top0="0" width0="142" height0="76" left1="284" top1="76" width1="142" height1="76" left2="284" top2="152" width2="142" height2="76" left3="284" top3="228" width3="142" height3="76" x="619" y="451" w="142" h="76" keycolor="-1" />
+
+<HomPage 		name="button.bmp" left0="142" top0="292" width0="106" height0="30" left1="142" top1="322" width1="106" height1="30" left2="142" top2="352" width2="106" height2="30" left3="142" top3="382" width3="106" height3="30" x="135" y="246" w="106" h="30" keycolor="-1" />
+<Repair		name="button.bmp" left0="142" top0="412" width0="106" height0="28" left1="142" top1="440" width1="106" height1="28" left2="142" top2="468" width2="106" height2="28" left3="142" top3="496" width3="106" height3="28" x="542" y="248" w="106" h="28" keycolor="-1" />
+
+<stcBillUp x="49" y="119" w="685" h="92" />
+<stcBillDown  x="29" y="791" w="723" h="45" />
+<stcWeb1 x="40" y="311" w="552" h="189" />
+<stcWeb2 x="46" y="583" w="441" h="176" />
+<stcWeb3 x="491" y="602" w="245" h="141" />
+<stcProgress x="20" y="528" w="745" h="28" />
+
+</root>
+

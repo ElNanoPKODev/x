@@ -1,0 +1,202 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\ExpCharacter.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""     // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x2L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Company name>"
+            VALUE "FileDescription", "TODO: <File description>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "ExpCharacter.dll"
+            VALUE "LegalCopyright", "TODO: (c) <Company name>.  All rights reserved."
+            VALUE "OriginalFilename", "ExpCharacter.dll"
+            VALUE "ProductName", "TODO: <Product name>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 234
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 205
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOGEX 0, 0, 241, 212
+STYLE DS_SETFONT | DS_MODALFRAME | WS_MINIMIZEBOX | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_OVERLAPPEDWINDOW
+CAPTION "Export Character"
+FONT 10, "ÐÂËÎÌå", 400, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Export",ID_EXPORT,132,176,45,12
+    PUSHBUTTON      "Exit",IDCANCEL,189,176,45,12
+    LTEXT           "Path:",IDC_TXT_PATH,7,7,227,11,WS_BORDER
+    CONTROL         "Bone",IDC_BTN_EXP_BONE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,32,94,10
+    CONTROL         "Skin0",IDC_BTN_EXP_SKIN0,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,43,94,10
+    CONTROL         "SKin1",IDC_BTN_EXP_SKIN1,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,54,94,10
+    CONTROL         "SKin2",IDC_BTN_EXP_SKIN2,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,65,94,10
+    CONTROL         "SKin3",IDC_BTN_EXP_SKIN3,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,76,94,10
+    CONTROL         "SKin4",IDC_BTN_EXP_SKIN4,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,87,94,10
+    CONTROL         "SKin5",IDC_BTN_EXP_SKIN5,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,98,94,10
+    GROUPBOX        "Coordinate Type",IDC_STATIC,118,30,104,43,0,
+                    WS_EX_TRANSPARENT
+    CONTROL         "Standard RightHand",IDC_BTN_COORD_STD_RIGHTHAND,"Button",
+                    BS_AUTORADIOBUTTON,122,41,90,8
+    CONTROL         "Standard LeftHand",IDC_BTN_COORD_STD_LEFTHAND,"Button",
+                    BS_AUTORADIOBUTTON,122,51,90,8
+    CONTROL         "MindPower",IDC_BTN_COORD_MINDPOWER,"Button",
+                    BS_AUTORADIOBUTTON,122,61,90,8
+    GROUPBOX        "Bone KeyData Type",IDC_STATIC,118,77,104,42,0,
+                    WS_EX_TRANSPARENT
+    CONTROL         "Mat43",IDC_BTN_BONE_KEY_MAT43,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,122,88,57,8
+    CONTROL         "Mat44",IDC_BTN_BONE_KEY_MAT44,"Button",
+                    BS_AUTORADIOBUTTON,122,98,51,8
+    CONTROL         "Quat",IDC_BTN_BONE_KEY_QUAT,"Button",BS_AUTORADIOBUTTON,
+                    122,108,51,8
+    CONTROL         "Export BoneDummy",IDC_BTN_EXP_DUMMY,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,7,138,88,10
+    CONTROL         "Export BoundingObject",IDC_BTN_EXP_BOUNDINGOBJECT,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,148,96,10
+    CONTROL         "Skin Animation Bone",IDC_BTN_SKIN_ANIM_BONE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,118,137,97,10
+    CONTROL         "Skin Animation Matrix",IDC_BTN_SKIN_ANIM_MATRIX,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,118,148,99,10
+    CONTROL         "",IDC_PROGRESS1,"msctls_progress32",WS_BORDER | 0x1,7,
+                    195,227,10
+    CONTROL         "SKin6",IDC_BTN_EXP_SKIN6,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,108,94,10
+    CONTROL         "SKin7",IDC_BTN_EXP_SKIN7,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,7,119,94,10
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\ExpCharacter.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"     // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

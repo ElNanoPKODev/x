@@ -1,0 +1,1 @@
+derb -e UTF-8 -s ./ en_US.res

@@ -1,0 +1,2582 @@
+Load file:texture\effect\sel1.tga
+width: 128	height: 128	format: 21	mem_size:65536
+[scene]: num: 0, size: 0	[65536]
+[character]: num: 0, size: 0	[65536]
+[item]: num: 0, size: 0	[65536]
+[ui]: num: 0, size: 0	[65536]
+[terrain]: num: 0, size: 0	[65536]
+[effect]: num: 1, size: 65536	[65536]
+[minimap]: num: 0, size: 0	[65536]
+Load file:texture/terrain/subtract.bmp
+width: 32	height: 32	format: 21	mem_size:4096
+[scene]: num: 0, size: 0	[69632]
+[character]: num: 0, size: 0	[69632]
+[item]: num: 0, size: 0	[69632]
+[ui]: num: 0, size: 0	[69632]
+[terrain]: num: 1, size: 4096	[69632]
+[effect]: num: 1, size: 65536	[69632]
+[minimap]: num: 0, size: 0	[69632]
+Load file:texture/terrain/brick01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[331776]
+[character]: num: 0, size: 0	[331776]
+[item]: num: 0, size: 0	[331776]
+[ui]: num: 0, size: 0	[331776]
+[terrain]: num: 2, size: 266240	[331776]
+[effect]: num: 1, size: 65536	[331776]
+[minimap]: num: 0, size: 0	[331776]
+Load file:texture/terrain/brick04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[593920]
+[character]: num: 0, size: 0	[593920]
+[item]: num: 0, size: 0	[593920]
+[ui]: num: 0, size: 0	[593920]
+[terrain]: num: 3, size: 528384	[593920]
+[effect]: num: 1, size: 65536	[593920]
+[minimap]: num: 0, size: 0	[593920]
+Load file:texture/terrain/brick05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[856064]
+[character]: num: 0, size: 0	[856064]
+[item]: num: 0, size: 0	[856064]
+[ui]: num: 0, size: 0	[856064]
+[terrain]: num: 4, size: 790528	[856064]
+[effect]: num: 1, size: 65536	[856064]
+[minimap]: num: 0, size: 0	[856064]
+Load file:texture/terrain/grass05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1118208]
+[character]: num: 0, size: 0	[1118208]
+[item]: num: 0, size: 0	[1118208]
+[ui]: num: 0, size: 0	[1118208]
+[terrain]: num: 5, size: 1052672	[1118208]
+[effect]: num: 1, size: 65536	[1118208]
+[minimap]: num: 0, size: 0	[1118208]
+Load file:texture/terrain/grass11.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1380352]
+[character]: num: 0, size: 0	[1380352]
+[item]: num: 0, size: 0	[1380352]
+[ui]: num: 0, size: 0	[1380352]
+[terrain]: num: 6, size: 1314816	[1380352]
+[effect]: num: 1, size: 65536	[1380352]
+[minimap]: num: 0, size: 0	[1380352]
+Load file:texture/terrain/grass04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1642496]
+[character]: num: 0, size: 0	[1642496]
+[item]: num: 0, size: 0	[1642496]
+[ui]: num: 0, size: 0	[1642496]
+[terrain]: num: 7, size: 1576960	[1642496]
+[effect]: num: 1, size: 65536	[1642496]
+[minimap]: num: 0, size: 0	[1642496]
+Load file:texture/terrain/grass02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1904640]
+[character]: num: 0, size: 0	[1904640]
+[item]: num: 0, size: 0	[1904640]
+[ui]: num: 0, size: 0	[1904640]
+[terrain]: num: 8, size: 1839104	[1904640]
+[effect]: num: 1, size: 65536	[1904640]
+[minimap]: num: 0, size: 0	[1904640]
+Load file:texture/terrain/grass01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2166784]
+[character]: num: 0, size: 0	[2166784]
+[item]: num: 0, size: 0	[2166784]
+[ui]: num: 0, size: 0	[2166784]
+[terrain]: num: 9, size: 2101248	[2166784]
+[effect]: num: 1, size: 65536	[2166784]
+[minimap]: num: 0, size: 0	[2166784]
+Load file:texture/terrain/grass03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2428928]
+[character]: num: 0, size: 0	[2428928]
+[item]: num: 0, size: 0	[2428928]
+[ui]: num: 0, size: 0	[2428928]
+[terrain]: num: 10, size: 2363392	[2428928]
+[effect]: num: 1, size: 65536	[2428928]
+[minimap]: num: 0, size: 0	[2428928]
+Load file:texture/terrain/snow05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2691072]
+[character]: num: 0, size: 0	[2691072]
+[item]: num: 0, size: 0	[2691072]
+[ui]: num: 0, size: 0	[2691072]
+[terrain]: num: 11, size: 2625536	[2691072]
+[effect]: num: 1, size: 65536	[2691072]
+[minimap]: num: 0, size: 0	[2691072]
+Load file:texture/terrain/grass07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2953216]
+[character]: num: 0, size: 0	[2953216]
+[item]: num: 0, size: 0	[2953216]
+[ui]: num: 0, size: 0	[2953216]
+[terrain]: num: 12, size: 2887680	[2953216]
+[effect]: num: 1, size: 65536	[2953216]
+[minimap]: num: 0, size: 0	[2953216]
+Load file:texture/terrain/brick09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3215360]
+[character]: num: 0, size: 0	[3215360]
+[item]: num: 0, size: 0	[3215360]
+[ui]: num: 0, size: 0	[3215360]
+[terrain]: num: 13, size: 3149824	[3215360]
+[effect]: num: 1, size: 65536	[3215360]
+[minimap]: num: 0, size: 0	[3215360]
+Load file:texture/terrain/sand03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3477504]
+[character]: num: 0, size: 0	[3477504]
+[item]: num: 0, size: 0	[3477504]
+[ui]: num: 0, size: 0	[3477504]
+[terrain]: num: 14, size: 3411968	[3477504]
+[effect]: num: 1, size: 65536	[3477504]
+[minimap]: num: 0, size: 0	[3477504]
+Load file:texture/terrain/sand02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3739648]
+[character]: num: 0, size: 0	[3739648]
+[item]: num: 0, size: 0	[3739648]
+[ui]: num: 0, size: 0	[3739648]
+[terrain]: num: 15, size: 3674112	[3739648]
+[effect]: num: 1, size: 65536	[3739648]
+[minimap]: num: 0, size: 0	[3739648]
+Load file:texture/terrain/sand01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[4001792]
+[character]: num: 0, size: 0	[4001792]
+[item]: num: 0, size: 0	[4001792]
+[ui]: num: 0, size: 0	[4001792]
+[terrain]: num: 16, size: 3936256	[4001792]
+[effect]: num: 1, size: 65536	[4001792]
+[minimap]: num: 0, size: 0	[4001792]
+Load file:texture/terrain/dirt03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[4263936]
+[character]: num: 0, size: 0	[4263936]
+[item]: num: 0, size: 0	[4263936]
+[ui]: num: 0, size: 0	[4263936]
+[terrain]: num: 17, size: 4198400	[4263936]
+[effect]: num: 1, size: 65536	[4263936]
+[minimap]: num: 0, size: 0	[4263936]
+Load file:texture/terrain/dirt04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[4526080]
+[character]: num: 0, size: 0	[4526080]
+[item]: num: 0, size: 0	[4526080]
+[ui]: num: 0, size: 0	[4526080]
+[terrain]: num: 18, size: 4460544	[4526080]
+[effect]: num: 1, size: 65536	[4526080]
+[minimap]: num: 0, size: 0	[4526080]
+Load file:texture/terrain/dirt05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[4788224]
+[character]: num: 0, size: 0	[4788224]
+[item]: num: 0, size: 0	[4788224]
+[ui]: num: 0, size: 0	[4788224]
+[terrain]: num: 19, size: 4722688	[4788224]
+[effect]: num: 1, size: 65536	[4788224]
+[minimap]: num: 0, size: 0	[4788224]
+Load file:texture/terrain/brick02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[5050368]
+[character]: num: 0, size: 0	[5050368]
+[item]: num: 0, size: 0	[5050368]
+[ui]: num: 0, size: 0	[5050368]
+[terrain]: num: 20, size: 4984832	[5050368]
+[effect]: num: 1, size: 65536	[5050368]
+[minimap]: num: 0, size: 0	[5050368]
+Load file:texture/terrain/brick03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[5312512]
+[character]: num: 0, size: 0	[5312512]
+[item]: num: 0, size: 0	[5312512]
+[ui]: num: 0, size: 0	[5312512]
+[terrain]: num: 21, size: 5246976	[5312512]
+[effect]: num: 1, size: 65536	[5312512]
+[minimap]: num: 0, size: 0	[5312512]
+Load file:texture/terrain/brick06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[5574656]
+[character]: num: 0, size: 0	[5574656]
+[item]: num: 0, size: 0	[5574656]
+[ui]: num: 0, size: 0	[5574656]
+[terrain]: num: 22, size: 5509120	[5574656]
+[effect]: num: 1, size: 65536	[5574656]
+[minimap]: num: 0, size: 0	[5574656]
+Load file:texture/terrain/dirt07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[5836800]
+[character]: num: 0, size: 0	[5836800]
+[item]: num: 0, size: 0	[5836800]
+[ui]: num: 0, size: 0	[5836800]
+[terrain]: num: 23, size: 5771264	[5836800]
+[effect]: num: 1, size: 65536	[5836800]
+[minimap]: num: 0, size: 0	[5836800]
+Load file:texture/terrain/rock01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[6098944]
+[character]: num: 0, size: 0	[6098944]
+[item]: num: 0, size: 0	[6098944]
+[ui]: num: 0, size: 0	[6098944]
+[terrain]: num: 24, size: 6033408	[6098944]
+[effect]: num: 1, size: 65536	[6098944]
+[minimap]: num: 0, size: 0	[6098944]
+Load file:texture/terrain/rock02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[6361088]
+[character]: num: 0, size: 0	[6361088]
+[item]: num: 0, size: 0	[6361088]
+[ui]: num: 0, size: 0	[6361088]
+[terrain]: num: 25, size: 6295552	[6361088]
+[effect]: num: 1, size: 65536	[6361088]
+[minimap]: num: 0, size: 0	[6361088]
+Load file:texture/terrain/snow01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[6623232]
+[character]: num: 0, size: 0	[6623232]
+[item]: num: 0, size: 0	[6623232]
+[ui]: num: 0, size: 0	[6623232]
+[terrain]: num: 26, size: 6557696	[6623232]
+[effect]: num: 1, size: 65536	[6623232]
+[minimap]: num: 0, size: 0	[6623232]
+Load file:texture/terrain/snow02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[6885376]
+[character]: num: 0, size: 0	[6885376]
+[item]: num: 0, size: 0	[6885376]
+[ui]: num: 0, size: 0	[6885376]
+[terrain]: num: 27, size: 6819840	[6885376]
+[effect]: num: 1, size: 65536	[6885376]
+[minimap]: num: 0, size: 0	[6885376]
+Load file:texture/terrain/snow03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7147520]
+[character]: num: 0, size: 0	[7147520]
+[item]: num: 0, size: 0	[7147520]
+[ui]: num: 0, size: 0	[7147520]
+[terrain]: num: 28, size: 7081984	[7147520]
+[effect]: num: 1, size: 65536	[7147520]
+[minimap]: num: 0, size: 0	[7147520]
+Load file:texture/terrain/snow04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7409664]
+[character]: num: 0, size: 0	[7409664]
+[item]: num: 0, size: 0	[7409664]
+[ui]: num: 0, size: 0	[7409664]
+[terrain]: num: 29, size: 7344128	[7409664]
+[effect]: num: 1, size: 65536	[7409664]
+[minimap]: num: 0, size: 0	[7409664]
+Load file:texture/terrain/grass10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7671808]
+[character]: num: 0, size: 0	[7671808]
+[item]: num: 0, size: 0	[7671808]
+[ui]: num: 0, size: 0	[7671808]
+[terrain]: num: 30, size: 7606272	[7671808]
+[effect]: num: 1, size: 65536	[7671808]
+[minimap]: num: 0, size: 0	[7671808]
+Load file:texture/terrain/dirt06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7933952]
+[character]: num: 0, size: 0	[7933952]
+[item]: num: 0, size: 0	[7933952]
+[ui]: num: 0, size: 0	[7933952]
+[terrain]: num: 31, size: 7868416	[7933952]
+[effect]: num: 1, size: 65536	[7933952]
+[minimap]: num: 0, size: 0	[7933952]
+Load file:texture/terrain/snow06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8196096]
+[character]: num: 0, size: 0	[8196096]
+[item]: num: 0, size: 0	[8196096]
+[ui]: num: 0, size: 0	[8196096]
+[terrain]: num: 32, size: 8130560	[8196096]
+[effect]: num: 1, size: 65536	[8196096]
+[minimap]: num: 0, size: 0	[8196096]
+Load file:texture/terrain/grass09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8458240]
+[character]: num: 0, size: 0	[8458240]
+[item]: num: 0, size: 0	[8458240]
+[ui]: num: 0, size: 0	[8458240]
+[terrain]: num: 33, size: 8392704	[8458240]
+[effect]: num: 1, size: 65536	[8458240]
+[minimap]: num: 0, size: 0	[8458240]
+Load file:texture/terrain/sand05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8720384]
+[character]: num: 0, size: 0	[8720384]
+[item]: num: 0, size: 0	[8720384]
+[ui]: num: 0, size: 0	[8720384]
+[terrain]: num: 34, size: 8654848	[8720384]
+[effect]: num: 1, size: 65536	[8720384]
+[minimap]: num: 0, size: 0	[8720384]
+Load file:texture/terrain/sand06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8982528]
+[character]: num: 0, size: 0	[8982528]
+[item]: num: 0, size: 0	[8982528]
+[ui]: num: 0, size: 0	[8982528]
+[terrain]: num: 35, size: 8916992	[8982528]
+[effect]: num: 1, size: 65536	[8982528]
+[minimap]: num: 0, size: 0	[8982528]
+Load file:texture/terrain/sand07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9244672]
+[character]: num: 0, size: 0	[9244672]
+[item]: num: 0, size: 0	[9244672]
+[ui]: num: 0, size: 0	[9244672]
+[terrain]: num: 36, size: 9179136	[9244672]
+[effect]: num: 1, size: 65536	[9244672]
+[minimap]: num: 0, size: 0	[9244672]
+Load file:texture/terrain/brick08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9506816]
+[character]: num: 0, size: 0	[9506816]
+[item]: num: 0, size: 0	[9506816]
+[ui]: num: 0, size: 0	[9506816]
+[terrain]: num: 37, size: 9441280	[9506816]
+[effect]: num: 1, size: 65536	[9506816]
+[minimap]: num: 0, size: 0	[9506816]
+Load file:texture/terrain/snow07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9768960]
+[character]: num: 0, size: 0	[9768960]
+[item]: num: 0, size: 0	[9768960]
+[ui]: num: 0, size: 0	[9768960]
+[terrain]: num: 38, size: 9703424	[9768960]
+[effect]: num: 1, size: 65536	[9768960]
+[minimap]: num: 0, size: 0	[9768960]
+Load file:texture/terrain/drit08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10031104]
+[character]: num: 0, size: 0	[10031104]
+[item]: num: 0, size: 0	[10031104]
+[ui]: num: 0, size: 0	[10031104]
+[terrain]: num: 39, size: 9965568	[10031104]
+[effect]: num: 1, size: 65536	[10031104]
+[minimap]: num: 0, size: 0	[10031104]
+Load file:texture/terrain/drit09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10293248]
+[character]: num: 0, size: 0	[10293248]
+[item]: num: 0, size: 0	[10293248]
+[ui]: num: 0, size: 0	[10293248]
+[terrain]: num: 40, size: 10227712	[10293248]
+[effect]: num: 1, size: 65536	[10293248]
+[minimap]: num: 0, size: 0	[10293248]
+Load file:texture/terrain/snow08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10555392]
+[character]: num: 0, size: 0	[10555392]
+[item]: num: 0, size: 0	[10555392]
+[ui]: num: 0, size: 0	[10555392]
+[terrain]: num: 41, size: 10489856	[10555392]
+[effect]: num: 1, size: 65536	[10555392]
+[minimap]: num: 0, size: 0	[10555392]
+Load file:texture/terrain/dirt02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10817536]
+[character]: num: 0, size: 0	[10817536]
+[item]: num: 0, size: 0	[10817536]
+[ui]: num: 0, size: 0	[10817536]
+[terrain]: num: 42, size: 10752000	[10817536]
+[effect]: num: 1, size: 65536	[10817536]
+[minimap]: num: 0, size: 0	[10817536]
+Load file:texture/terrain/dirt01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11079680]
+[character]: num: 0, size: 0	[11079680]
+[item]: num: 0, size: 0	[11079680]
+[ui]: num: 0, size: 0	[11079680]
+[terrain]: num: 43, size: 11014144	[11079680]
+[effect]: num: 1, size: 65536	[11079680]
+[minimap]: num: 0, size: 0	[11079680]
+Load file:texture/terrain/sand08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11341824]
+[character]: num: 0, size: 0	[11341824]
+[item]: num: 0, size: 0	[11341824]
+[ui]: num: 0, size: 0	[11341824]
+[terrain]: num: 44, size: 11276288	[11341824]
+[effect]: num: 1, size: 65536	[11341824]
+[minimap]: num: 0, size: 0	[11341824]
+Load file:texture/terrain/sand09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11603968]
+[character]: num: 0, size: 0	[11603968]
+[item]: num: 0, size: 0	[11603968]
+[ui]: num: 0, size: 0	[11603968]
+[terrain]: num: 45, size: 11538432	[11603968]
+[effect]: num: 1, size: 65536	[11603968]
+[minimap]: num: 0, size: 0	[11603968]
+Load file:texture/terrain/drit10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11866112]
+[character]: num: 0, size: 0	[11866112]
+[item]: num: 0, size: 0	[11866112]
+[ui]: num: 0, size: 0	[11866112]
+[terrain]: num: 46, size: 11800576	[11866112]
+[effect]: num: 1, size: 65536	[11866112]
+[minimap]: num: 0, size: 0	[11866112]
+Load file:texture/terrain/brick10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12128256]
+[character]: num: 0, size: 0	[12128256]
+[item]: num: 0, size: 0	[12128256]
+[ui]: num: 0, size: 0	[12128256]
+[terrain]: num: 47, size: 12062720	[12128256]
+[effect]: num: 1, size: 65536	[12128256]
+[minimap]: num: 0, size: 0	[12128256]
+Load file:texture/terrain/brick109.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12390400]
+[character]: num: 0, size: 0	[12390400]
+[item]: num: 0, size: 0	[12390400]
+[ui]: num: 0, size: 0	[12390400]
+[terrain]: num: 48, size: 12324864	[12390400]
+[effect]: num: 1, size: 65536	[12390400]
+[minimap]: num: 0, size: 0	[12390400]
+Load file:texture/terrain/brick110.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12652544]
+[character]: num: 0, size: 0	[12652544]
+[item]: num: 0, size: 0	[12652544]
+[ui]: num: 0, size: 0	[12652544]
+[terrain]: num: 49, size: 12587008	[12652544]
+[effect]: num: 1, size: 65536	[12652544]
+[minimap]: num: 0, size: 0	[12652544]
+Load file:texture/ui/new_login.jpg
+width: 1024	height: 768	format: 21	mem_size:3145728
+[scene]: num: 0, size: 0	[15798272]
+[character]: num: 0, size: 0	[15798272]
+[item]: num: 0, size: 0	[15798272]
+[ui]: num: 1, size: 3145728	[15798272]
+[terrain]: num: 49, size: 12587008	[15798272]
+[effect]: num: 1, size: 65536	[15798272]
+[minimap]: num: 0, size: 0	[15798272]
+Load file:texture/ui/frame.tga
+width: 4	height: 4	format: 21	mem_size:64
+[scene]: num: 0, size: 0	[15798336]
+[character]: num: 0, size: 0	[15798336]
+[item]: num: 0, size: 0	[15798336]
+[ui]: num: 2, size: 3145792	[15798336]
+[terrain]: num: 49, size: 12587008	[15798336]
+[effect]: num: 1, size: 65536	[15798336]
+[minimap]: num: 0, size: 0	[15798336]
+Load file:texture/ui2009/logo1.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16060480]
+[character]: num: 0, size: 0	[16060480]
+[item]: num: 0, size: 0	[16060480]
+[ui]: num: 3, size: 3407936	[16060480]
+[terrain]: num: 49, size: 12587008	[16060480]
+[effect]: num: 1, size: 65536	[16060480]
+[minimap]: num: 0, size: 0	[16060480]
+Load file:texture/ui2009/logo2.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16322624]
+[character]: num: 0, size: 0	[16322624]
+[item]: num: 0, size: 0	[16322624]
+[ui]: num: 4, size: 3670080	[16322624]
+[terrain]: num: 49, size: 12587008	[16322624]
+[effect]: num: 1, size: 65536	[16322624]
+[minimap]: num: 0, size: 0	[16322624]
+Load file:texture/ui2009/login01.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16584768]
+[character]: num: 0, size: 0	[16584768]
+[item]: num: 0, size: 0	[16584768]
+[ui]: num: 5, size: 3932224	[16584768]
+[terrain]: num: 49, size: 12587008	[16584768]
+[effect]: num: 1, size: 65536	[16584768]
+[minimap]: num: 0, size: 0	[16584768]
+Load file:texture/ui2009/button.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16846912]
+[character]: num: 0, size: 0	[16846912]
+[item]: num: 0, size: 0	[16846912]
+[ui]: num: 6, size: 4194368	[16846912]
+[terrain]: num: 49, size: 12587008	[16846912]
+[effect]: num: 1, size: 65536	[16846912]
+[minimap]: num: 0, size: 0	[16846912]
+Load file:texture/ui2009/loading/l1.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17109056]
+[character]: num: 0, size: 0	[17109056]
+[item]: num: 0, size: 0	[17109056]
+[ui]: num: 7, size: 4456512	[17109056]
+[terrain]: num: 49, size: 12587008	[17109056]
+[effect]: num: 1, size: 65536	[17109056]
+[minimap]: num: 0, size: 0	[17109056]
+Load file:texture/ui2009/loading/l2.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17371200]
+[character]: num: 0, size: 0	[17371200]
+[item]: num: 0, size: 0	[17371200]
+[ui]: num: 8, size: 4718656	[17371200]
+[terrain]: num: 49, size: 12587008	[17371200]
+[effect]: num: 1, size: 65536	[17371200]
+[minimap]: num: 0, size: 0	[17371200]
+Load file:texture/ui2009/loading/l3.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17633344]
+[character]: num: 0, size: 0	[17633344]
+[item]: num: 0, size: 0	[17633344]
+[ui]: num: 9, size: 4980800	[17633344]
+[terrain]: num: 49, size: 12587008	[17633344]
+[effect]: num: 1, size: 65536	[17633344]
+[minimap]: num: 0, size: 0	[17633344]
+Load file:texture/ui2009/loading/l4.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17895488]
+[character]: num: 0, size: 0	[17895488]
+[item]: num: 0, size: 0	[17895488]
+[ui]: num: 10, size: 5242944	[17895488]
+[terrain]: num: 49, size: 12587008	[17895488]
+[effect]: num: 1, size: 65536	[17895488]
+[minimap]: num: 0, size: 0	[17895488]
+Load file:texture/ui2009/loading/l5.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18157632]
+[character]: num: 0, size: 0	[18157632]
+[item]: num: 0, size: 0	[18157632]
+[ui]: num: 11, size: 5505088	[18157632]
+[terrain]: num: 49, size: 12587008	[18157632]
+[effect]: num: 1, size: 65536	[18157632]
+[minimap]: num: 0, size: 0	[18157632]
+Load file:texture/ui2009/loading/l6.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18419776]
+[character]: num: 0, size: 0	[18419776]
+[item]: num: 0, size: 0	[18419776]
+[ui]: num: 12, size: 5767232	[18419776]
+[terrain]: num: 49, size: 12587008	[18419776]
+[effect]: num: 1, size: 65536	[18419776]
+[minimap]: num: 0, size: 0	[18419776]
+Load file:texture/ui2009/loading/l7.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18681920]
+[character]: num: 0, size: 0	[18681920]
+[item]: num: 0, size: 0	[18681920]
+[ui]: num: 13, size: 6029376	[18681920]
+[terrain]: num: 49, size: 12587008	[18681920]
+[effect]: num: 1, size: 65536	[18681920]
+[minimap]: num: 0, size: 0	[18681920]
+Load file:texture/ui2009/loading/l8.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18944064]
+[character]: num: 0, size: 0	[18944064]
+[item]: num: 0, size: 0	[18944064]
+[ui]: num: 14, size: 6291520	[18944064]
+[terrain]: num: 49, size: 12587008	[18944064]
+[effect]: num: 1, size: 65536	[18944064]
+[minimap]: num: 0, size: 0	[18944064]
+Load file:texture/ui2009/loading/l9.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19206208]
+[character]: num: 0, size: 0	[19206208]
+[item]: num: 0, size: 0	[19206208]
+[ui]: num: 15, size: 6553664	[19206208]
+[terrain]: num: 49, size: 12587008	[19206208]
+[effect]: num: 1, size: 65536	[19206208]
+[minimap]: num: 0, size: 0	[19206208]
+Load file:texture/ui2009/loading/l10.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19468352]
+[character]: num: 0, size: 0	[19468352]
+[item]: num: 0, size: 0	[19468352]
+[ui]: num: 16, size: 6815808	[19468352]
+[terrain]: num: 49, size: 12587008	[19468352]
+[effect]: num: 1, size: 65536	[19468352]
+[minimap]: num: 0, size: 0	[19468352]
+Load file:texture/ui2009/loading/l11.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19730496]
+[character]: num: 0, size: 0	[19730496]
+[item]: num: 0, size: 0	[19730496]
+[ui]: num: 17, size: 7077952	[19730496]
+[terrain]: num: 49, size: 12587008	[19730496]
+[effect]: num: 1, size: 65536	[19730496]
+[minimap]: num: 0, size: 0	[19730496]
+Load file:texture/ui2009/loading/l12.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19992640]
+[character]: num: 0, size: 0	[19992640]
+[item]: num: 0, size: 0	[19992640]
+[ui]: num: 18, size: 7340096	[19992640]
+[terrain]: num: 49, size: 12587008	[19992640]
+[effect]: num: 1, size: 65536	[19992640]
+[minimap]: num: 0, size: 0	[19992640]
+Load file:texture/ui/loadprogress.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:
+width: 256	height: 256	format: 21	mem_size:0
+[scene]: num: 0, size: 0	[20254784]
+[character]: num: 0, size: 0	[20254784]
+[item]: num: 0, size: 0	[20254784]
+[ui]: num: 19, size: 7602240	[20254784]
+[terrain]: num: 49, size: 12587008	[20254784]
+[effect]: num: 1, size: 65536	[20254784]
+[minimap]: num: 0, size: 0	[20254784]
+Release file:texture\effect\sel1.tga
+width: 128	height: 128	format: 21	mem_size:65536
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: 0, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÍÁÖø.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -1, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10100014eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -2, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\hl_scjlight.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -3, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10100016eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -4, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10100017.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -5, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10100018eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -6, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10110005eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -7, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10110006eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -8, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10110007eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -9, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\101110008eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -10, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10130025eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -11, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\10130026eff.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -12, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -13, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -14, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -15, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -16, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÂùÁ¦.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -17, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\s0001.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -18, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -19, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -20, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -21, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -22, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\¾«ÁéÊÈÑª.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -23, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\s0001.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -24, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -25, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -26, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -27, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0227000001.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -28, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\·´»÷.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -29, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\s0001.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -30, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jj1 .tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -31, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\s0001.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -32, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\elf05.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -33, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÕÐ¼Ü.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -34, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\02(2).tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -35, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -36, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -37, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -38, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -39, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\angel_wing2.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -40, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -41, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -42, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ballelf.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -43, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -44, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -45, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -46, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\fbone.TGA
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -47, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\fbone.TGA
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -48, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\boom.TGA
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -49, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -50, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -51, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -52, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -53, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0008.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -54, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\dachi3.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -55, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -56, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -57, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -58, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -59, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -60, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.TGA
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -61, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\22.TGA
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -62, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\³á°ò01.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -63, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\³á°ò02.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -64, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\fdeathhead.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -65, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\·´»÷.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -66, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jingling02.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -67, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jingling.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -68, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\¾«Áé04.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -69, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\fjlxiao.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -70, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\modou.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -71, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\fjq.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -72, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\flq.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -73, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -74, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -75, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0142.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -76, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\wing4.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -77, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jgg08.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -78, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\hlgreeneff0248.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -79, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -80, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -81, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0097.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -82, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -83, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -84, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\iron.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -85, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\½ð±Ò.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -86, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\¾£¼¬ .tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -87, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\04010014.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -88, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\01010044.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -89, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\01010037.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -90, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\01010043.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -91, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -92, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0225.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -93, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0122.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -94, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÆÆ¼×.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -95, size: 0	[20189248]
+[ui]: num: 19, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ui2.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -96, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\dachi3.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -97, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -98, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -99, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\scj1.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -100, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\scj1.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -101, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\scj1.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -102, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -103, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -104, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\s016r.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -105, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\0036000000.bmp
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -106, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\eff0008.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -107, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -108, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -109, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -110, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÊÈÑª.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -111, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\bai.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -112, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\toil.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -113, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jinglingdan.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -114, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\jinglingdan.psd
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -115, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÍÁÖø.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -116, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -117, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -118, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -119, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -120, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -121, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -122, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -123, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\1.BMP
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -124, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\xueqiu.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -125, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\yanzhao.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -126, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\youling.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -127, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:.\texture\item\ÕÐ¼Ü.tga
+width: 0	height: 0	format: 25	mem_size:0
+[scene]: num: 0, size: 0	[20189248]
+[character]: num: 0, size: 0	[20189248]
+[item]: num: -128, size: 0	[20189248]
+[ui]: num: 18, size: 7602240	[20189248]
+[terrain]: num: 49, size: 12587008	[20189248]
+[effect]: num: 0, size: 0	[20189248]
+[minimap]: num: 0, size: 0	[20189248]
+Release file:texture/terrain/subtract.bmp
+width: 32	height: 32	format: 21	mem_size:4096
+[scene]: num: 0, size: 0	[20185152]
+[character]: num: 0, size: 0	[20185152]
+[item]: num: -128, size: 0	[20185152]
+[ui]: num: 18, size: 7602240	[20185152]
+[terrain]: num: 48, size: 12582912	[20185152]
+[effect]: num: 0, size: 0	[20185152]
+[minimap]: num: 0, size: 0	[20185152]
+Release file:texture/terrain/brick01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19923008]
+[character]: num: 0, size: 0	[19923008]
+[item]: num: -128, size: 0	[19923008]
+[ui]: num: 18, size: 7602240	[19923008]
+[terrain]: num: 47, size: 12320768	[19923008]
+[effect]: num: 0, size: 0	[19923008]
+[minimap]: num: 0, size: 0	[19923008]
+Release file:texture/terrain/brick04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19660864]
+[character]: num: 0, size: 0	[19660864]
+[item]: num: -128, size: 0	[19660864]
+[ui]: num: 18, size: 7602240	[19660864]
+[terrain]: num: 46, size: 12058624	[19660864]
+[effect]: num: 0, size: 0	[19660864]
+[minimap]: num: 0, size: 0	[19660864]
+Release file:texture/terrain/brick05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19398720]
+[character]: num: 0, size: 0	[19398720]
+[item]: num: -128, size: 0	[19398720]
+[ui]: num: 18, size: 7602240	[19398720]
+[terrain]: num: 45, size: 11796480	[19398720]
+[effect]: num: 0, size: 0	[19398720]
+[minimap]: num: 0, size: 0	[19398720]
+Release file:texture/terrain/grass05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[19136576]
+[character]: num: 0, size: 0	[19136576]
+[item]: num: -128, size: 0	[19136576]
+[ui]: num: 18, size: 7602240	[19136576]
+[terrain]: num: 44, size: 11534336	[19136576]
+[effect]: num: 0, size: 0	[19136576]
+[minimap]: num: 0, size: 0	[19136576]
+Release file:texture/terrain/grass11.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18874432]
+[character]: num: 0, size: 0	[18874432]
+[item]: num: -128, size: 0	[18874432]
+[ui]: num: 18, size: 7602240	[18874432]
+[terrain]: num: 43, size: 11272192	[18874432]
+[effect]: num: 0, size: 0	[18874432]
+[minimap]: num: 0, size: 0	[18874432]
+Release file:texture/terrain/grass04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18612288]
+[character]: num: 0, size: 0	[18612288]
+[item]: num: -128, size: 0	[18612288]
+[ui]: num: 18, size: 7602240	[18612288]
+[terrain]: num: 42, size: 11010048	[18612288]
+[effect]: num: 0, size: 0	[18612288]
+[minimap]: num: 0, size: 0	[18612288]
+Release file:texture/terrain/grass02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18350144]
+[character]: num: 0, size: 0	[18350144]
+[item]: num: -128, size: 0	[18350144]
+[ui]: num: 18, size: 7602240	[18350144]
+[terrain]: num: 41, size: 10747904	[18350144]
+[effect]: num: 0, size: 0	[18350144]
+[minimap]: num: 0, size: 0	[18350144]
+Release file:texture/terrain/grass01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[18088000]
+[character]: num: 0, size: 0	[18088000]
+[item]: num: -128, size: 0	[18088000]
+[ui]: num: 18, size: 7602240	[18088000]
+[terrain]: num: 40, size: 10485760	[18088000]
+[effect]: num: 0, size: 0	[18088000]
+[minimap]: num: 0, size: 0	[18088000]
+Release file:texture/terrain/grass03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17825856]
+[character]: num: 0, size: 0	[17825856]
+[item]: num: -128, size: 0	[17825856]
+[ui]: num: 18, size: 7602240	[17825856]
+[terrain]: num: 39, size: 10223616	[17825856]
+[effect]: num: 0, size: 0	[17825856]
+[minimap]: num: 0, size: 0	[17825856]
+Release file:texture/terrain/snow05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17563712]
+[character]: num: 0, size: 0	[17563712]
+[item]: num: -128, size: 0	[17563712]
+[ui]: num: 18, size: 7602240	[17563712]
+[terrain]: num: 38, size: 9961472	[17563712]
+[effect]: num: 0, size: 0	[17563712]
+[minimap]: num: 0, size: 0	[17563712]
+Release file:texture/terrain/grass07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17301568]
+[character]: num: 0, size: 0	[17301568]
+[item]: num: -128, size: 0	[17301568]
+[ui]: num: 18, size: 7602240	[17301568]
+[terrain]: num: 37, size: 9699328	[17301568]
+[effect]: num: 0, size: 0	[17301568]
+[minimap]: num: 0, size: 0	[17301568]
+Release file:texture/terrain/brick09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[17039424]
+[character]: num: 0, size: 0	[17039424]
+[item]: num: -128, size: 0	[17039424]
+[ui]: num: 18, size: 7602240	[17039424]
+[terrain]: num: 36, size: 9437184	[17039424]
+[effect]: num: 0, size: 0	[17039424]
+[minimap]: num: 0, size: 0	[17039424]
+Release file:texture/terrain/sand03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16777280]
+[character]: num: 0, size: 0	[16777280]
+[item]: num: -128, size: 0	[16777280]
+[ui]: num: 18, size: 7602240	[16777280]
+[terrain]: num: 35, size: 9175040	[16777280]
+[effect]: num: 0, size: 0	[16777280]
+[minimap]: num: 0, size: 0	[16777280]
+Release file:texture/terrain/sand02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16515136]
+[character]: num: 0, size: 0	[16515136]
+[item]: num: -128, size: 0	[16515136]
+[ui]: num: 18, size: 7602240	[16515136]
+[terrain]: num: 34, size: 8912896	[16515136]
+[effect]: num: 0, size: 0	[16515136]
+[minimap]: num: 0, size: 0	[16515136]
+Release file:texture/terrain/sand01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[16252992]
+[character]: num: 0, size: 0	[16252992]
+[item]: num: -128, size: 0	[16252992]
+[ui]: num: 18, size: 7602240	[16252992]
+[terrain]: num: 33, size: 8650752	[16252992]
+[effect]: num: 0, size: 0	[16252992]
+[minimap]: num: 0, size: 0	[16252992]
+Release file:texture/terrain/dirt03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[15990848]
+[character]: num: 0, size: 0	[15990848]
+[item]: num: -128, size: 0	[15990848]
+[ui]: num: 18, size: 7602240	[15990848]
+[terrain]: num: 32, size: 8388608	[15990848]
+[effect]: num: 0, size: 0	[15990848]
+[minimap]: num: 0, size: 0	[15990848]
+Release file:texture/terrain/dirt04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[15728704]
+[character]: num: 0, size: 0	[15728704]
+[item]: num: -128, size: 0	[15728704]
+[ui]: num: 18, size: 7602240	[15728704]
+[terrain]: num: 31, size: 8126464	[15728704]
+[effect]: num: 0, size: 0	[15728704]
+[minimap]: num: 0, size: 0	[15728704]
+Release file:texture/terrain/dirt05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[15466560]
+[character]: num: 0, size: 0	[15466560]
+[item]: num: -128, size: 0	[15466560]
+[ui]: num: 18, size: 7602240	[15466560]
+[terrain]: num: 30, size: 7864320	[15466560]
+[effect]: num: 0, size: 0	[15466560]
+[minimap]: num: 0, size: 0	[15466560]
+Release file:texture/terrain/brick02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[15204416]
+[character]: num: 0, size: 0	[15204416]
+[item]: num: -128, size: 0	[15204416]
+[ui]: num: 18, size: 7602240	[15204416]
+[terrain]: num: 29, size: 7602176	[15204416]
+[effect]: num: 0, size: 0	[15204416]
+[minimap]: num: 0, size: 0	[15204416]
+Release file:texture/terrain/brick03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[14942272]
+[character]: num: 0, size: 0	[14942272]
+[item]: num: -128, size: 0	[14942272]
+[ui]: num: 18, size: 7602240	[14942272]
+[terrain]: num: 28, size: 7340032	[14942272]
+[effect]: num: 0, size: 0	[14942272]
+[minimap]: num: 0, size: 0	[14942272]
+Release file:texture/terrain/brick06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[14680128]
+[character]: num: 0, size: 0	[14680128]
+[item]: num: -128, size: 0	[14680128]
+[ui]: num: 18, size: 7602240	[14680128]
+[terrain]: num: 27, size: 7077888	[14680128]
+[effect]: num: 0, size: 0	[14680128]
+[minimap]: num: 0, size: 0	[14680128]
+Release file:texture/terrain/dirt07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[14417984]
+[character]: num: 0, size: 0	[14417984]
+[item]: num: -128, size: 0	[14417984]
+[ui]: num: 18, size: 7602240	[14417984]
+[terrain]: num: 26, size: 6815744	[14417984]
+[effect]: num: 0, size: 0	[14417984]
+[minimap]: num: 0, size: 0	[14417984]
+Release file:texture/terrain/rock01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[14155840]
+[character]: num: 0, size: 0	[14155840]
+[item]: num: -128, size: 0	[14155840]
+[ui]: num: 18, size: 7602240	[14155840]
+[terrain]: num: 25, size: 6553600	[14155840]
+[effect]: num: 0, size: 0	[14155840]
+[minimap]: num: 0, size: 0	[14155840]
+Release file:texture/terrain/rock02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[13893696]
+[character]: num: 0, size: 0	[13893696]
+[item]: num: -128, size: 0	[13893696]
+[ui]: num: 18, size: 7602240	[13893696]
+[terrain]: num: 24, size: 6291456	[13893696]
+[effect]: num: 0, size: 0	[13893696]
+[minimap]: num: 0, size: 0	[13893696]
+Release file:texture/terrain/snow01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[13631552]
+[character]: num: 0, size: 0	[13631552]
+[item]: num: -128, size: 0	[13631552]
+[ui]: num: 18, size: 7602240	[13631552]
+[terrain]: num: 23, size: 6029312	[13631552]
+[effect]: num: 0, size: 0	[13631552]
+[minimap]: num: 0, size: 0	[13631552]
+Release file:texture/terrain/snow02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[13369408]
+[character]: num: 0, size: 0	[13369408]
+[item]: num: -128, size: 0	[13369408]
+[ui]: num: 18, size: 7602240	[13369408]
+[terrain]: num: 22, size: 5767168	[13369408]
+[effect]: num: 0, size: 0	[13369408]
+[minimap]: num: 0, size: 0	[13369408]
+Release file:texture/terrain/snow03.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[13107264]
+[character]: num: 0, size: 0	[13107264]
+[item]: num: -128, size: 0	[13107264]
+[ui]: num: 18, size: 7602240	[13107264]
+[terrain]: num: 21, size: 5505024	[13107264]
+[effect]: num: 0, size: 0	[13107264]
+[minimap]: num: 0, size: 0	[13107264]
+Release file:texture/terrain/snow04.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12845120]
+[character]: num: 0, size: 0	[12845120]
+[item]: num: -128, size: 0	[12845120]
+[ui]: num: 18, size: 7602240	[12845120]
+[terrain]: num: 20, size: 5242880	[12845120]
+[effect]: num: 0, size: 0	[12845120]
+[minimap]: num: 0, size: 0	[12845120]
+Release file:texture/terrain/grass10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12582976]
+[character]: num: 0, size: 0	[12582976]
+[item]: num: -128, size: 0	[12582976]
+[ui]: num: 18, size: 7602240	[12582976]
+[terrain]: num: 19, size: 4980736	[12582976]
+[effect]: num: 0, size: 0	[12582976]
+[minimap]: num: 0, size: 0	[12582976]
+Release file:texture/terrain/dirt06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12320832]
+[character]: num: 0, size: 0	[12320832]
+[item]: num: -128, size: 0	[12320832]
+[ui]: num: 18, size: 7602240	[12320832]
+[terrain]: num: 18, size: 4718592	[12320832]
+[effect]: num: 0, size: 0	[12320832]
+[minimap]: num: 0, size: 0	[12320832]
+Release file:texture/terrain/snow06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[12058688]
+[character]: num: 0, size: 0	[12058688]
+[item]: num: -128, size: 0	[12058688]
+[ui]: num: 18, size: 7602240	[12058688]
+[terrain]: num: 17, size: 4456448	[12058688]
+[effect]: num: 0, size: 0	[12058688]
+[minimap]: num: 0, size: 0	[12058688]
+Release file:texture/terrain/grass09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11796544]
+[character]: num: 0, size: 0	[11796544]
+[item]: num: -128, size: 0	[11796544]
+[ui]: num: 18, size: 7602240	[11796544]
+[terrain]: num: 16, size: 4194304	[11796544]
+[effect]: num: 0, size: 0	[11796544]
+[minimap]: num: 0, size: 0	[11796544]
+Release file:texture/terrain/sand05.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11534400]
+[character]: num: 0, size: 0	[11534400]
+[item]: num: -128, size: 0	[11534400]
+[ui]: num: 18, size: 7602240	[11534400]
+[terrain]: num: 15, size: 3932160	[11534400]
+[effect]: num: 0, size: 0	[11534400]
+[minimap]: num: 0, size: 0	[11534400]
+Release file:texture/terrain/sand06.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11272256]
+[character]: num: 0, size: 0	[11272256]
+[item]: num: -128, size: 0	[11272256]
+[ui]: num: 18, size: 7602240	[11272256]
+[terrain]: num: 14, size: 3670016	[11272256]
+[effect]: num: 0, size: 0	[11272256]
+[minimap]: num: 0, size: 0	[11272256]
+Release file:texture/terrain/sand07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[11010112]
+[character]: num: 0, size: 0	[11010112]
+[item]: num: -128, size: 0	[11010112]
+[ui]: num: 18, size: 7602240	[11010112]
+[terrain]: num: 13, size: 3407872	[11010112]
+[effect]: num: 0, size: 0	[11010112]
+[minimap]: num: 0, size: 0	[11010112]
+Release file:texture/terrain/brick08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10747968]
+[character]: num: 0, size: 0	[10747968]
+[item]: num: -128, size: 0	[10747968]
+[ui]: num: 18, size: 7602240	[10747968]
+[terrain]: num: 12, size: 3145728	[10747968]
+[effect]: num: 0, size: 0	[10747968]
+[minimap]: num: 0, size: 0	[10747968]
+Release file:texture/terrain/snow07.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10485824]
+[character]: num: 0, size: 0	[10485824]
+[item]: num: -128, size: 0	[10485824]
+[ui]: num: 18, size: 7602240	[10485824]
+[terrain]: num: 11, size: 2883584	[10485824]
+[effect]: num: 0, size: 0	[10485824]
+[minimap]: num: 0, size: 0	[10485824]
+Release file:texture/terrain/drit08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[10223680]
+[character]: num: 0, size: 0	[10223680]
+[item]: num: -128, size: 0	[10223680]
+[ui]: num: 18, size: 7602240	[10223680]
+[terrain]: num: 10, size: 2621440	[10223680]
+[effect]: num: 0, size: 0	[10223680]
+[minimap]: num: 0, size: 0	[10223680]
+Release file:texture/terrain/drit09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9961536]
+[character]: num: 0, size: 0	[9961536]
+[item]: num: -128, size: 0	[9961536]
+[ui]: num: 18, size: 7602240	[9961536]
+[terrain]: num: 9, size: 2359296	[9961536]
+[effect]: num: 0, size: 0	[9961536]
+[minimap]: num: 0, size: 0	[9961536]
+Release file:texture/terrain/snow08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9699392]
+[character]: num: 0, size: 0	[9699392]
+[item]: num: -128, size: 0	[9699392]
+[ui]: num: 18, size: 7602240	[9699392]
+[terrain]: num: 8, size: 2097152	[9699392]
+[effect]: num: 0, size: 0	[9699392]
+[minimap]: num: 0, size: 0	[9699392]
+Release file:texture/terrain/dirt02.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9437248]
+[character]: num: 0, size: 0	[9437248]
+[item]: num: -128, size: 0	[9437248]
+[ui]: num: 18, size: 7602240	[9437248]
+[terrain]: num: 7, size: 1835008	[9437248]
+[effect]: num: 0, size: 0	[9437248]
+[minimap]: num: 0, size: 0	[9437248]
+Release file:texture/terrain/dirt01.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[9175104]
+[character]: num: 0, size: 0	[9175104]
+[item]: num: -128, size: 0	[9175104]
+[ui]: num: 18, size: 7602240	[9175104]
+[terrain]: num: 6, size: 1572864	[9175104]
+[effect]: num: 0, size: 0	[9175104]
+[minimap]: num: 0, size: 0	[9175104]
+Release file:texture/terrain/sand08.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8912960]
+[character]: num: 0, size: 0	[8912960]
+[item]: num: -128, size: 0	[8912960]
+[ui]: num: 18, size: 7602240	[8912960]
+[terrain]: num: 5, size: 1310720	[8912960]
+[effect]: num: 0, size: 0	[8912960]
+[minimap]: num: 0, size: 0	[8912960]
+Release file:texture/terrain/sand09.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8650816]
+[character]: num: 0, size: 0	[8650816]
+[item]: num: -128, size: 0	[8650816]
+[ui]: num: 18, size: 7602240	[8650816]
+[terrain]: num: 4, size: 1048576	[8650816]
+[effect]: num: 0, size: 0	[8650816]
+[minimap]: num: 0, size: 0	[8650816]
+Release file:texture/terrain/drit10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8388672]
+[character]: num: 0, size: 0	[8388672]
+[item]: num: -128, size: 0	[8388672]
+[ui]: num: 18, size: 7602240	[8388672]
+[terrain]: num: 3, size: 786432	[8388672]
+[effect]: num: 0, size: 0	[8388672]
+[minimap]: num: 0, size: 0	[8388672]
+Release file:texture/terrain/brick10.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[8126528]
+[character]: num: 0, size: 0	[8126528]
+[item]: num: -128, size: 0	[8126528]
+[ui]: num: 18, size: 7602240	[8126528]
+[terrain]: num: 2, size: 524288	[8126528]
+[effect]: num: 0, size: 0	[8126528]
+[minimap]: num: 0, size: 0	[8126528]
+Release file:texture/terrain/brick109.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7864384]
+[character]: num: 0, size: 0	[7864384]
+[item]: num: -128, size: 0	[7864384]
+[ui]: num: 18, size: 7602240	[7864384]
+[terrain]: num: 1, size: 262144	[7864384]
+[effect]: num: 0, size: 0	[7864384]
+[minimap]: num: 0, size: 0	[7864384]
+Release file:texture/terrain/brick110.bmp
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[7602240]
+[character]: num: 0, size: 0	[7602240]
+[item]: num: -128, size: 0	[7602240]
+[ui]: num: 18, size: 7602240	[7602240]
+[terrain]: num: 0, size: 0	[7602240]
+[effect]: num: 0, size: 0	[7602240]
+[minimap]: num: 0, size: 0	[7602240]
+Release file:texture/ui/new_login.jpg
+width: 1024	height: 768	format: 21	mem_size:3145728
+[scene]: num: 0, size: 0	[4456512]
+[character]: num: 0, size: 0	[4456512]
+[item]: num: -128, size: 0	[4456512]
+[ui]: num: 17, size: 4456512	[4456512]
+[terrain]: num: 0, size: 0	[4456512]
+[effect]: num: 0, size: 0	[4456512]
+[minimap]: num: 0, size: 0	[4456512]
+Release file:texture/ui/frame.tga
+width: 4	height: 4	format: 21	mem_size:64
+[scene]: num: 0, size: 0	[4456448]
+[character]: num: 0, size: 0	[4456448]
+[item]: num: -128, size: 0	[4456448]
+[ui]: num: 16, size: 4456448	[4456448]
+[terrain]: num: 0, size: 0	[4456448]
+[effect]: num: 0, size: 0	[4456448]
+[minimap]: num: 0, size: 0	[4456448]
+Release file:texture/ui2009/logo1.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[4194304]
+[character]: num: 0, size: 0	[4194304]
+[item]: num: -128, size: 0	[4194304]
+[ui]: num: 15, size: 4194304	[4194304]
+[terrain]: num: 0, size: 0	[4194304]
+[effect]: num: 0, size: 0	[4194304]
+[minimap]: num: 0, size: 0	[4194304]
+Release file:texture/ui2009/logo2.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3932160]
+[character]: num: 0, size: 0	[3932160]
+[item]: num: -128, size: 0	[3932160]
+[ui]: num: 14, size: 3932160	[3932160]
+[terrain]: num: 0, size: 0	[3932160]
+[effect]: num: 0, size: 0	[3932160]
+[minimap]: num: 0, size: 0	[3932160]
+Release file:texture/ui2009/login01.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3670016]
+[character]: num: 0, size: 0	[3670016]
+[item]: num: -128, size: 0	[3670016]
+[ui]: num: 13, size: 3670016	[3670016]
+[terrain]: num: 0, size: 0	[3670016]
+[effect]: num: 0, size: 0	[3670016]
+[minimap]: num: 0, size: 0	[3670016]
+Release file:texture/ui2009/button.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3407872]
+[character]: num: 0, size: 0	[3407872]
+[item]: num: -128, size: 0	[3407872]
+[ui]: num: 12, size: 3407872	[3407872]
+[terrain]: num: 0, size: 0	[3407872]
+[effect]: num: 0, size: 0	[3407872]
+[minimap]: num: 0, size: 0	[3407872]
+Release file:texture/ui2009/loading/l1.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[3145728]
+[character]: num: 0, size: 0	[3145728]
+[item]: num: -128, size: 0	[3145728]
+[ui]: num: 11, size: 3145728	[3145728]
+[terrain]: num: 0, size: 0	[3145728]
+[effect]: num: 0, size: 0	[3145728]
+[minimap]: num: 0, size: 0	[3145728]
+Release file:texture/ui2009/loading/l2.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2883584]
+[character]: num: 0, size: 0	[2883584]
+[item]: num: -128, size: 0	[2883584]
+[ui]: num: 10, size: 2883584	[2883584]
+[terrain]: num: 0, size: 0	[2883584]
+[effect]: num: 0, size: 0	[2883584]
+[minimap]: num: 0, size: 0	[2883584]
+Release file:texture/ui2009/loading/l3.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2621440]
+[character]: num: 0, size: 0	[2621440]
+[item]: num: -128, size: 0	[2621440]
+[ui]: num: 9, size: 2621440	[2621440]
+[terrain]: num: 0, size: 0	[2621440]
+[effect]: num: 0, size: 0	[2621440]
+[minimap]: num: 0, size: 0	[2621440]
+Release file:texture/ui2009/loading/l4.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2359296]
+[character]: num: 0, size: 0	[2359296]
+[item]: num: -128, size: 0	[2359296]
+[ui]: num: 8, size: 2359296	[2359296]
+[terrain]: num: 0, size: 0	[2359296]
+[effect]: num: 0, size: 0	[2359296]
+[minimap]: num: 0, size: 0	[2359296]
+Release file:texture/ui2009/loading/l5.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[2097152]
+[character]: num: 0, size: 0	[2097152]
+[item]: num: -128, size: 0	[2097152]
+[ui]: num: 7, size: 2097152	[2097152]
+[terrain]: num: 0, size: 0	[2097152]
+[effect]: num: 0, size: 0	[2097152]
+[minimap]: num: 0, size: 0	[2097152]
+Release file:texture/ui2009/loading/l6.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1835008]
+[character]: num: 0, size: 0	[1835008]
+[item]: num: -128, size: 0	[1835008]
+[ui]: num: 6, size: 1835008	[1835008]
+[terrain]: num: 0, size: 0	[1835008]
+[effect]: num: 0, size: 0	[1835008]
+[minimap]: num: 0, size: 0	[1835008]
+Release file:texture/ui2009/loading/l7.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1572864]
+[character]: num: 0, size: 0	[1572864]
+[item]: num: -128, size: 0	[1572864]
+[ui]: num: 5, size: 1572864	[1572864]
+[terrain]: num: 0, size: 0	[1572864]
+[effect]: num: 0, size: 0	[1572864]
+[minimap]: num: 0, size: 0	[1572864]
+Release file:texture/ui2009/loading/l8.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1310720]
+[character]: num: 0, size: 0	[1310720]
+[item]: num: -128, size: 0	[1310720]
+[ui]: num: 4, size: 1310720	[1310720]
+[terrain]: num: 0, size: 0	[1310720]
+[effect]: num: 0, size: 0	[1310720]
+[minimap]: num: 0, size: 0	[1310720]
+Release file:texture/ui2009/loading/l9.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[1048576]
+[character]: num: 0, size: 0	[1048576]
+[item]: num: -128, size: 0	[1048576]
+[ui]: num: 3, size: 1048576	[1048576]
+[terrain]: num: 0, size: 0	[1048576]
+[effect]: num: 0, size: 0	[1048576]
+[minimap]: num: 0, size: 0	[1048576]
+Release file:texture/ui2009/loading/l10.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[786432]
+[character]: num: 0, size: 0	[786432]
+[item]: num: -128, size: 0	[786432]
+[ui]: num: 2, size: 786432	[786432]
+[terrain]: num: 0, size: 0	[786432]
+[effect]: num: 0, size: 0	[786432]
+[minimap]: num: 0, size: 0	[786432]
+Release file:texture/ui2009/loading/l11.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[524288]
+[character]: num: 0, size: 0	[524288]
+[item]: num: -128, size: 0	[524288]
+[ui]: num: 1, size: 524288	[524288]
+[terrain]: num: 0, size: 0	[524288]
+[effect]: num: 0, size: 0	[524288]
+[minimap]: num: 0, size: 0	[524288]
+Release file:texture/ui2009/loading/l12.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[262144]
+[character]: num: 0, size: 0	[262144]
+[item]: num: -128, size: 0	[262144]
+[ui]: num: 0, size: 262144	[262144]
+[terrain]: num: 0, size: 0	[262144]
+[effect]: num: 0, size: 0	[262144]
+[minimap]: num: 0, size: 0	[262144]
+Release file:texture/ui/loadprogress.tga
+width: 256	height: 256	format: 21	mem_size:262144
+[scene]: num: 0, size: 0	[0]
+[character]: num: 0, size: 0	[0]
+[item]: num: -128, size: 0	[0]
+[ui]: num: -1, size: 0	[0]
+[terrain]: num: 0, size: 0	[0]
+[effect]: num: 0, size: 0	[0]
+[minimap]: num: 0, size: 0	[0]
+type: scene, num: 0, size: 0
+type: character, num: 0, size: 0
+type: item, num: -128, size: 0
+type: ui, num: -1, size: 0
+type: terrain, num: 0, size: 0
+type: effect, num: 0, size: 0
+type: minimap, num: 0, size: 0
+Total num: -148, Total size: 0

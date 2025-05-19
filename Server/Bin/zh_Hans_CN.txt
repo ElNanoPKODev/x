@@ -1,0 +1,1127 @@
+// -*- Coding: UTF-8; -*-
+//
+// This file was dumped by derb(8) from ./
+// derb(8) by Vladimir Weinstein and Yves Arrouye
+
+zh_Hans_CN{
+    CO_COMMFUNC_CPP_00001 { "新手" }
+    CO_COMMFUNC_CPP_00002 { "剑士" }
+    CO_COMMFUNC_CPP_00003 { "猎人" }
+    CO_COMMFUNC_CPP_00004 { "水手" }
+    CO_COMMFUNC_CPP_00005 { "冒险者" }
+    CO_COMMFUNC_CPP_00006 { "药师" }
+    CO_COMMFUNC_CPP_00007 { "技师" }
+    CO_COMMFUNC_CPP_00008 { "商人" }
+    CO_COMMFUNC_CPP_00009 { "巨剑士" }
+    CO_COMMFUNC_CPP_00010 { "双剑士" }
+    CO_COMMFUNC_CPP_00011 { "剑盾士" }
+    CO_COMMFUNC_CPP_00012 { "驯兽师" }
+    CO_COMMFUNC_CPP_00013 { "狙击手" }
+    CO_COMMFUNC_CPP_00014 { "圣职者" }
+    CO_COMMFUNC_CPP_00015 { "封印师" }
+    CO_COMMFUNC_CPP_00016 { "船长" }
+    CO_COMMFUNC_CPP_00017 { "航海士" }
+    CO_COMMFUNC_CPP_00018 { "暴发户" }
+    CO_COMMFUNC_CPP_00019 { "工程师" }
+    CO_COMMFUNC_CPP_00020 { "白银城" }
+    CO_COMMFUNC_CPP_00021 { "雷霆堡" }
+    CO_COMMFUNC_CPP_00022 { "沙岚城" }
+    CO_COMMFUNC_CPP_00023 { "冰狼堡" }
+    CO_COMMFUNC_CPP_00024 { "陆地/海洋" }
+    CO_COMMFUNC_CPP_00025 { "非战斗区" }
+    CO_COMMFUNC_CPP_00026 { "非PK区" }
+    CO_COMMFUNC_CPP_00027 { "桥" }
+    CO_COMMFUNC_CPP_00028 { "禁怪区" }
+    CO_COMMFUNC_CPP_00029 { "矿区" }
+    CO_COMMFUNC_CPP_00030 { "未知" }
+    CO_COMMFUNC_H_00001 { "力量加成" }
+    CO_COMMFUNC_H_00002 { "敏捷加成" }
+    CO_COMMFUNC_H_00003 { "专注加成" }
+    CO_COMMFUNC_H_00004 { "体质加成" }
+    CO_COMMFUNC_H_00005 { "精神加成" }
+    CO_COMMFUNC_H_00006 { "幸运加成" }
+    CO_COMMFUNC_H_00007 { "攻击频率加成" }
+    CO_COMMFUNC_H_00008 { "攻击距离加成" }
+    CO_COMMFUNC_H_00009 { "最小攻击力加成" }
+    CO_COMMFUNC_H_00010 { "最大攻击力加成" }
+    CO_COMMFUNC_H_00011 { "防御加成" }
+    CO_COMMFUNC_H_00012 { "最大HP加成" }
+    CO_COMMFUNC_H_00013 { "最大SP加成" }
+    CO_COMMFUNC_H_00014 { "闪避率加成" }
+    CO_COMMFUNC_H_00015 { "命中率加成" }
+    CO_COMMFUNC_H_00016 { "爆击率加成" }
+    CO_COMMFUNC_H_00017 { "寻宝率加成" }
+    CO_COMMFUNC_H_00018 { "HP恢复速度加成" }
+    CO_COMMFUNC_H_00019 { "SP恢复速度加成" }
+    CO_COMMFUNC_H_00020 { "移动速度加成" }
+    CO_COMMFUNC_H_00021 { "资源采集速度加成" }
+    CO_COMMFUNC_H_00022 { "物理抵抗加成" }
+    CO_COMMFUNC_H_00023 { "最大耐久度" }
+    CO_COMMFUNC_H_00024 { "最大能量" }
+    CO_COMMFUNC_H_00025 { "未知道具属性" }
+    CO_COMMFUNC_H_00026 { "无效账号" }
+    CO_COMMFUNC_H_00027 { "密码错误" }
+    CO_COMMFUNC_H_00028 { "激活用户失败" }
+    CO_COMMFUNC_H_00029 { "目前您的角色正处于下线存盘过程中，请稍后再尝试登录。" }
+    CO_COMMFUNC_H_00030 { "此帐号已处于登录状态" }
+    CO_COMMFUNC_H_00031 { "帐号已封停" }
+    CO_COMMFUNC_H_00032 { "此GroupServer已登录" }
+    CO_COMMFUNC_H_00033 { "此GroupServer认证失败" }
+    CO_COMMFUNC_H_00034 { "正在保存你的角色，请15秒后重试…" }
+    CO_COMMFUNC_H_00035 { "你的账号在远处再次登录" }
+    CO_COMMFUNC_H_00036 { "你的账号已在线" }
+    CO_COMMFUNC_H_00037 { "GroupServer已断开" }
+    CO_COMMFUNC_H_00038 { "未知协议，不处理" }
+    CO_COMMFUNC_H_00039 { "本地存储错误" }
+    CO_COMMFUNC_H_00040 { "此账号已过期，请充值！" }
+    CO_COMMFUNC_H_00041 { "GateServer向GroupServer的登录失败" }
+    CO_COMMFUNC_H_00042 { "GateServer与已登录GateServer重名" }
+    CO_COMMFUNC_H_00043 { "无效的数据格式" }
+    CO_COMMFUNC_H_00044 { "服务器之间的操作完整性错误" }
+    CO_COMMFUNC_H_00045 { "帐号服务器故障" }
+    CO_COMMFUNC_H_00046 { "数据库服务器故障" }
+    CO_COMMFUNC_H_00047 { "当前帐号不拥有请求(选择/删除)的角色" }
+    CO_COMMFUNC_H_00048 { "已经达到最多能创建的角色数了" }
+    CO_COMMFUNC_H_00049 { "重复的角色名" }
+    CO_COMMFUNC_H_00050 { "非法的出生地" }
+    CO_COMMFUNC_H_00051 { "角色名太长" }
+    CO_COMMFUNC_H_00052 { "公会不可一日无长，请先解散公会再删除角色" }
+    CO_COMMFUNC_H_00053 { "非法的角色名称" }
+    CO_COMMFUNC_H_00054 { "系统忙，请稍后再试" }
+    CO_COMMFUNC_H_00055 { "二次密码长度非法" }
+    CO_COMMFUNC_H_00056 { "未创建角色保护二次密码" }
+    CO_COMMFUNC_H_00057 { "孩子，你很BT，已经自动对你作出了通报批评，要引以为戒，不可再犯！" }
+    CO_COMMFUNC_H_00058 { "GateServer发现的网络异常" }
+    CO_COMMFUNC_H_00059 { "当前未处于选择角色状态" }
+    CO_COMMFUNC_H_00060 { "当前不处于玩游戏状态，不能发送ENDPLAY命令" }
+    CO_COMMFUNC_H_00061 { "目标地图不可到达" }
+    CO_COMMFUNC_H_00062 { "本服务器组人数已满, 请选择其它组进行游戏!" }
+    CO_COMMFUNC_H_00063 { "你尚未登陆" }
+    CO_COMMFUNC_H_00064 { "客户端的版本号错误,服务器拒绝登录！" }
+    CO_COMMFUNC_H_00065 { "进入地图失败！" }
+    CO_COMMFUNC_H_00066 { "地图位置非法，您将被送回出生城市，请重新登陆！" }
+    CO_COMMFUNC_H_00067 { "GameServer名重复" }
+    CO_COMMFUNC_H_00068 { "GameServer上地图名重复" }
+    CO_COMMFUNC_H_00069 { "GameServer地图配置语法错误" }
+    CO_COMMFUNC_H_00070 { "Jack太BT了，正确也来问我什么错误！" }
+    CO_COMMFUNC_H_00071 { "(GameServer/GateServer->Client返回的错误码空间1－500)" }
+    CO_COMMFUNC_H_00072 { "(GroupServer->GateServer返回的错误码空间501－1000)" }
+    CO_COMMFUNC_H_00073 { "(AccountServer->GroupServer返回的错误码空间1001－1500)" }
+    CO_COMMFUNC_H_00074 { "(GameServer->GateServer返回的错误码空间1501－2000)" }
+    CO_COMMFUNC_H_00075 { "(Jack太BT了，弄个错误连我都不认识。)" }
+    CO_COMMFUNC_H_00076 { "道具操作成功" }
+    CO_COMMFUNC_H_00077 { "道具不存在" }
+    CO_COMMFUNC_H_00078 { "道具栏已满" }
+    CO_COMMFUNC_H_00079 { "道具使用失败" }
+    CO_COMMFUNC_H_00080 { "道具不能拾取" }
+    CO_COMMFUNC_H_00081 { "道具不能丢弃" }
+    CO_COMMFUNC_H_00082 { "道具不能销毁" }
+    CO_COMMFUNC_H_00083 { "道具栏处于锁定状态" }
+    CO_COMMFUNC_H_00084 { "距离太远" }
+    CO_COMMFUNC_H_00085 { "装备等级不满足" }
+    CO_COMMFUNC_H_00086 { "装备职业不满足" }
+    CO_COMMFUNC_H_00087 { "该状态下不能操作道具" }
+    CO_COMMFUNC_H_00088 { "道具被保护" }
+    CO_COMMFUNC_H_00089 { "不同的区域类型" }
+    CO_COMMFUNC_H_00090 { "体型不匹配" }
+    CO_COMMFUNC_H_00091 { "此道具无法存放" }
+    CO_COMMFUNC_H_00092 { "无效的道具" }
+    CO_COMMFUNC_H_00093 { "超出道具栏范围" }
+    CO_COMMFUNC_H_00094 { "未知的道具操作失败码" }
+    CO_COMMFUNC_H_00095 { "技能使用成功" }
+    CO_COMMFUNC_H_00096 { "目标是NPC" }
+    CO_COMMFUNC_H_00097 { "目标不能被攻击" }
+    CO_COMMFUNC_H_00098 { "目标在安全区" }
+    CO_COMMFUNC_H_00099 { "不是陆地技能" }
+    CO_COMMFUNC_H_00100 { "不是海洋技能" }
+    CO_COMMFUNC_H_00101 { "技能只能用于自己" }
+    CO_COMMFUNC_H_00102 { "技能只能用于玩家尸体" }
+    CO_COMMFUNC_H_00103 { "技能不能用于友方" }
+    CO_COMMFUNC_H_00104 { "技能只能用于友方" }
+    CO_COMMFUNC_H_00105 { "技能只能用于玩家" }
+    CO_COMMFUNC_H_00106 { "技能只能用于怪物" }
+    CO_COMMFUNC_H_00107 { "未知的技能使用失败码" }
+    AS_ACCOUNTSERVER2_CPP_00001 { "已连接" }
+    AS_ACCOUNTSERVER2_CPP_00002 { "无法连接数据库,5秒后重连！\n" }
+    AS_ACCOUNTSERVER2_CPP_00003 { "user=[%s] 正在Tom认证..." }
+    AS_ACCOUNTSERVER2_CPP_00004 { "失败RelativePath=\".\Src\"\n" }
+    AS_ACCOUNTSERVER2_CPP_00005 { "AuthThread#%d连接Auth数据库成功\n" }
+    AS_ACCOUNTSERVER2_CPP_00006 { "正在等待线程池内的子线程退出,请稍候\n" }
+    AS_MAIN_CPP_00002 { "请勿直接关闭本控制台！版本时间：" }
+    AS_MAIN_CPP_00003 { "数据库联接失败,系统终止！\n" }
+    AS_MAIN_CPP_00004 { "创建Bill系统失败,系统终止！\n" }
+    AS_MAIN_CPP_00005 { "初始Tom系统失败,系统终止！\n" }
+    AS_MAIN_CPP_00006 { "系统初始化期间发生未知错误,请通知开发者\n" }
+    AS_MAIN_CPP_00007 { "通知AccountServer退出RelativePath=\".\Src\"\n" }
+    AS_MAIN_CPP_00008 { "AccountServer" }
+    AS_MAIN_CPP_00009 { "线程" }
+    AS_MAIN_CPP_00010 { "Run Label" }
+    AS_MAIN_CPP_00011 { "Last/Max Consume (ms)" }
+    AS_MAIN_CPP_00012 { "Name" }
+    AS_MAIN_CPP_00013 { "Group IP" }
+    AS_MAIN_CPP_00014 { "Status" }
+    AS_MAIN_CPP_00015 { "BTS" }
+    AS_MAIN_CPP_00016 { "Server IP" }
+    AS_MAIN_CPP_00017 { "Bill/Disconn Count" }
+    AS_MAIN_CPP_00018 { "认证" }
+    AS_MAIN_CPP_00019 { "队列包： 0" }
+    AS_MAIN_CPP_00020 { "并发数： 0" }
+    AS_MAIN_CPP_00021 { "GroupServer" }
+    AS_MAIN_CPP_00022 { "计费" }
+    AS_MAIN_CPP_00023 { "退出" }
+    AS_MAIN_CPP_00024 { "队列包： %d" }
+    AS_MAIN_CPP_00025 { "并发数： %d" }
+    GP_DBCONNECT_CPP_00001 { "[无]" }
+    GP_FRIEND_H_00001 { "好友" }
+    GP_GROUPSERVERAPPCHAT_CPP_00001 { "你没有该权限." }
+    GP_GROUPSERVERAPPCHAT_CPP_00002 { "你已经被禁言，请稍后再试！" }
+    GP_GROUPSERVERAPPCHAT_CPP_00003 { "请勿频繁发言" }
+    GP_GROUPSERVERAPPCHAT_CPP_00004 { "【%s】目前不在线上" }
+    GP_GROUPSERVERAPPCHAT_CPP_00005 { "不能对自己发私聊消息。" }
+    GP_GROUPSERVERAPPCHAT_CPP_00006 { "玩家【%s】当前处于拒绝私聊状态。" }
+    GP_GROUPSERVERAPPCHAT_CPP_00007 { "你当前的聊天窗口数已经达到系统的最大上限了." }
+    GP_GROUPSERVERAPPCHAT_CPP_00008 { "您要创建会话的玩家数过多." }
+    GP_GROUPSERVERAPPCHAT_CPP_00009 { "玩家【%s】目前不在线上." }
+    GP_GROUPSERVERAPPCHAT_CPP_00010 { "玩家【%s】当前处于拒绝会话状态." }
+    GP_GROUPSERVERAPPCHAT_CPP_00011 { "玩家【%s】的聊天窗口数已经达到系统的最大上限了." }
+    GP_GROUPSERVERAPPCHAT_CPP_00012 { "已经有一个相同成员的会话了." }
+    GP_GROUPSERVERAPPCHAT_CPP_00013 { "玩家【%s】已经在你的聊天窗口里面." }
+    GP_GROUPSERVERAPPCHAT_CPP_00014 { "会话的玩家数已经达到系统上限了，不能再添加了。" }
+    GP_GROUPSERVERAPPFRND_CPP_00001 { "您的好友数已经达到允许的上限了，好友邀请被取消。" }
+    GP_GROUPSERVERAPPFRND_CPP_00002 { "您所邀请的玩家【%s】当前不在线上。" }
+    GP_GROUPSERVERAPPFRND_CPP_00003 { "您当前对【%s】已经有一个未决的好友邀请，请稍安毋躁。" }
+    GP_GROUPSERVERAPPFRND_CPP_00005 { "【%s】当前已经有一个对你的好友邀请，请接受即可。" }
+    GP_GROUPSERVERAPPFRND_CPP_00006 { "您所邀请的玩家【%s】的好友数目已经达到允许的上限了。" }
+    GP_GROUPSERVERAPPFRND_CPP_00007 { "您和玩家【%s】已经是好友了。" }
+    GP_GROUPSERVERAPPFRND_CPP_00009 { "您所邀请的好友玩家【%s】由于被邀请过多而处于繁忙状态,你对其的邀请已被系统取消。" }
+    GP_GROUPSERVERAPPFRND_CPP_00010 { "玩家【%s】拒绝了您的好友邀请。" }
+    GP_GROUPSERVERAPPFRND_CPP_00011 { "您的好友数已达到允许的上限了。" }
+    GP_GROUPSERVERAPPFRND_CPP_00012 { "邀请者【%s】的好友数已达到允许的上限了。" }
+    GP_GROUPSERVERAPPFRND_CPP_00018 { "您与您要删除的玩家不是好友关系，请联系客服处理。" }
+    GP_GROUPSERVERAPPFRND_CPP_00021 { "您当前的好友分组数已经达到系统允许上限了！" }
+    GP_GROUPSERVERAPPFRND_CPP_00022 { "你对【%s】的好友邀请已超过%d秒钟没有回应，系统自动取消了你的邀请。" }
+    GP_GROUPSERVERAPPFRND_CPP_00023 { "上线通知的好友数：" }
+    GP_GROUPSERVERAPPINIT_CPP_00001 { "初始化师徒关系表失败！" }
+    GP_GROUPSERVERAPPINIT_CPP_00002 { "%s,%d 打开失败！请检查端口 %d 是否被占用或者GroupServer.cfg的Listen_IP参数配置是否正确." }
+    GP_GROUPSERVERAPPINIT_CPP_00003 { "触发器初始化失败" }
+    GP_GROUPSERVERAPPINIT_CPP_00004 { "公会表尚未执行初始化SQL语句" }
+    GP_GROUPSERVERAPPINIT_CPP_00005 { "连接AccountServer:(%s,%d)失败,5秒后再次重连…" }
+    GP_GROUPSERVERAPPINIT_CPP_00006 { "在AccountServer:(%s,%d)上登录超时,5秒钟后重新连接和登录..." }
+    GP_GROUPSERVERAPPINIT_CPP_00007 { "在AccountServer:(%s,%d)上登录失败,5秒钟后重新连接和登录..." }
+    GP_GROUPSERVERAPPMASTER_CPP_00001 { "你们不是师徒关系！" }
+    GP_GROUPSERVERAPPMASTER_CPP_00003 { "对方已经有导师了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00004 { "您已经有导师了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00005 { "您的学徒数已经达到允许的上限了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00006 { "对方的学徒数已经达到允许的上限了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00007 { "玩家【%s】当前不在线上。" }
+    GP_GROUPSERVERAPPMASTER_CPP_00008 { "您当前对【%s】已经有一个未决的拜师申请，请稍安毋躁。" }
+    GP_GROUPSERVERAPPMASTER_CPP_00009 { "【%s】当前已经有一个对你的拜师申请，请接受即可。" }
+    GP_GROUPSERVERAPPMASTER_CPP_00011 { "你们已经是师徒了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00012 { "玩家【%s】处于繁忙状态!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00013 { "【%s】已经有导师了!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00014 { "恭喜您收了徒弟!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00015 { "恭喜您拜了师父!" }
+    GP_GROUPSERVERAPPMASTER_CPP_00016 { "你对【%s】的拜师申请已超过%d秒钟没有回应，系统自动取消了你的申请。" }
+    GP_GROUPSERVERAPPMASTER_CPP_00017 { "学徒" }
+    GP_GROUPSERVERAPPMASTER_CPP_00018 { "导师" }
+    GP_GROUPSERVERAPPPRSN_CPP_00001 { "个性图标值非法" }
+    GP_GROUPSERVERAPPPRSN_CPP_00002 { "座右铭格式非法" }
+    GP_GROUPSERVERAPPPRSN_CPP_00003 { "你们不是好友关系！" }
+    GP_GROUPSERVERAPPSERV_CPP_00001 { "服务器到玩家【%s】的ping值为:%l毫秒" }
+    GP_GROUPSERVERAPPSERV_CPP_00002 { "【通报批评】已经发现一位BT孩子[帐号:%s,角色:%s]。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00001 { "只有队长才能发出组队邀请。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00002 { "你的队伍成员数已经达到了系统允许的上限了。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00003 { "你所邀请的玩家【%s】当前不在线上。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00004 { "你所邀请的玩家【%s】当前处于组队状态。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00005 { "您当前对【%s】已经有一个未决的组队邀请，请稍安毋躁。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00007 { "你所邀请的组队玩家【%s】由于被邀请过多而处于繁忙状态,你对其的邀请已被系统取消。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00008 { "玩家【%s】拒绝了您的组队邀请。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00010 { "您不是队长!" }
+    GP_GROUPSERVERAPPTEAM_CPP_00011 { "对方不是队长!" }
+    GP_GROUPSERVERAPPTEAM_CPP_00012 { "对方的队伍成员数已经达到了系统允许的上限了!" }
+    GP_GROUPSERVERAPPTEAM_CPP_00014 { "玩家【%s】当前不在线上!" }
+    GP_GROUPSERVERAPPTEAM_CPP_00015 { "玩家【%s】当前处于组队状态。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00016 { "玩家【%s】处于繁忙状态,你对其的邀请已被系统取消。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00017 { "你要加入的组队成员数已达到允许的上限。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00028 { "你邀请的【%s】已经加入了别的组队，你的邀请被取消。" }
+    GP_GROUPSERVERAPPTEAM_CPP_00029 { "你对【%s】的组队邀请已超过%d秒钟没有回应，系统自动取消了你的邀请。" }
+    GP_GROUPSERVERAPP_CPP_00001 { "白银城" }
+    GP_GROUPSERVERAPP_CPP_00002 { "沙岚城" }
+    GP_GROUPSERVERAPP_CPP_00003 { "冰狼堡" }
+    GP_GROUPSMAIN_CPP_00001 { "请输入命令(exit或Ctrl+C退出):\n" }
+    GP_GROUPSMAIN_CPP_00002 { "开始退出..." }
+    GP_GROUPSMAIN_CPP_00003 { "不支持的命令！" }
+    GP_GUILD_CPP_00001 { "你所属的公会将在%d分钟内因为[%s]而解散." }
+    GP_GUILD_CPP_00002 { "会费不足" }
+    GP_GUILD_CPP_00003 { "成员数不足" }
+    GP_GUILD_CPP_00004 { "会长声望不足" }
+    GP_PLAYER_CPP_00001 { "上次登录IP:%s;上次断开连接的时间/原因:%s/%s" }
+    GP_PLAYER_CPP_00002 { "玩家【%s】当前不在线上" }
+    GP_PLAYER_CPP_00003 { "【%s】上次登录IP:%s;上次断开连接的时间/原因:%s /%s" }
+    GP_PLAYER_CPP_00004 { "当前登录/游戏玩家数：%l/%l" }
+    GP_PLAYER_CPP_00005 { "玩家【%s】当前不在线上" }
+    GP_PLAYER_CPP_00006 { "bbs格式:@@ bbs [间隔×10秒],[次数],[内容]" }
+    GP_PLAYER_CPP_00007 { "间隔必须>1" }
+    GP_PLAYER_CPP_00008 { "次数必须>1" }
+    GP_PLAYER_CPP_00009 { "内容长度必须>0" }
+    GP_PLAYER_CPP_00010 { "权限不足。" }
+    GP_PLAYER_CPP_00011 { "你没有权限！" }
+    GP_PLAYER_CPP_00012 { "禁言格式：@@ estop [被禁言角色名称],[禁言时间（单位分钟）]" }
+    GP_PLAYER_CPP_00013 { "解除禁言格式：@@ delestop [被禁言角色名称]" }
+    GP_PLAYER_CPP_00014 { "屏蔽角色帐号格式：@@ disable [被屏蔽角色名称]" }
+    GP_PLAYER_CPP_00015 { "不支持的命令。" }
+    GP_PLAYER_CPP_00016 { "禁言已被解除！" }
+    GP_PLAYER_CPP_00017 { "你已经被系统禁言！" }
+    GP_PLAYER_CPP_00018 { "解除禁言角色《%s》不存在！" }
+    GP_PLAYER_CPP_00019 { "解除角色《%s》禁言操作成功！" }
+    GP_PLAYER_CPP_00020 { "你已经被GM《%s》解除禁言！" }
+    GP_PLAYER_CPP_00022 { "]解除禁言plyname:[" }
+    GP_PLAYER_CPP_00023 { "禁言角色《%s》不存在！" }
+    GP_PLAYER_CPP_00024 { "禁言角色《%s》%d分钟操作成功！" }
+    GP_PLAYER_CPP_00025 { "你被GM角色《%s》禁言%d分钟！" }
+    GP_PLAYER_CPP_00028 { "屏蔽角色《%s》帐号操作成功！" }
+    GP_PLAYER_CPP_00031 { "屏蔽角色《%s》不存在！" }
+    GP_PLAYER_CPP_00032 { "屏蔽角色《%s》帐号操作成功！" }
+    GS_GATESERVER_CPP_00001 { "请输入命令(exit或Ctrl+C退出):\n" }
+    GS_GATESERVER_CPP_00002 { "开始退出…" }
+    GS_GATESERVER_CPP_00003 { "客户数：" }
+    GS_GATESERVER_CPP_00004 { "[发送]{pkt/s:" }
+    GS_GATESERVER_CPP_00005 { "[接收]{pkt/s:" }
+    GS_GATESERVER_CPP_00006 { "[Max发送]{pkt/s:" }
+    GS_GATESERVER_CPP_00007 { "[Max接收]{pkt/s:" }
+    GS_GATESERVER_CPP_00008 { "当前允许最大连接值：" }
+    GS_GATESERVER_CPP_00009 { "最大连接数不能超过1500,当前的最大连接已设置成最大值1500" }
+    GS_GATESERVER_CPP_00010 { "设置成功，最大连接数:" }
+    GS_GATESERVER_CPP_00011 { "setshowrange 参数1,参数2" }
+    GS_GATESERVER_CPP_00012 { "不支持的命令！" }
+    GS_GATESERVER_CPP_00013 { "InitReference warning: %s重复进入连接信息！" }
+    GS_GATESERVER_CPP_00014 { "InitReference warning: %s重复进入连接信息！Exception" }
+    GS_GATESERVER_CPP_00015 { "监听数量功能创建失败" }
+    GS_GATESERVER_CPP_00016 { "GateServer 初始化期间发生未知错误，请通知开发者!" }
+    GS_GATESERVER_CPP_00017 { "GateServer 启动成功!" }
+    GS_GATESERVER_CPP_00018 { "GateServer 成功退出!" }
+    GS_TOCLIENT_CPP_00001 { "初始允许最多%d个客户端端连接，请使用setmaxcon [数字]命令修改,但最大只能设置到1500" }
+    GS_TOCLIENT_CPP_00002 { "client:%d[发送]{pkt/s:%d}{pkt:%d}{KB/s:%d}{KB:%d}[接收]{pkt/s:%d}{pkt:%d}{KB/s:%d}{KB:%d}" }
+    GS_TOCLIENT_CPP_00011 { "GroupServer要求踢掉此人。" }
+    GS_TOCLIENT_CPP_00012 { "GameServer要求踢掉此人。" }
+    GS_TOCLIENT_CPP_00013 { "玩家切换地图时因为目标地图不可达而被踢掉。" }
+    GS_TOCLIENT_CPP_00014 { "玩家在GroupServer上的资料一致性有误而被GroupServer要求踢掉。" }
+    GS_TOCLIENT_CPP_00015 { "用户Logout。" }
+    GS_TOCLIENT_CPP_00016 { "因GameServer故障，其上的所有玩家都被踢掉。" }
+    GS_TOCLIENT_CPP_00017 { "用户登录错误。" }
+    GS_TOCLIENT_CPP_00018 { "你已经被系统禁言！" }
+    GS_TOCLIENT_CPP_00031 { "地图服务器故障，请稍后再试…" }
+    GS_TOGROUPSERVER_CPP_00001 { "连接GroupServer开始…" }
+    GS_TOGROUPSERVER_CPP_00002 { "连接GroupServer失败，等待5秒后自动重连…" }
+    GS_TOGROUPSERVER_CPP_00003 { "登录GroupServer失败，可能是GateServer数量太多,等待5秒钟后自动重连…" }
+    GS_TOGROUPSERVER_CPP_00004 { "登录GroupServer成功!" }
+    GM_ACTION_CPP_00001 { "缓存行动管理对象构造过程中分配内存失败" }
+    GM_AUCTIONITEM_CPP_00001 { "道具栏已锁定,不能竞拍!" }
+    GM_AUCTIONITEM_CPP_00002 { "读书状态,不能竞拍!" }
+    GM_AUCTIONITEM_CPP_00003 { "你的资金不足!" }
+    GM_AUCTIONITEM_CPP_00004 { "系统" }
+    GM_AUCTIONITEM_CPP_00005 { "你出价太低!" }
+    GM_AUCTION_CPP_00001 { "StartAuction:存在重复的ID(%d), name = %s!" }
+    GM_AUCTION_CPP_00002 { "StartAuction:内存分配不足,ID(%d), name = %s!" }
+    GM_AUCTION_CPP_00003 { "EndAuction:不存在的ID(%d)!" }
+    GM_AUCTION_CPP_00004 { "竞拍已结束!" }
+    GM_BIRTHPLACE_H_00001 { "白银城" }
+    GM_CHARACTERCMD_CPP_00001 { "消耗道具，名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00002 { "扔道具（卸到地面），名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00003 { "你身上携带的船只数量已满，不可以再拾取物品《%s》！" }
+    GM_CHARACTERCMD_CPP_00004 { "拾取船长证明后，添加船只失败！ID[0x%X]" }
+    GM_CHARACTERCMD_CPP_00005 { "捡道具，名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00006 { "您的队友{0}捡到{1}个{2}" }
+    GM_CHARACTERCMD_CPP_00007 { "道具栏已满!" }
+    GM_CHARACTERCMD_CPP_00008 { "丢弃《%s》失败，你正在使用该船！" }
+    GM_CHARACTERCMD_CPP_00009 { "扔道具，名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00010 { "销毁《%s》失败，你正在使用该船！" }
+    GM_CHARACTERCMD_CPP_00011 { "删除道具，名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00012 { "银行操作[%s-->%s]，名称 %s[%u]，个数 %u." }
+    GM_CHARACTERCMD_CPP_00013 { "道具栏" }
+    GM_CHARACTERCMD_CPP_00014 { "银行" }
+    GM_CHARACTERCMD_CPP_00015 { "再分配属性的个数错误" }
+    GM_CHARACTERCMD_CPP_00016 { "本地图不处理PK请求，或对应地图没有启动！" }
+    GM_CHARACTERCMD_CPP_00017 { "对象无效！" }
+    GM_CHARACTERCMD_CPP_00018 { "死亡状态，不能进行操作！" }
+    GM_CHARACTERCMD_CPP_00019 { "请到指定区域内邀请！" }
+    GM_CHARACTERCMD_CPP_00020 { "对方不在邀请区域内！" }
+    GM_CHARACTERCMD_CPP_00021 { "非玩家角色！" }
+    GM_CHARACTERCMD_CPP_00022 { "超出邀请范围！" }
+    GM_CHARACTERCMD_CPP_00023 { "您已经有其他的邀请！" }
+    GM_CHARACTERCMD_CPP_00024 { "对方已经有其他的邀请！" }
+    GM_CHARACTERCMD_CPP_00025 { "不在组队模式！" }
+    GM_CHARACTERCMD_CPP_00026 { "对方不在组队模式！" }
+    GM_CHARACTERCMD_CPP_00027 { "同一队伍不能单人PK！" }
+    GM_CHARACTERCMD_CPP_00028 { "对方不能接受邀请！" }
+    GM_CHARACTERCMD_CPP_00029 { "您不在指定区域内，将不能接受邀请！" }
+    GM_CHARACTERCMD_CPP_00030 { "没有受过邀请！" }
+    GM_CHARACTERCMD_CPP_00031 { "该邀请已经无效！" }
+    GM_CHARACTERCMD_CPP_00032 { "不在受邀请之列！" }
+    GM_CHARACTERCMD_CPP_00033 { " 取消了PK请求！" }
+    GM_CHARACTERCMD_CPP_00034 { "本地图不处理PK请求，或对应地图没有启动！" }
+    GM_CHARACTERCMD_CPP_00035 { "当前没有空闲场地，请稍后操作！" }
+    GM_CHARACTERCMD_CPP_00036 { "请求场地人数已满，请稍后操作！" }
+    GM_CHARACTERCMD_CPP_00037 { "您处于死亡状态，将不能进入PK" }
+    GM_CHARACTERCMD_CPP_00038 { "您不在PK邀请区内，将不能进入PK" }
+    GM_CHARACTERCMD_CPP_00039 { "您已经不在先前的邀请队伍，将不能进入PK" }
+    GM_CHARACTERCMD_CPP_00040 { "您已经不在先前的邀请之列，将不能进入PK" }
+    GM_CHARACTERCMD_CPP_00041 { "对方已经没有人员可进入PK！" }
+    GM_CHARACTERCMD_CPP_00042 { "副本编号：" }
+    GM_CHARACTERCMD_CPP_00043 { "进入人数：" }
+    GM_CHARACTERCMD_CPP_00044 { "已经在修理中！" }
+    GM_CHARACTERCMD_CPP_00045 { "距离太远！" }
+    GM_CHARACTERCMD_CPP_00046 { "无效的道具！" }
+    GM_CHARACTERCMD_CPP_00047 { "未知的修理费用！" }
+    GM_CHARACTERCMD_CPP_00048 { "没有任何修理！" }
+    GM_CHARACTERCMD_CPP_00049 { "道具已经变动，不能继续修理！" }
+    GM_CHARACTERCMD_CPP_00050 { "道具栏已锁定！" }
+    GM_CHARACTERCMD_CPP_00051 { "读书状态，不能精炼！" }
+    GM_CHARACTERCMD_CPP_00052 { "之前的请求没有完成！" }
+    GM_CHARACTERCMD_CPP_00053 { "请求失败！" }
+    GM_CHARACTERCMD_CPP_00054 { "提交道具与所拥有道具不符合，请求被拒绝！" }
+    GM_CHARACTERCMD_CPP_00055 { "操作类型错误！%d" }
+    GM_CHARACTERCMD_CPP_00056 { "不能操作，请求被拒绝！" }
+    GM_CHARACTERCMD_CPP_00057 { "背包被锁定，不能进行相关操作." }
+    GM_CHARACTERCMD_CPP_00058 { "读书状态，不能进行相关操作." }
+    GM_CHARACTERCMD_CPP_00059 { "没有任何请求！" }
+    GM_CHARACTERCMD_CPP_00060 { "操作失败！" }
+    GM_CHARACTERCMD_CPP_00061 { "对不起,您没有勇者之证,请去乱斗管理员处领取勇者之证." }
+    GM_CHARACTERPRL_CPP_00001 { "请勿频繁发言！" }
+    GM_CHARACTERPRL_CPP_00002 { "您没有该权限\n" }
+    GM_CHARACTERPRL_CPP_00003 { "你的船只没有出海！" }
+    GM_CHARACTERPRL_CPP_00004 { "船上不能读书！" }
+    GM_CHARACTERPRL_CPP_00005 { "船上不能结束读书！" }
+    GM_CHARACTERPRL_CPP_00006 { "工会名包含非法字符！" }
+    GM_CHARACTERPRL_CPP_00007 { "此地图不能退会!" }
+    GM_CHARACTERPRL_CPP_00008 { "读书时不允许打开商城！" }
+    GM_CHARACTERPRL_CPP_00009 { "商城操作过于频繁,请稍后再试!" }
+    GM_CHARACTERPRL_CPP_00010 { "二次密码不正确!" }
+    GM_CHARACTERPRL_CPP_00011 { "你已经是白金会员了!" }
+    GM_CHARACTERPRL_CPP_00012 { "%s 已经离开了!" }
+    GM_CHARACTERPRL_CPP_00013 { "你不能同自己组队!" }
+    GM_CHARACTERPRL_CPP_00014 { "很遗憾的, 你们不在同一个地图!" }
+    GM_CHARACTERPRL_CPP_00015 { "此地图不能组队!" }
+    GM_CHARACTERPRL_CPP_00016 { "您的邀请已发出,请耐心等待回应!" }
+    GM_CHARACTERPRL_CPP_00017 { "对方等级不够!" }
+    GM_CHARACTERPRL_CPP_00018 { "%s 不同意和您组队!" }
+    GM_CHARACTERPRL_CPP_00019 { "船上不能拜师!" }
+    GM_CHARACTERPRL_CPP_00020 { "您的等级太高了!" }
+    GM_CHARACTERPRL_CPP_00021 { "您已经有师父了!" }
+    GM_CHARACTERPRL_CPP_00022 { "对方在接受其他人的邀请!" }
+    GM_CHARACTERPRL_CPP_00023 { "船上不能收徒!" }
+    GM_CHARACTERPRL_CPP_00024 { "您的等级不够!" }
+    GM_CHARACTERPRL_CPP_00025 { "对方的等级太高了!" }
+    GM_CHARACTERPRL_CPP_00026 { "%s 不同意收你为徒!" }
+    GM_CHARACTERPRL_CPP_00027 { "您已经出师了!" }
+    GM_CHARACTERPRL_CPP_00028 { "您的金钱不够!" }
+    GM_CHARACTERPRL_CPP_00029 { "您的声望下降了!" }
+    GM_CHARACTERPRL_CPP_00030 { "%s 不同意拜你为师!" }
+    GM_CHARACTERPRL_CPP_00031 { "你还没有加入公会!" }
+    GM_CHARACTERPRL_CPP_00032 { "本频道只能在圣战地图内使用!" }
+    GM_CHARACTERPRL_CPP_00033 { "邮件长度非法!" }
+    GM_CHARACTERPRL_CPP_00034 { "竞价NPCID%d无效！" }
+    GM_CHARACTERPRL_CPP_00035 { "不合法的行动请求（先前的行动没有结束）\n" }
+    GM_CHARACTERPRL_CPP_00036 { "移动路径错误，没有移动序列点\n" }
+    GM_CHARACTERPRL_CPP_00037 { "移动路径错误（拐点数：%d，最大拐点数：%d）\n" }
+    GM_CHARACTERPRL_CPP_00038 { "背包处于锁定状态，施放技能失败！\n" }
+    GM_CHARACTERPRL_CPP_00039 { "请先关闭银行！\n" }
+    GM_CHARACTERPRL_CPP_00040 { "技能不存在（技能编号: %d）\n" }
+    GM_CHARACTERPRL_CPP_00041 { "该行动类型（直接使用技能）已经作废" }
+    GM_CHARACTERPRL_CPP_00042 { "请求更换发型失败, 道具栏已锁" }
+    GM_CHARACTERPRL_CPP_00043 { "请求更换发型失败, 无效发型ID = %d" }
+    GM_CHARACTERPRL_CPP_00044 { "更换发型失败, 缺少需要的道具" }
+    GM_CHARACTERPRL_CPP_00045 { "理发师" }
+    GM_CHARACTERPRL_CPP_00046 { "更换发型失败, 金钱不足!" }
+    GM_CHARACTERPRL_CPP_00047 { "更换发型失败, 需要的道具不存在或者道具数量不足!" }
+    GM_CHARACTERPRL_CPP_00048 { "你的运气真糟糕, 发型搞砸了!" }
+    GM_CHARACTERRUN_CPP_00001 { "新建角色《%s》存储角色初始任务信息失败！ID[0x%X]" }
+    GM_CHARACTERSUPERCMD_CPP_00001 { "权限不够！" }
+    GM_CHARACTERSUPERCMD_CPP_00002 { "NPC对话和任务lua脚本更新成功！" }
+    GM_CHARACTERSUPERCMD_CPP_00003 { "设置任务历史标记成功！ID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00004 { "清除任务历史标记成功！ID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00005 { "清除任务历史标记失败！ID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00006 { "设置任务标记成功！ID[%d], FLAG[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00007 { "设置任务标记失败！ID[%d], FLAG[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00008 { "清除任务标记成功！ID[%d], FLAG[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00009 { "清除任务标记失败！ID[%d], FLAG[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00010 { "添加任务成功！MID[%d], SID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00011 { "添加任务失败！MID[%d], SID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00012 { "清除任务成功！MID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00013 { "清除任务失败！MID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00014 { "删除任务成功！MID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00015 { "删除任务失败！MID[%d]" }
+    GM_CHARACTERSUPERCMD_CPP_00016 { "清除角色任务标签信息和触发器信息成功！" }
+    GM_CHARACTERSUPERCMD_CPP_00017 { "障碍" }
+    GM_CHARACTERSUPERCMD_CPP_00018 { "非障碍" }
+    GM_CHARACTERSUPERCMD_CPP_00019 { "召唤宠物失败" }
+    GM_CHARACTERSUPERCMD_CPP_00020 { "创建怪物失败！" }
+    GM_CHARACTERSUPERCMD_CPP_00021 { "创建角色失败！" }
+    GM_CHARACTERSUPERCMD_CPP_00022 { "删除怪物数目：%u.！" }
+    GM_CHARACTERSUPERCMD_CPP_00023 { "系统" }
+    GM_CHARACTERSUPERCMD_CPP_00024 { "系统给了你%ld生活经验！" }
+    GM_CHARACTERSUPERCMD_CPP_00025 { "系统给了你%ld转生经验！" }
+    GM_CHARACTERSUPERCMD_CPP_00026 { "添加%ld贸易税点！" }
+    GM_CHARACTERSUPERCMD_CPP_00027 { "设置贸易等级%ld！" }
+    GM_CHARACTERSUPERCMD_CPP_00028 { "没有搜索到目标或目标不是角色类对象！" }
+    GM_CHARACTERSUPERCMD_CPP_00029 { "目标[%s]的属性为%d的值是%d！" }
+    GM_CHARACTERSUPERCMD_CPP_00030 { "学习技能失败（请检查学习等级，职业限制，前置技能限制等）：编号 %d，等级 %d.！" }
+    GM_CHARACTERSUPERCMD_CPP_00031 { "删除道具失败！" }
+    GM_CHARACTERSUPERCMD_CPP_00032 { "参数错误" }
+    GM_CHARACTERSUPERCMD_CPP_00033 { "当前ping：%d" }
+    GM_CHARACTERSUPERCMD_CPP_00034 { "增加背包容量失败（找不到该角色）.！" }
+    GM_CHARACTERSUPERCMD_CPP_00035 { "增加 %s 的背包容量失败（容量非法）.！" }
+    GM_CHARACTERSUPERCMD_CPP_00036 { "增加背包容量成功，当前容量 %d.！" }
+    GM_CHARACTERSUPERCMD_CPP_00037 { "增加 %s 的背包容量成功，当前容量 %d.！" }
+    GM_CHARACTERSUPERCMD_CPP_00038 { "格式错误！" }
+    GM_CHARACTERSUPERCMD_CPP_00039 { "设置背包道具有效性失败！" }
+    GM_CHARACTERSUPERCMD_CPP_00040 { "你想打听什么?" }
+    GM_CHARACTERSUPERCMD_CPP_00041 { "附近没有可以回答问题的人!" }
+    GM_CHARACTERSUPERCMD_CPP_00042 { "打听有关'%s':\n" }
+    GM_CHARACTERSUPERCMD_CPP_00043 { "新一代爆头专家" }
+    GM_CHARACTERSUPERCMD_CPP_00044 { "真糟糕,看来我年纪大了,你问倒我了!" }
+    GM_CHARACTERSUPERCMD_CPP_00045 { "万事通" }
+    GM_CHARACTERSUPERCMD_CPP_00046 { "对不起, Money Talk!" }
+    GM_CHARACTERSUPERCMD_CPP_00047 { "GM权限非开放日" }
+    GM_CHARACTER_CPP_00001 { "当前交易状态,不可以中断任务！" }
+    GM_CHARACTER_CPP_00002 { "道具栏已锁定！" }
+    GM_CHARACTER_CPP_00003 { "正在读书，不可以交易！" }
+    GM_CHARACTER_CPP_00004 { "物品栏位索引错误！ID = %d" }
+    GM_CHARACTER_CPP_00005 { "物品ID错误，无法找到该物品信息！ID = %d" }
+    GM_CHARACTER_CPP_00006 { "该物品《%s》不可交易！" }
+    GM_CHARACTER_CPP_00007 { "未发现该物品索引栏位(%d)的物品信息！" }
+    GM_CHARACTER_CPP_00008 { "出售物品《%s》数量(%d)不足，总数(%d)！" }
+    GM_CHARACTER_CPP_00009 { "获取船只价格信息失败！" }
+    GM_CHARACTER_CPP_00010 { "出售《%s》失败，你正在使用该船！" }
+    GM_CHARACTER_CPP_00011 { "你出售了%d个《%s》物品，获得了(%d)金钱，总额(%d)！" }
+    GM_CHARACTER_CPP_00012 { "系统" }
+    GM_CHARACTER_CPP_00013 { "你没有兑换所需的物品!" }
+    GM_CHARACTER_CPP_00014 { "数据错误，兑换失败!" }
+    GM_CHARACTER_CPP_00015 { "数据错误，购买失败！" }
+    GM_CHARACTER_CPP_00016 { "物品栏位索引(%d)无效！" }
+    GM_CHARACTER_CPP_00017 { "该物品《%s》不可以堆叠存放！" }
+    GM_CHARACTER_CPP_00018 { "你的金钱(%d)不够购买%d个物品《%s》！单价(%d)" }
+    GM_CHARACTER_CPP_00019 { "你的道具栏已满，不可以购买物品！" }
+    GM_CHARACTER_CPP_00020 { "你购买了%d个《%s》，花费(%d)金钱！余额(%d)" }
+    GM_CHARACTER_CPP_00021 { "任务道具《%s》不可以交易！" }
+    GM_CHARACTER_CPP_00022 { "提取%s船舱出售货物失败！" }
+    GM_CHARACTER_CPP_00023 { "%s给了你%d金钱，总额(%d)!" }
+    GM_CHARACTER_CPP_00024 { "%s取走了你%d金钱，余额(%d)!" }
+    GM_CHARACTER_CPP_00025 { "MakeItem:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00026 { "%s给了你%d个《%s》物品!" }
+    GM_CHARACTER_CPP_00027 { "GiveItem:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00028 { "GiveItem2KitbagTemp:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00029 { "AddItem:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00030 { "%s给你%d个《%s》物品，操作失败！" }
+    GM_CHARACTER_CPP_00031 { "未知" }
+    GM_CHARACTER_CPP_00032 { "AddItem2KitbagTemp:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00033 { "你购买了%d个《%s》物品!" }
+    GM_CHARACTER_CPP_00034 { "你购买%d个《%s》物品，操作失败！" }
+    GM_CHARACTER_CPP_00035 { "TakeItem:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00036 { "需要提取%d个《%s》物品，但是数量(%d)不足！" }
+    GM_CHARACTER_CPP_00037 { "%s不能取走你的%d个《%s》物品!GridID = %d, NumItem = %d" }
+    GM_CHARACTER_CPP_00038 { "%s取走了你的%d个《%s》物品!" }
+    GM_CHARACTER_CPP_00039 { "TakeRandItem:获取随机任务物品信息失败！RoleID = %d, NpcID = %d" }
+    GM_CHARACTER_CPP_00040 { "TakeRandItem:%s取走随机任务物品操作失败！sItemID = %d" }
+    GM_CHARACTER_CPP_00041 { "HasItem:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00042 { "HasItemBagTemp:错误的物品数据类型！ID = %d" }
+    GM_CHARACTER_CPP_00043 { "HasItemBagTemp: 没有临时背包!" }
+    GM_CHARACTER_CPP_00044 { "技能不存在" }
+    GM_CHARACTER_CPP_00045 { "学习的技能等级[%d]错误" }
+    GM_CHARACTER_CPP_00046 { "技能已存在，且等级高于学习值" }
+    GM_CHARACTER_CPP_00047 { "生活技能点不足：当前点 %d，需求点 %d." }
+    GM_CHARACTER_CPP_00048 { "技能点不足：当前点 %d，需求点 %d." }
+    GM_CHARACTER_CPP_00049 { "加入技能包失败" }
+    GM_CHARACTER_CPP_00050 { "职业不符，或学习等级超过该职业的限制" }
+    GM_CHARACTER_CPP_00051 { "角色等级不够，当前等级 %d，需求等级 %d." }
+    GM_CHARACTER_CPP_00052 { "前置技能不符" }
+    GM_CHARACTER_CPP_00053 { "恢复HP值(%d)点，当前HP(%d)." }
+    GM_CHARACTER_CPP_00054 { "恢复SP值(%d)点，当前SP(%d)." }
+    GM_CHARACTER_CPP_00055 { "恢复所有HP值，当前HP(%d)." }
+    GM_CHARACTER_CPP_00056 { "恢复所有SP值，当前SP(%d)." }
+    GM_CHARACTER_CPP_00057 { "副本不存在" }
+    GM_CHARACTER_CPP_00058 { "人数已满" }
+    GM_CHARACTER_CPP_00059 { "船只%s损坏严重无法修补已被销毁！" }
+    GM_CHARACTER_CPP_00060 { "BoatDie:销毁船长证明失败！ID[0x%X]" }
+    GM_CHARACTER_CPP_00061 { "BoatDie:销毁船只%s失败！ID[%d]" }
+    GM_CHARACTER_CPP_00062 { "船只%s损坏沉入海底，请找出海NPC打捞！" }
+    GM_CHARACTER_CPP_00063 { "BoatSelected:你没有停泊在该港口的修理船只！" }
+    GM_CHARACTER_CPP_00064 { "BoatSelected:选择修理船只ID[%d]错误！" }
+    GM_CHARACTER_CPP_00065 { "找不到你的出海船只!" }
+    GM_CHARACTER_CPP_00066 { "船只进入地图失败！" }
+    GM_CHARACTER_CPP_00067 { "你的船只已经出海了！" }
+    GM_CHARACTER_CPP_00068 { "船只%s已经沉没，请先打捞！" }
+    GM_CHARACTER_CPP_00069 { "船只损坏严重，需要修理后才能出海！" }
+    GM_CHARACTER_CPP_00070 { "船只进入地图失败！" }
+    GM_CHARACTER_CPP_00071 { "背包锁定时不允许出海！" }
+    GM_CHARACTER_CPP_00072 { "你没有停泊在该港口的船只！" }
+    GM_CHARACTER_CPP_00073 { "BoatSelLuance:选择出海船只ID[%d]错误！" }
+    GM_CHARACTER_CPP_00074 { "你的船只还没有出海，快速修理失败！" }
+    GM_CHARACTER_CPP_00075 { "船只%s状况很好，不需要修理." }
+    GM_CHARACTER_CPP_00076 { "修理船只%s需要金钱(%d)G，你的金钱(%d)不足." }
+    GM_CHARACTER_CPP_00077 { "船只“%s”修理完毕，恢复耐久%d点！" }
+    GM_CHARACTER_CPP_00078 { "你的船只还没有出海，快速补给失败！" }
+    GM_CHARACTER_CPP_00079 { "船只%s给养充足！" }
+    GM_CHARACTER_CPP_00080 { "补给船只%s需要金钱(%d)G，你的金钱(%d)不足." }
+    GM_CHARACTER_CPP_00081 { "船只“%s”补给完毕，补充给养%d点！" }
+    GM_CHARACTER_CPP_00082 { "你正在和其他角色交易，不可以和npc对话！" }
+    GM_CHARACTER_CPP_00083 { "BoatSelected:你没有停泊在该港口的修理船只！" }
+    GM_CHARACTER_CPP_00084 { "BoatSelected:选择修理船只ID[%d]指针错误！" }
+    GM_CHARACTER_CPP_00085 { "BoatSelected:你没有停泊在该港口的沉没船只！" }
+    GM_CHARACTER_CPP_00086 { "BoatSelected:选择打捞沉没船只ID[%d]错误！" }
+    GM_CHARACTER_CPP_00087 { "BoatSelected:选择打捞沉没船只ID[%d]指针错误！" }
+    GM_CHARACTER_CPP_00088 { "打捞船只%s需要金钱(%d)G，你的金钱(%d)不足." }
+    GM_CHARACTER_CPP_00089 { "BoatSelected:打捞船只存取数据库操作失败！" }
+    GM_CHARACTER_CPP_00090 { "船只“%s”已被成功打捞！" }
+    GM_CHARACTER_CPP_00091 { "BoatSelected:你没有停泊在该港口的补给船只！" }
+    GM_CHARACTER_CPP_00092 { "BoatSelected:选择补给船只ID[%d]错误！" }
+    GM_CHARACTER_CPP_00093 { "BoatSelected:选择补给船只ID[%d]指针错误！" }
+    GM_CHARACTER_CPP_00094 { "角色[%s]的脚本船只升级处理函数[BoatLevelUp]调用失败！" }
+    GM_CHARACTER_CPP_00095 { "角色[%s]的脚本船只升级处理函数[BoatLevelUp]返回失败！" }
+    GM_CHARACTER_CPP_00096 { "BoatSelected:船只选择错误的类型Type[%d]" }
+    GM_CHARACTER_CPP_00097 { "船只%s货舱已满！" }
+    GM_CHARACTER_CPP_00098 { "物品数量不够打包！" }
+    GM_CHARACTER_CPP_00099 { "错误：打包提取物品失败！" }
+    GM_CHARACTER_CPP_00100 { "错误：系统给你%d打包物品失败！ID[%d]" }
+    GM_CHARACTER_CPP_00101 { "角色[%s]的脚本打包处理函数[PackBagGoods]调用失败！" }
+    GM_CHARACTER_CPP_00102 { "角色[%s]的脚本打包处理函数[PackBagGoods]返回失败！" }
+    GM_CHARACTER_CPP_00103 { "你没有停泊在该港口的可以打包物品的船只！" }
+    GM_CHARACTER_CPP_00104 { "BoatPackBag:选择出海船只ID[%d]错误！" }
+    GM_CHARACTER_CPP_00105 { "你选择的船只货舱已满，请选择其他船只打包！" }
+    GM_CHARACTER_CPP_00106 { "ViewItemInfo::物品ID错误，无法找到该物品信息！ID = %d, grid = %d" }
+    GM_CHARACTER_CPP_00107 { "ViewItemInfo:物品ID错误，无法找到该物品信息！Index = %d, ID = %d" }
+    GM_CHARACTER_CPP_00108 { "viewiteminfo:该物品没有船只信息！Index[%d], ID[%d]" }
+    GM_CHARACTER_CPP_00109 { "初始化" }
+    GM_CHARACTER_CPP_00110 { "交易" }
+    GM_CHARACTER_CPP_00111 { "银行" }
+    GM_CHARACTER_CPP_00112 { "拾取" }
+    GM_CHARACTER_CPP_00113 { "丢弃" }
+    GM_CHARACTER_CPP_00114 { "删除" }
+    GM_CHARACTER_CPP_00115 { "你没有答,你还有%d次机会!" }
+    GM_CHARACTER_CPP_00116 { "你答错啦,你还有%d次机会!" }
+    GM_CHARBOAT_CPP_00001 { "未装置火炮" }
+    GM_CHARBOAT_CPP_00002 { "未装置配件" }
+    GM_CHARBOAT_CPP_00003 { "你已经成功取消了建造船只的计划！" }
+    GM_CHARBOAT_CPP_00004 { "当前出海状态,不可以建造船只！" }
+    GM_CHARBOAT_CPP_00005 { "当前交易状态,不可以建造船只！" }
+    GM_CHARBOAT_CPP_00006 { "正在摆摊，不可以建造船只！" }
+    GM_CHARBOAT_CPP_00007 { "背包已被锁定，不可以建造船只！" }
+    GM_CHARBOAT_CPP_00008 { "背包已被密码锁定，不可以建造船只！" }
+    GM_CHARBOAT_CPP_00009 { "正在读书，不可以建造船只！" }
+    GM_CHARBOAT_CPP_00010 { "创建船只失败，错误的船只信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00011 { "你拥有的船只数量已满，不可以再建造新的船只！" }
+    GM_CHARBOAT_CPP_00012 { "道具栏已满，建造船只失败！" }
+    GM_CHARBOAT_CPP_00013 { "创建船只失败，分配船只内存失败!ID[%d]" }
+    GM_CHARBOAT_CPP_00014 { "清除船只建造数据信息！" }
+    GM_CHARBOAT_CPP_00015 { "找不到该船的信息！ID[0x%X]" }
+    GM_CHARBOAT_CPP_00016 { "Update:你还未开始建造船只！请先开始！" }
+    GM_CHARBOAT_CPP_00017 { "MakeBoat:你还未开始建造船只！请先开始！" }
+    GM_CHARBOAT_CPP_00018 { "错误，找不到建造者的player数据！" }
+    GM_CHARBOAT_CPP_00019 { "你的船只数量已满，不可以再建造！" }
+    GM_CHARBOAT_CPP_00020 { "船只名称字符长度必须在%d-%d个字符之间！" }
+    GM_CHARBOAT_CPP_00021 { "船只名称《%s》非法！" }
+    GM_CHARBOAT_CPP_00022 { "角色%s传递了非法的字符指针！" }
+    GM_CHARBOAT_CPP_00023 { "建造船只计算组件属性加成信息错误！" }
+    GM_CHARBOAT_CPP_00024 { "建造船只%s需要金钱%d，请确认你是否有足够金钱！" }
+    GM_CHARBOAT_CPP_00025 { "建造船只数据库存储失败！" }
+    GM_CHARBOAT_CPP_00026 { "道具栏已被锁定，建造船只失败！" }
+    GM_CHARBOAT_CPP_00027 { "该道具不存在，建造船只失败！" }
+    GM_CHARBOAT_CPP_00028 { "创建船只，无法得到有效属性信息！ID[%d]" }
+    GM_CHARBOAT_CPP_00029 { "创建船只失败，设置船只外观数据失败!ID[%d]" }
+    GM_CHARBOAT_CPP_00030 { "设置船只属性失败！" }
+    GM_CHARBOAT_CPP_00031 { "角色%s的船只%s临时数据存储失败！" }
+    GM_CHARBOAT_CPP_00032 { "添加船只数据到player中失败！" }
+    GM_CHARBOAT_CPP_00033 { "未发现角色%s包裹中第%d格的物品信息ID[%d]！" }
+    GM_CHARBOAT_CPP_00034 { "角色上线装载船只分配船只内存失败!" }
+    GM_CHARBOAT_CPP_00035 { "获取角色%s船只ID[%d]数据库数据失败！" }
+    GM_CHARBOAT_CPP_00036 { "添加船只《%s》ID[%d]到角色%splayer数据信息失败！" }
+    GM_CHARBOAT_CPP_00037 { "成功装载第%d艘船只《%s》" }
+    GM_CHARBOAT_CPP_00038 { "创建船只失败，错误的船身信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00039 { "创建船只失败，错误的船头信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00040 { "创建船只失败，错误的船动力信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00041 { "创建船只失败，错误的船火炮信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00042 { "获取船只信息失败，错误的船只信息ID[%d]!" }
+    GM_CHARBOAT_CPP_00043 { "条件不足，需要等级%d。" }
+    GM_CHARBOAT_CPP_00044 { "条件不足，需要职业：" }
+    GM_CHARFORGE_CPP_00001 { "你的背包已被锁定，不可以精练物品！" }
+    GM_CHARFORGE_CPP_00002 { "你的背包已被密码锁定，不可以精练物品！" }
+    GM_CHARFORGE_CPP_00003 { "正在读书，不可以精练物品！" }
+    GM_CHARFORGE_CPP_00004 { "ForgeItem:错误的背包栏位索引！ ID = %d" }
+    GM_CHARFORGE_CPP_00005 { "ForgeItem:错误的精练物品！ ID = %d" }
+    GM_CHARFORGE_CPP_00006 { "物品《%s》不可以精练！" }
+    GM_CHARFORGE_CPP_00007 { "你的《%s》已经是精练顶级装备！" }
+    GM_CHARFORGE_CPP_00008 { "ForgeItem:无效的精练等级！Level = %d" }
+    GM_CHARFORGE_CPP_00009 { "精练道具所需金钱不足，精练失败！" }
+    GM_CHARFORGE_CPP_00010 { "未知" }
+    GM_CHARFORGE_CPP_00011 { "缺少精练需求物品《%s》，共计%d个，精练失败！" }
+    GM_CHARFORGE_CPP_00012 { "取走精练需求物品《%s》，共计%d个失败！" }
+    GM_CHARFORGE_CPP_00013 { "错误：精练成功，设置物品《%s》精练等级(%d)失败！" }
+    GM_CHARFORGE_CPP_00014 { "精练物品《%s》成功，当前精练等级(%d)！" }
+    GM_CHARFORGE_CPP_00015 { "精练物品《%s》不幸失败，导致物品损毁！" }
+    GM_CHARFORGE_CPP_00016 { "精练失败，设置物品《%s》精练等级(%d)失败！" }
+    GM_CHARFORGE_CPP_00017 { "精练物品《%s》失败，退回到当前精练等级(%d)！" }
+    GM_CHARSCRIPT_CPP_00001 { "系统" }
+    GM_CHARSCRIPT_CPP_00002 { "未知" }
+    GM_CHARSCRIPT_CPP_00003 { "你从%s哪里学到了技能《%s》。" }
+    GM_CHARSCRIPT_CPP_00004 { "%s给了你%d转生经验！" }
+    GM_CHARSCRIPT_CPP_00005 { "%s给了你%d生活经验！" }
+    GM_CHARSCRIPT_CPP_00006 { "%s给了你%d经验！" }
+    GM_CHARSCRIPT_CPP_00007 { "经验类型错误！Name[%s], Type[%d], Exp[%d]" }
+    GM_CHARSCRIPT_CPP_00008 { "%s给了你%d金钱！" }
+    GM_CHARSCRIPT_CPP_00009 { "%s取走了你%d金钱！" }
+    GM_CHARSCRIPT_CPP_00010 { "%s的重生点《%s》设置成功！" }
+    GM_CHARSCRIPT_CPP_00011 { "角色[%s]已经在交易中, 无法打开理发界面!\n" }
+    GM_CHARSCRIPT_CPP_00012 { "对不起,您没有勇者之证,请去乱斗管理员处领取勇者之证" }
+    GM_CHARSCRIPT_CPP_00013 { "背包被锁定，不能进行相关操作。" }
+    GM_CHARSCRIPT_CPP_00014 { "正在读书，不能进行相关操作。" }
+    GM_CHARSCRIPT_CPP_00015 { "技能清除" }
+    GM_CHARSTALL_CPP_00001 { "您已经出海不可以摆摊！" }
+    GM_CHARSTALL_CPP_00002 { "您正在交易，不可以摆摊！" }
+    GM_CHARSTALL_CPP_00003 { "您正在造船，不可以摆摊！" }
+    GM_CHARSTALL_CPP_00004 { "背包已被锁定，不可以摆摊" }
+    GM_CHARSTALL_CPP_00005 { "背包已被密码锁定，不可以摆摊！" }
+    GM_CHARSTALL_CPP_00006 { "正在读书，不可以摆摊！" }
+    GM_CHARSTALL_CPP_00007 { "不具备摆摊资历！" }
+    GM_CHARSTALL_CPP_00008 { "摊位名称无效错误！" }
+    GM_CHARSTALL_CPP_00009 { "摊位信息分配空间不足！" }
+    GM_CHARSTALL_CPP_00010 { "摊位地图信息错误！" }
+    GM_CHARSTALL_CPP_00011 { "此地图不能摆摊！" }
+    GM_CHARSTALL_CPP_00012 { "摆摊不要妨碍居民生活！" }
+    GM_CHARSTALL_CPP_00013 { "开始摆摊信息：名称“%s”" }
+    GM_CHARSTALL_CPP_00014 { "开始摆摊：角色《%s》提交摆摊货物数据数量超出范围！[%d]" }
+    GM_CHARSTALL_CPP_00015 { "，货品数量（%d），物品信息：" }
+    GM_CHARSTALL_CPP_00016 { "开始摆摊：角色《%s》提交摆摊货物数据索引超出范围！GRID[%d]" }
+    GM_CHARSTALL_CPP_00017 { "摆摊失败，物品价格叫价过高！" }
+    GM_CHARSTALL_CPP_00018 { "开始摆摊：角色《%s》提交的摆摊数据不存在！ID[%d]" }
+    GM_CHARSTALL_CPP_00019 { "开始摆摊：物品ID错误，无法找到该物品信息！ID = %d" }
+    GM_CHARSTALL_CPP_00020 { "开始摆摊：物品《%s》不可交易！" }
+    GM_CHARSTALL_CPP_00021 { "开始摆摊：角色《%s》提交的摆摊物品数量不正确！ID[%d]" }
+    GM_CHARSTALL_CPP_00022 { "开始摆摊：角色《%s》提交摆摊货物数据索引重复！ID[%d]" }
+    GM_CHARSTALL_CPP_00023 { "开始摆摊：交易未发现船长证明的船只信息。ID[0x%X]" }
+    GM_CHARSTALL_CPP_00024 { "，%d艘船只《%s》，ID[0x%X]" }
+    GM_CHARSTALL_CPP_00025 { "，%d个物品《%s》售价（%u）" }
+    GM_CHARSTALL_CPP_00026 { "摆摊成功！" }
+    GM_CHARSTALL_CPP_00027 { "收摊成功！" }
+    GM_CHARSTALL_CPP_00028 { "你正在造船不可以购买摆摊货物！" }
+    GM_CHARSTALL_CPP_00029 { "你正在交易不可以购买摆摊货物！" }
+    GM_CHARSTALL_CPP_00030 { "你已经出海不可以购买摆摊货物！" }
+    GM_CHARSTALL_CPP_00031 { "角色《%s》未在摆摊状态！" }
+    GM_CHARSTALL_CPP_00032 { "道具栏已锁定,不可以购买摆摊货物！" }
+    GM_CHARSTALL_CPP_00033 { "正在读书,不可以购买摆摊货物！" }
+    GM_CHARSTALL_CPP_00034 { "你的背包已满不可以购买物品！" }
+    GM_CHARSTALL_CPP_00035 { "你要购买的物品已被别人买走！" }
+    GM_CHARSTALL_CPP_00036 { "购买物品失败，物品价格叫价过高！" }
+    GM_CHARSTALL_CPP_00037 { "你的金钱不足以购买该物品！" }
+    GM_CHARSTALL_CPP_00038 { "错误：你要购买的物品不存在！ID[%d]" }
+    GM_CHARSTALL_CPP_00039 { "内部错误：你要购买的物品不正确！ID[%d]" }
+    GM_CHARSTALL_CPP_00040 { "内部错误：背包物品ID和摆摊信息ID不符！ID0[%d], ID1[%d]" }
+    GM_CHARSTALL_CPP_00041 { "物品ID错误，无法找到该物品信息！ID = %d" }
+    GM_CHARSTALL_CPP_00042 { "你已经拥有足够数量的船只，不可以再购买！" }
+    GM_CHARSTALL_CPP_00043 { "背包已满购买物品失败!" }
+    GM_CHARSTALL_CPP_00044 { "从角色《%s》背包取出摆摊交易货物失败！ID[%d]" }
+    GM_CHARSTALL_CPP_00045 { "内部错误：放入物品失败！" }
+    GM_CHARSTALL_CPP_00046 { "摆摊：交易未发现船长证明的船只信息。ID[0x%X]" }
+    GM_CHARSTALL_CPP_00047 { "摆摊物品信息：未知船只角色“%s”，ID[0x%X]，" }
+    GM_CHARSTALL_CPP_00048 { "摆摊物品信息：船只《%s》，ID[0x%X]，" }
+    GM_CHARSTALL_CPP_00049 { "BuyGoods:保存船只数据失败！船只《%s》ID[0x%X]。" }
+    GM_CHARSTALL_CPP_00050 { "摆摊：删除角色“%s”拥有的船只失败！ID[0x%X]" }
+    GM_CHARSTALL_CPP_00051 { "摆摊物品信息:《%s》" }
+    GM_CHARSTALL_CPP_00052 { "“{0}”买走了你的{1}个物品《{2}》，得到了{3}金钱！单价（{4}），总额（{5}）。" }
+    GM_CHARSTALL_CPP_00053 { "摆摊：添加给角色“%s”购买的船只失败！ID[0xX]" }
+    GM_CHARSTALL_CPP_00054 { "购买了“{0}”的{1}个物品《{2}》,花费了{3}金钱！单价（{4}）,余额（{5}）。" }
+    GM_CHARSTALL_CPP_00055 { "%s，单价（%d）× 数量（%d）= 交易额（%d），出售方：金钱总额（%d），购买方：金钱总额（%d）。" }
+    GM_CHARSTALL_CPP_00056 { "物品ID错误，无法找到该物品信息！ID = %d, Index = %d" }
+    GM_CHARSTALL_CPP_00057 { "指定的物品栏位物品实例信息为空！ID[%d]" }
+    GM_CHARTRADE_CPP_00001 { "无法交易!" }
+    GM_CHARTRADE_CPP_00002 { "正在建造船只，不可以交易！" }
+    GM_CHARTRADE_CPP_00003 { "正在摆摊，不可以交易" }
+    GM_CHARTRADE_CPP_00004 { "正在读书，不可以交易" }
+    GM_CHARTRADE_CPP_00005 { "背包已被锁定，不可以交易！" }
+    GM_CHARTRADE_CPP_00006 { "背包已被密码锁定，不可以交易！" }
+    GM_CHARTRADE_CPP_00007 { "被邀请玩家已经离开!" }
+    GM_CHARTRADE_CPP_00008 { "对方正在使用银行，请稍候再试！" }
+    GM_CHARTRADE_CPP_00009 { "错误:玩家%s未和你进行交易！" }
+    GM_CHARTRADE_CPP_00010 { "交易角色不存在！" }
+    GM_CHARTRADE_CPP_00011 { "您的等级不够,无法交易!" }
+    GM_CHARTRADE_CPP_00012 { "角色%s正在造船，不可以交易" }
+    GM_CHARTRADE_CPP_00013 { "角色%s正在摆摊，不可以交易" }
+    GM_CHARTRADE_CPP_00014 { "角色%s正在读书，不可以交易" }
+    GM_CHARTRADE_CPP_00015 { "角色%s背包已被锁定，不可以交易！" }
+    GM_CHARTRADE_CPP_00016 { "角色%s背包已被密码锁定，不可以交易！" }
+    GM_CHARTRADE_CPP_00017 { "交易角色类型不匹配！" }
+    GM_CHARTRADE_CPP_00018 { "海上禁止交易！" }
+    GM_CHARTRADE_CPP_00019 { "你现在不可以请求与其他人交易！" }
+    GM_CHARTRADE_CPP_00020 { "%s正在交易中！" }
+    GM_CHARTRADE_CPP_00021 { "不可以请求和自己交易！" }
+    GM_CHARTRADE_CPP_00022 { "发送通知该角色已经离开!" }
+    GM_CHARTRADE_CPP_00023 { "你正在使用银行，不可以交易" }
+    GM_CHARTRADE_CPP_00024 { "你已经出海，现在不可以接受请求与他交易！" }
+    GM_CHARTRADE_CPP_00025 { "请求交易方已死亡不可交易！" }
+    GM_CHARTRADE_CPP_00026 { "你已死亡不可交易！" }
+    GM_CHARTRADE_CPP_00027 { "银行打开时，不允许交易！" }
+    GM_CHARTRADE_CPP_00028 { "交易类型错误！type[%d]" }
+    GM_CHARTRADE_CPP_00029 { "对方已经出海，你现在不可以接受请求与他交易！" }
+    GM_CHARTRADE_CPP_00030 { "你现在不可以请求与其他他人交易！" }
+    GM_CHARTRADE_CPP_00031 { "分配交易数据缓冲失败！" }
+    GM_CHARTRADE_CPP_00032 { "Cancel:该角色%s并不交易中!\n" }
+    GM_CHARTRADE_CPP_00033 { "报文信息错误，不能取消和自己ID相同的交易操作！" }
+    GM_CHARTRADE_CPP_00034 { "客户端请求的交易对象信息错误！ID = 0x%x" }
+    GM_CHARTRADE_CPP_00035 { "AddMoney:该角色%s并不交易中!" }
+    GM_CHARTRADE_CPP_00036 { "交易对象信息错误！" }
+    GM_CHARTRADE_CPP_00037 { "该角色交易物品验证按钮已经按下，不可以再作交易金钱操作！" }
+    GM_CHARTRADE_CPP_00038 { "该角色未在交易中！" }
+    GM_CHARTRADE_CPP_00039 { "拖动金钱操作类型错误！" }
+    GM_CHARTRADE_CPP_00040 { "AddItem:该角色%s并不交易中!" }
+    GM_CHARTRADE_CPP_00041 { "报文信息错误，不能添加物品和自己ID相同的交易操作！" }
+    GM_CHARTRADE_CPP_00042 { "该角色交易物品验证按钮已经按下，不可以再作物品拖动操作！" }
+    GM_CHARTRADE_CPP_00043 { "未知的交易栏位索引信息！" }
+    GM_CHARTRADE_CPP_00044 { "未知的道具栏位索引信息！" }
+    GM_CHARTRADE_CPP_00045 { "该角色拖动的交易栏位物品不存在！" }
+    GM_CHARTRADE_CPP_00046 { "系统物品栏交易记录错误，请通知开发人员，谢谢！ID1= %d, ID2 = %d" }
+    GM_CHARTRADE_CPP_00047 { "该物品栏位已被禁止拖动！" }
+    GM_CHARTRADE_CPP_00048 { "该交易物品栏位已存在物品，请另选位置摆放！" }
+    GM_CHARTRADE_CPP_00049 { "物品《%s》不可交易！" }
+    GM_CHARTRADE_CPP_00050 { "你正在使用该船只，不可以交易该船只船长证明！" }
+    GM_CHARTRADE_CPP_00051 { "对方已经拥有了足够数量的船只，不可以再拥有新船只！" }
+    GM_CHARTRADE_CPP_00052 { "该船数据错误，不可交易！ID[0x%X]" }
+    GM_CHARTRADE_CPP_00053 { "AddItem:保存船只数据失败！船只《%s》ID[0x%X]。" }
+    GM_CHARTRADE_CPP_00054 { "未知的物品拖动类型指令！" }
+    GM_CHARTRADE_CPP_00055 { "ValidateItemData:该角色%s并不交易中!" }
+    GM_CHARTRADE_CPP_00056 { "交易对象信息内部错误！" }
+    GM_CHARTRADE_CPP_00057 { "ValidateTrade:该角色%s并不交易中!" }
+    GM_CHARTRADE_CPP_00058 { "角色《%s》交易金钱数据不正确，不可以继续交易！" }
+    GM_CHARTRADE_CPP_00059 { "接受者%s交易数据：{" }
+    GM_CHARTRADE_CPP_00060 { "对方背包空间不够,交易失败!" }
+    GM_CHARTRADE_CPP_00061 { "背包空间不够,交易失败!" }
+    GM_CHARTRADE_CPP_00062 { "从交易接受者《%s》交易提取物品《%d》物品失败！ID = %d" }
+    GM_CHARTRADE_CPP_00063 { "%d艘船只《%s》ID[0x%X]，" }
+    GM_CHARTRADE_CPP_00064 { "%d艘船只：未知船只数据ID[0x%X]，" }
+    GM_CHARTRADE_CPP_00065 { "删除%s拥有的船长证明拥有的船只失败！ID[0x%X]" }
+    GM_CHARTRADE_CPP_00066 { "}，请求者%s交易数据：{" }
+    GM_CHARTRADE_CPP_00067 { "从交易请求者《%s》交易提取物品《%d》物品失败！ID = %d" }
+    GM_CHARTRADE_CPP_00068 { "删除%s的船长证明拥有的船只失败！ID[0x%X]" }
+    GM_CHARTRADE_CPP_00069 { "物品ID错误，无法找到该物品信息！不能给予你该物品，ID = %d" }
+    GM_CHARTRADE_CPP_00070 { "交易时将%s背包装不下的物品《%s》放到地面失败！交易物品丢失！ID[%d], Num[%d]" }
+    GM_CHARTRADE_CPP_00071 { "交易时将物品《%s》放入%s背包失败！交易物品丢失！ID[%d], Num[%d]" }
+    GM_CHARTRADE_CPP_00072 { "添加给%s船长证明拥有的船只失败！ID[0x%X]" }
+    GM_CHARTRADE_CPP_00073 { "接受者交易金钱：%d，请求者交易金钱：%d" }
+    GM_CHARTRADE_CPP_00074 { "交易失败，数据存储错误！" }
+    GM_CHARTRADE_CPP_00075 { "%s船《%s》" }
+    GM_CHARTRADE_CPP_00076 { "你从({0})处得到了{1}金钱！" }
+    GM_CHARTRADE_CPP_00077 { "您的上一个订单还未处理完!" }
+    GM_CHARTRADE_CPP_00078 { "该商品已撤架!" }
+    GM_CHARTRADE_CPP_00079 { "白金会员" }
+    GM_CHARTRADE_CPP_00080 { "只有白金会员才能买这个商品!" }
+    GM_CHARTRADE_CPP_00081 { "Request: 错误的物品数据类型！ID = %d" }
+    GM_CHARTRADE_CPP_00082 { "您的临时背包空间不够!" }
+    GM_CHARTRADE_CPP_00083 { "商城操作失败, 订单号重复!" }
+    GM_CHARTRADE_CPP_00084 { "商城交易失败!" }
+    GM_CHARTRADE_CPP_00085 { "角色[%s][ID:%ld]购买了商品[ID:%ld], 加道具操作成功!\n" }
+    GM_CHARTRADE_CPP_00086 { "购买白金会员成功!" }
+    GM_CHARTRADE_CPP_00087 { "购买白金会员失败!" }
+    GM_CHARTRADE_CPP_00088 { "无法查到您的账号,打开商城失败!" }
+    GM_CHARTRADE_CPP_00089 { "邮件操作失败, 订单号重复!" }
+    GM_CHARTRADE_CPP_00090 { "GM邮件发送失败，如果您已经发送过一次邮件，请等待GM回复之后再次发送!" }
+    GM_CHARTRADE_CPP_00091 { "GM邮件发送成功, [问题ID: %ld]!" }
+    GM_CHARTRADE_CPP_00092 { "GM邮件接收失败!" }
+    GM_CHARTRADE_CPP_00093 { "GM邮件回复: [问题ID: %ld]!" }
+    GM_CHARTRADE_CPP_00094 { "内置商城还未开张,正在打开商城网页!" }
+    GM_CHARTRADE_CPP_00095 { "商城操作超时,已被取消!" }
+    GM_CHARTRADE_CPP_00096 { "%d个%s，" }
+    GM_ENTITYSPAWN_CPP_00001 { "刷怪的区域数目出错" }
+    GM_ENTITYSPAWN_CPP_00002 { "刷怪纪录对象构造过程中分配内存失败" }
+    GM_ENTITYSPAWN_CPP_00003 { "刷怪对象构造过程中分配内存失败" }
+    GM_ENTITYSPAWN_CPP_00004 { "角色出生错误" }
+    GM_ENTITYSPAWN_CPP_00005 { "记录数目出错" }
+    GM_ENTITYSPAWN_CPP_00006 { "地图切换纪录对象构造过程中分配内存失败" }
+    GM_ENTITYSPAWN_CPP_00007 { "装载NPC文件(%s)的数量(%d)出错!" }
+    GM_ENTITYSPAWN_CPP_00008 { "NPC记录集数据构造过程中分配内存失败！" }
+    GM_ENTITYSPAWN_CPP_00009 { "装载地图npc文件[%s]...\n" }
+    GM_ENTITYSPAWN_CPP_00010 { "地图初始化错误：未找到指定ID的角色属性信息！ID = %d \n" }
+    GM_ENTITYSPAWN_CPP_00011 { "装载地图npc文件[%s]成功！\n" }
+    GM_EVENTENTITY_CPP_00001 { "未知物品" }
+    GM_EVENTENTITY_CPP_00002 { "采集资源:错误的物品数据类型!ID = %d" }
+    GM_EVENTENTITY_CPP_00003 { "你采集到%d个《%s》物品!" }
+    GM_EVENTENTITY_CPP_00004 { "你采集%d个《%s》物品，操作失败!" }
+    GM_EVENTENTITY_CPP_00005 { "错误：你不符合条件触发该事件实体!" }
+    GM_EXPAND_H_00005 { "取角色%s, %d号属性成功。值：%d\n" }
+    GM_EXPAND_H_00008 { "成功，但请求的值超过最大值。设置值：%d，现在的值：%d。" }
+    GM_EXPAND_H_00009 { "成功。设置值：%d，现在的值：%d。" }
+    GM_EXPAND_H_00010 { "设置角色%s, %d号属性%s\n" }
+    GM_EXPAND_H_00012 { "获取角色%s 的类型成功。值：%d\n" }
+    GM_EXPAND_H_00102 { "海盗广播" }
+    GM_EXPAND_H_00111 { "设置地图入口控制时间，其格式错误" }
+    GM_EXPAND_H_00144 { "取角色%s, 分边编号 %u 成功。值：%d\n" }
+    GM_EXPAND_H_00145 { "设置角色%s, 分边编号 %u 成功\n" }
+    GM_EXPAND_H_00147 { "取角色%s, 公会编号 %u 成功。值：%d\n" }
+    GM_EXPAND_H_00149 { "取角色%s, 队伍编号 %u 成功。值：%d\n" }
+    GM_EXPAND_H_00151 { "判断角色是否在PK状态成功\n" }
+    GM_EXPAND_H_00152 { "设置角色%s, 座右铭 %s 成功\n" }
+    GM_EXPAND_H_00155 { "设置队伍挑战地图名 %s 成功\n" }
+    GM_EXPAND_H_00160 { "lua错误纪录文件建立错误!" }
+    GM_FIGHTABLE_CPP_00001 { "属性变化个数的两个统计值不吻合" }
+    GM_FIGHTABLE_CPP_00002 { "错误" }
+    GM_FIGHTABLE_CPP_00003 { "实例化" }
+    GM_FIGHTABLE_CPP_00004 { "计时技能管理对象构造过程中分配内存失败" }
+    GM_GAMEAPPNET_CPP_00001 { "您累计在线时间已满 %d 小时。" }
+    GM_GAMEAPPNET_CPP_00002 { "您累计在线时间已满 3 小时，请您下线休息，做适当的身体活动。您已经进入疲劳游戏时间，您的游戏收益将降为正常值的一半，为了您的健康，请尽快下线休息，做适当身体活动，合理安排学习生活。" }
+    GM_GAMEAPPNET_CPP_00003 { "您已经进入疲劳游戏时间，您的游戏收益将降为正常值的一半，为了您的将康，请尽快下线休息，做适当身体活动，合理安排学习生活。" }
+    GM_GAMEAPPNET_CPP_00004 { "您在交易频道说了一句话,消耗了%ld个金币!" }
+    GM_GAMEAPPNET_CPP_00005 { "您的金钱不够,不能在交易频道聊天!" }
+    GM_GAMEAPPNET_CPP_00006 { "您在世界频道说了一句话,消耗了%ld个金币!" }
+    GM_GAMEAPPNET_CPP_00007 { "您的金钱不够,不能在世界频道聊天!" }
+    GM_GAMEAPPNET_CPP_00008 { "您已进入不健康游戏时间，为了您的健康，请您立即下线休息。如不下线，您的身体将受到损害，您的收益已降为零，直到您的累计下线时间满 5 小时后，才能恢复正常。" }
+    GM_GAMEAPPNET_CPP_00009 { "您投标的与公会《%s》战被公会《%s》取代了，您的投标金(%u)已经退还给您！\n" }
+    GM_GAMEAPPNET_CPP_00010 { "恭喜您领导的公会《%s》取得了公会战的胜利！获得奖励金（%u）！" }
+    GM_GAMEAPPNET_CPP_00011 { "此地图不能组队，您被踢出此地图！" }
+    GM_GAMEAPPNET_CPP_00012 { "公会座右铭已修改！" }
+    GM_GAMEAPPNET_CPP_00013 { "公会已经被会长解散" }
+    GM_GAMEAPPNET_CPP_00014 { "你已经被开除出公会[%s]." }
+    GM_GAMEAPPNET_CPP_00015 { "你已经被批准加入公会[%s]." }
+    GM_GAMEAPPNET_CPP_00016 { "你对公会[%s]的加入申请被拒绝." }
+    GM_GAMEAPPNET_CPP_00017 { "系统" }
+    GM_GAMEAPPNET_H_00001 { "GameServer名重复" }
+    GM_GAMEAPPNET_H_00002 { "GameServer上地图名重复" }
+    GM_GAMEAPPNET_H_00003 { "GameServer地图配置语法错误" }
+    GM_GAMEAPPNET_H_00004 { "未知错误" }
+    GM_GAMEAPP_CPP_00001 { "重新装载NPC[%s]初始化信息脚本函数[%s]失败!" }
+    GM_GAMEAPP_CPP_00002 { "游戏服务器%s\"将在 %u 秒后重启，请在地图\"%s\"上的玩家做好" }
+    GM_GAMEAPP_CPP_00003 { "msg读取表格[%s]失败\n" }
+    GM_GAMEAPP_CPP_00004 { "msg初始化装载文字过滤信息文件失败!\n" }
+    GM_GAMEAPP_CPP_00005 { "msg分配玩家空间出错!, 退出!\n" }
+    GM_GAMEAPP_CPP_00006 { "msg读取精练数据表信息失败！" }
+    GM_GAMEAPP_CPP_00007 { "msg读取船只数据表信息失败！" }
+    GM_GAMEAPP_CPP_00008 { "msg设定的副本数目 %d 超过最大值 %d!\n" }
+    GM_GAMEAPP_CPP_00009 { "msg入口脚本（%s/entry.lua）的行长度超过预设长度（%u），这可能导致入口创建失败，取消创建该入口.脚本行：%s\n" }
+    GM_GAMEAPP_CPP_00010 { "msg请求角色内存时出错,请增加角色内存！！！" }
+    GM_GAMEAPP_CPP_00011 { "msg请求道具内存时出错,请增加道具内存！！！" }
+    GM_GAMEAPP_CPP_00012 { "msg请求对话NPC内存时出错,请增加对话NPC内存！！！" }
+    GM_GAMEAPP_CPP_00013 { "msg未知的请求事件实体创建类型！Type[%d]" }
+    GM_GAMEAPP_CPP_00014 { "msg请求事件实体内存时出错！！！Type[%d]" }
+    GM_GAMEAPP_CPP_00015 { "msg请求玩家内存时出错,请增加玩家内存！！！" }
+    GM_GAMEAPP_CPP_00016 { "msg产生怪物的数目超过配置值，结束。\n" }
+    GM_GAMEAPP_CPP_00017 { "msg分配角色空间出错!, 退出!\n" }
+    GM_GAMEAPP_CPP_00018 { "系统" }
+    GM_GAMEDB_CPP_00001 { "数据库(%s)初始化错误，请检查" }
+    GM_GAMEDB_CPP_00002 { "错误" }
+    GM_GAMEDB_CPP_00009 { "该角色任务记录数据信息初始化失败！" }
+    GM_GAMEDB_CPP_00010 { "该角色任务历史记录数据信息初始化失败！" }
+    GM_GAMEDB_CPP_00011 { "该角色任务触发器数据初始化失败！" }
+    GM_GAMEDB_CPP_00012 { "该角色随机任务计数数据初始化失败！" }
+    GM_GAMEDB_CPP_00013 { "保存角色耗时" }
+    GM_GAMEDB_CPP_00014 { "log\保存角色耗时.log" }
+    GM_GAMEDB_CPP_00015 { "该角色保存任务信息数据读取错误！ID = %d" }
+    GM_GAMEDB_CPP_00016 { "该角色保存任务信息触发器数据读取错误！ID = %d" }
+    GM_GAMEDB_CPP_00017 { "该角色保存随机任务计数信息数据读取错误！ID = %d" }
+    GM_GAMEDB_CPP_00018 { "SaveMissionData:该角色保存任务信息数据读取错误！ID = %d" }
+    GM_GAMEDB_CPP_00019 { "SaveMissionData:该角色保存任务信息触发器数据读取错误！ID = %d" }
+    GM_GAMEDB_CPP_00020 { "获取您的船只《%s》数据当前状态失败，请通知维护人员解决！谢谢！" }
+    GM_GAMEDB_CPP_00021 { "金钱：%u 道具：%d@" }
+    GM_GAMEDB_CPP_00022 { "临时背包：%d@" }
+    GM_GAMEDB_CPP_00023 { "银行ID(%d):" }
+    GM_GAMEDB_CPP_00024 { "装备：%d@" }
+    GM_GAMEDB_CPP_00025 { "玩家角色不匹配，保存资料库不成功" }
+    GM_GAMEDB_CPP_00026 { "金钱：%u 道具栏：%d@" }
+    GM_GAMEDB_CPP_00027 { "公会创建没有成功." }
+    GM_GAMEDB_CPP_00028 { "海军" }
+    GM_GAMEDB_CPP_00029 { "海盗" }
+    GM_GAMEDB_CPP_00030 { "公会数目已达系统上限" }
+    GM_GAMEDB_CPP_00031 { "海盗公会名字已被使用" }
+    GM_GAMEDB_CPP_00032 { "您已经是公会《%s》成员,不能重复申请加入公会！" }
+    GM_GAMEDB_CPP_00033 { "不能重复申请加入公会《%s》！" }
+    GM_GAMEDB_CPP_00034 { "申请加入公会失败." }
+    GM_GAMEDB_CPP_00035 { "申请加入的公会无会长." }
+    GM_GAMEDB_CPP_00036 { "您申请的公会不存在！" }
+    GM_GAMEDB_CPP_00037 { "你当前是公会[%s]的正式成员,不能申请加入别的公会." }
+    GM_GAMEDB_CPP_00038 { "您已经是公会《%s》成员,不能重复申请加入公会！" }
+    GM_GAMEDB_CPP_00039 { "申请公会数据操作失败！" }
+    GM_GAMEDB_CPP_00040 { "申请加入公会操作失败，可能该公会申请人数已满，请稍后再试！" }
+    GM_GAMEDB_CPP_00041 { "申请退出原有公会操作失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00042 { "恭喜！你申请加入公会《%s》成功,请耐心等待公会管理员的批复." }
+    GM_GAMEDB_CPP_00043 { "批准公会申请操作失败." }
+    GM_GAMEDB_CPP_00044 { "你没有公会的管理权限" }
+    GM_GAMEDB_CPP_00045 { "批准公会数据操作失败！" }
+    GM_GAMEDB_CPP_00046 { "批准公会操作失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00047 { "拒绝公会申请操作失败." }
+    GM_GAMEDB_CPP_00048 { "你没有公会的管理权限." }
+    GM_GAMEDB_CPP_00049 { "解除角色加入公会申请失败！请确认该角色申请是否已被取消！" }
+    GM_GAMEDB_CPP_00050 { "踢人操作失败." }
+    GM_GAMEDB_CPP_00051 { "你是会长不可以踢出自己！" }
+    GM_GAMEDB_CPP_00052 { "解除公会成员身份数据操作失败！" }
+    GM_GAMEDB_CPP_00053 { "解除角色公会成员身份失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00054 { "离开公会数据操作失败！" }
+    GM_GAMEDB_CPP_00055 { "离开当前公会失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00056 { "已经离开公会！" }
+    GM_GAMEDB_CPP_00057 { "你是公会挑战擂主之一不可以解散！" }
+    GM_GAMEDB_CPP_00058 { "获取你的公会挑战信息失败！" }
+    GM_GAMEDB_CPP_00059 { "你参与了公会挑战不可以解散！" }
+    GM_GAMEDB_CPP_00060 { "获取你的公会挑战排名信息失败！" }
+    GM_GAMEDB_CPP_00061 { "解散公会数据操作失败！" }
+    GM_GAMEDB_CPP_00062 { "解散公会操作失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00063 { "修改公会座右铭操作失败." }
+    GM_GAMEDB_CPP_00064 { "只有会长才能修改公会座右铭." }
+    GM_GAMEDB_CPP_00065 { "抢公会擂主投标金额必须大于0￥！" }
+    GM_GAMEDB_CPP_00066 { "查询您的公会信息失败！请稍后再试！" }
+    GM_GAMEDB_CPP_00067 { "您每次只能挑战一个公会，您已经是公会《%s》的挑战者^_^！" }
+    GM_GAMEDB_CPP_00068 { "挑战公会数据操作失败！" }
+    GM_GAMEDB_CPP_00069 { "公会《%s》已经是排名第%d擂主了！" }
+    GM_GAMEDB_CPP_00070 { "您的公会已经是排名第%d的擂主了！" }
+    GM_GAMEDB_CPP_00071 { "想获得排名第%d的公会称号需要金额（%uG）!" }
+    GM_GAMEDB_CPP_00072 { "公会数据操作失败，请稍后再试！" }
+    GM_GAMEDB_CPP_00073 { "系统" }
+    GM_GAMEDB_CPP_00074 { "恭喜你的公会《%s》获得了排名第%d公会的称号！" }
+    GM_GAMEDB_CPP_00075 { "挑战公会投标金额必须大于0￥！" }
+    GM_GAMEDB_CPP_00077 { "想获得排名第%d的公会称号需要金额（%uG）!" }
+    GM_GAMEDB_CPP_00078 { "查询你的公会排名信息失败！" }
+    GM_GAMEDB_CPP_00079 { "公会排名错误！GID = %d, LV = %d" }
+    GM_GAMEDB_CPP_00080 { "您不能挑战排名比你们公会低的公会！" }
+    GM_GAMEDB_CPP_00081 { "您已经是公会战的挑战者了！" }
+    GM_GAMEDB_CPP_00082 { "您不能挑战自己的公会！" }
+    GM_GAMEDB_CPP_00083 { "您的挑战金额不足！金额（%u）" }
+    GM_GAMEDB_CPP_00084 { "您投标失败，没有足够得金钱！金额（%u）" }
+    GM_GAMEDB_CPP_00085 { "挑战公会操作失败，请稍后再试！" }
+    GM_GAMESMAIN_CPP_00001 { "   结束服务请关闭相应的Windows窗口，直接关闭本控制台将不会触发存盘操作！" }
+    GM_GUILD_CPP_00001 { "道具栏已锁定,无法建立工会" }
+    GM_GUILD_CPP_00002 { "读书状态,无法建立工会" }
+    GM_GUILD_CPP_00003 { "公会名太短" }
+    GM_GUILD_CPP_00004 { "公会名太长" }
+    GM_GUILD_CPP_00005 { "公会口令太长" }
+    GM_GUILD_CPP_00006 { "公会创建成功." }
+    GM_GUILD_CPP_00007 { "对不起!海军总部不接收任何会员." }
+    GM_GUILD_CPP_00008 { "申请的公会非法！" }
+    GM_GUILD_CPP_00009 { "道具栏已锁定,无法挑战工会" }
+    GM_GUILD_CPP_00010 { "读书状态,无法挑战工会" }
+    GM_HARMREC_H_00001 { "目标列表:" }
+    GM_LUA_GAMECTRL_CPP_00001 { "人人" }
+    GM_LUA_GAMECTRL_CPP_00002 { "扔" }
+    GM_LUA_GAMECTRL_CPP_00003 { "捡" }
+    GM_LUA_GAMECTRL_CPP_00004 { "店买" }
+    GM_LUA_GAMECTRL_CPP_00005 { "卖" }
+    GM_LUA_GAMECTRL_CPP_00006 { "任务给" }
+    GM_LUA_GAMECTRL_CPP_00007 { "任务收" }
+    GM_LUA_GAMECTRL_CPP_00008 { "买货" }
+    GM_LUA_GAMECTRL_CPP_00009 { "卖货" }
+    GM_LUA_GAMECTRL_CPP_00010 { "进游戏" }
+    GM_LUA_GAMECTRL_CPP_00011 { "出游戏" }
+    GM_LUA_GAMECTRL_CPP_00012 { "人摊" }
+    GM_LUA_GAMECTRL_CPP_00013 { "消耗" }
+    GM_LUA_GAMECTRL_CPP_00014 { "删除" }
+    GM_LUA_GAMECTRL_CPP_00015 { "银行" }
+    GM_LUA_GAMECTRL_CPP_00016 { "装备" }
+    GM_LUA_GAMECTRL_CPP_00017 { "怪物" }
+    GM_LUA_GAMECTRL_CPP_00018 { "new怪物" }
+    GM_LUA_GAMECTRL_CPP_00019 { "听说在本海域的%d, %d附近有你打听的生物出没!" }
+    GM_LUA_GAMECTRL_H_00001 { "lua函数没有指定输出文件名或者没有输出信息错误!" }
+    GM_LUA_GAMECTRL_H_00002 { "隐身被识破!" }
+    GM_LUA_GAMECTRL_H_00003 { "[无效标识(" }
+    GM_LUA_GAMECTRL_H_00004 { "msg发现登记lua同名函数[%s]\n" }
+    GM_MAPRES_CPP_00001 { "SubMap::LoadNpc:获取地图《%s》ID失败!" }
+    GM_MAPRES_CPP_00002 { "错误" }
+    GM_MAPRES_CPP_00003 { "装载地图怪物文件错误!" }
+    GM_MAPRES_CPP_00004 { "装载地图跳转点文件错误!" }
+    GM_MAPRES_CPP_00005 { "装载地图怪物NPC件错误!" }
+    GM_MAPRES_CPP_00006 { "初始化地图配置错误!" }
+    GM_MAPRES_CPP_00007 { "地图副本对象构造过程中分配内存失败" }
+    GM_MAPRES_CPP_00008 { "本地图服务时间已到，将在%d秒后关闭" }
+    GM_MISSION_CPP_00001 { "CCharMission::KillWare:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00002 { "CCharMission::GetItem:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00003 { "CCharMission::TimeOut:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00004 { "CCharMission::GetItem:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00005 { "未知的时间触发器时间间隔类型！TID = %d, Type = %d" }
+    GM_MISSION_CPP_00006 { "CCharMission::GotoMap:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00007 { "CCharMission::GotoMap:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00008 { "CCharMission::LevelUp:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00009 { "CCharMission::LevelUp:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00010 { "CCharMission::CharBorn:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00011 { "CCharMission::CharBorn:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00012 { "CCharMission::EquipItem:任务处理函数[TriggerProc]调用失败！" }
+    GM_MISSION_CPP_00013 { "CCharMission::EquipItem:任务处理函数[TriggerProc]调用返回失败！" }
+    GM_MISSION_CPP_00014 { "GetMissionInfo:未知的NPC信息！" }
+    GM_MISSION_CPP_00015 { "GetMissionInfo:错误的查询NPC携带任务记录索引类型信息！" }
+    GM_MISSION_CPP_00016 { "GetMissionInfo:未知的NPC信息！dwNpcID = %d" }
+    GM_MISSION_CPP_00017 { "CCharMission::MisGetMisLogInfo:任务日志处理函数[MissionLog]调用失败！" }
+    GM_MISSION_CPP_00018 { "CCharMission::CancelRole:取消任务处理函数[CancelMission]调用失败！" }
+    GM_MISSION_CPP_00019 { "取消任务失败！ID[%d], SID[%d]" }
+    GM_MISSION_CPP_00020 { "MisCancelRole:未发现指定的任务ID[%d]" }
+    GM_MISSION_CPP_00021 { "MisClearRole:未发现指定的任务ID[%d]" }
+    GM_MISSION_CPP_00022 { "MisIsFollowNpc:召唤NPC数据索引错误！byInex = %d" }
+    GM_MISSION_CPP_00023 { "MisAddFollowNpc:未发现任务ID=%d" }
+    GM_MISSION_CPP_00024 { "MisClearFollowNpc:未发现任务ID=%d" }
+    GM_MISSION_CPP_00025 { "MisClearFollowNpc:召唤NPC数据索引错误！byInex = %d" }
+    GM_MISSION_CPP_00026 { "MisHasFollowNpc:召唤NPC数据索引错误！byInex = %d" }
+    GM_MISSION_CPP_00027 { "MisHasFollowNpc:未发现任务ID=%d" }
+    GM_MISSION_CPP_00028 { "MisIsFollowNpc:未发现任务ID=%d" }
+    GM_MISSION_CPP_00029 { "SetRandMissionData:未发现随机任务ID=%d" }
+    GM_MISSION_CPP_00030 { "GetRandMission:未发现随机任务ID=%d，或者任务不是随机数据类型！" }
+    GM_MISSION_CPP_00031 { "GetRandMissionData:未发现随机任务ID=%d，或者任务不是随机数据类型！" }
+    GM_MISSION_CPP_00032 { "SetRandMissionNpcItemFlag:未发现随机任务ID=%d，或者任务不是随机数据类型！" }
+    GM_MISSION_CPP_00033 { "GetRandMissionNpcItem:未发现随机任务ID=%d，或者任务不是随机数据类型！" }
+    GM_MISSION_CPP_00034 { "HasRandMissionNpc:未发现随机任务ID=%d，或者任务不是随机数据类型！" }
+    GM_MISSION_CPP_00035 { "角色离线" }
+    GM_MISSION_CPP_00036 { "角色上线" }
+    GM_MISSION_CPP_00037 { "未知" }
+    GM_MISSION_CPP_00038 { "进地图《%s》坐标：x = %d, y = %d." }
+    GM_MISSION_CPP_00039 { "召唤你的任务护送NPC失败，请通知开发人员，谢谢！	MID(%d),NID(%d)" }
+    GM_MISSION_CPP_00040 { "出地图《%s》坐标：x = %d, y = %d." }
+    GM_NPCSCRIPT_CPP_00001 { "未知" }
+    GM_NPCSCRIPT_CPP_00002 { "未知区域" }
+    GM_NPC_CPP_00001 { "npc[%s]的脚本初始化处理函数[ResetNpcInfo]调用失败！\n" }
+    GM_NPC_CPP_00002 { "npc[%s]的脚本数据处理函数[%s]调用失败！\n" }
+    GM_NPC_CPP_00003 { "npc[%s]的脚本初始化处理函数[GetNpcInfo]调用失败！\n" }
+    GM_NPC_CPP_00004 { "你正在和其他角色交易，不可以和npc对话！" }
+    GM_NPC_CPP_00005 { "你正在造船，不可以和npc对话！" }
+    GM_NPC_CPP_00006 { "你正在摆摊，不可以和npc对话！" }
+    GM_NPC_CPP_00007 { "现在不可以和npc对话！" }
+    GM_NPC_CPP_00008 { "你的背包已被锁定，不可以和npc对话！" }
+    GM_NPC_CPP_00009 { "npc[%s]的脚本消息处理函数[NpcProc]调用失败！" }
+    GM_NPC_CPP_00010 { "npc[%s]的脚本任务处理函数[NpcState]调用失败！" }
+    GM_NPC_CPP_00011 { "npc[%s]的任务状态处理函数[NpcState]返回失败！" }
+    GM_NPC_CPP_00012 { "CTalkNpc::TimeOut:任务处理函数[TriggerProc]调用失败！" }
+    GM_NPC_CPP_00013 { "CTalkNpc::未知的时间触发器时间间隔类型！Trigger ID = %d" }
+    GM_PLAYER_CPP_00001 { "  [状态：沉没]" }
+    GM_PLAYER_CPP_00002 { "  [状态：损坏严重]" }
+    GM_PLAYER_CPP_00003 { "  [状态：给养不足]" }
+    GM_PLAYER_CPP_00004 { "  [状态：良好]" }
+    GM_PLAYER_CPP_00005 { "之前的请求没有完成！" }
+    GM_PLAYER_CPP_00006 { "当前角色不能交互银行" }
+    GM_PLAYER_CPP_00007 { "银行已经在打开状态" }
+    GM_PLAYER_CPP_00008 { "银行NPC不存在" }
+    GM_PLAYER_CPP_00009 { "已经在交易中" }
+    GM_PLAYER_CPP_00010 { "距离太远" }
+    GM_PLAYER_CPP_00011 { "设置交易状态失败" }
+    GM_PLAYER_CPP_00012 { "取银行数据失败" }
+    GM_PLAYER_CPP_00013 { "BankHasItem:错误的物品数据类型！ID = %d" }
+    GM_PLAYER_CPP_00014 { "邀请超时！" }
+    GM_SUBMAP_CPP_00001 { "地图状态单元对象构造过程中分配内存失败" }
+    GM_SUBMAP_CPP_00002 { "地图视野单元对象构造过程中分配内存失败" }
+    GM_SUBMAP_CPP_00003 { "初始化地图NPC出生信息错误!" }
+    GM_SUBMAP_CPP_00004 { "区域搜索的范围超过设定值" }
+    GM_SUBMAP_CPP_00005 { "错误" }
+    GM_SUBMAP_CPP_00006 { "区域状态管理对象构造过程中分配内存失败" }
+    GM_SYSTEMDIALOG_CPP_00001 { "编号    玩家人数" }
+    GM_SYSTEMDIALOG_CPP_00002 { "海盗王 Online  GameServer" }
+    GM_SYSTEMDIALOG_CPP_00003 { "角色Log" }
+    GM_SYSTEMDIALOG_CPP_00004 { "刷新" }
+    GM_SYSTEMDIALOG_CPP_00005 { "运行状况" }
+    GM_SYSTEMDIALOG_CPP_00006 { "Gate列表" }
+    GM_SYSTEMDIALOG_CPP_00007 { "地图列表" }
+    GM_SYSTEMDIALOG_CPP_00008 { "运行标记:" }
+    GM_SYSTEMDIALOG_CPP_00009 { "活动对象:" }
+    GM_SYSTEMDIALOG_CPP_00010 { "玩家:" }
+    GM_SYSTEMDIALOG_CPP_00011 { "其他:" }
+    GM_SYSTEMDIALOG_CPP_00012 { "激活单元:" }
+    GM_SYSTEMDIALOG_CPP_00013 { "配置文件:" }
+    GM_SYSTEMDIALOG_CPP_00014 { "资源目录:" }
+    GM_SYSTEMDIALOG_CPP_00015 { "Log目录:" }
+    GM_SYSTEMDIALOG_CPP_00016 { "DB LOG 待写:" }
+    GM_SYSTEMDIALOG_CPP_00017 { "每50ms写入个数:" }
+    GM_SYSTEMDIALOG_CPP_00018 { "指令输入" }
+    GM_SYSTEMDIALOG_CPP_00019 { "当前PK:" }
+    GM_SYSTEMDIALOG_CPP_00020 { "执行" }
+    GM_SYSTEMDIALOG_CPP_00021 { "清除" }
+    GM_WEATHER_CPP_00001 { "天气:本海域{0} {1}附近将发生{2}" }
+    GM_WORLDEUDEMON_CPP_00001 { "npc[%s]的脚本初始化处理函数[ResetNpcInfo]调用失败！\n" }
+    GM_WORLDEUDEMON_CPP_00002 { "npc[%s]的脚本数据处理函数[%s]调用失败！\n" }
+    GM_WORLDEUDEMON_CPP_00003 { "npc[%s]的脚本初始化处理函数[GetNpcInfo]调用失败！\n" }
+    GM_WORLDEUDEMON_CPP_00004 { "npc[%s]的脚本消息处理函数[NpcProc]调用失败！" }
+}

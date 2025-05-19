@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccountServer", "AccountServer\AccountServer.vcproj", "{A2C79674-2511-4784-B82C-D75DE84C7FFE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameServer", "GameServer\GameServer.vcproj", "{525C57F1-D1F3-4AD2-B31D-F63CEEBA8BA6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GateServer", "GateServer\GateServer.vcproj", "{A2C79674-2511-4784-B82C-D75DE84C7FFE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GroupServer", "GroupServer\GroupServer.vcproj", "{A2C79674-2511-4784-B82C-D75DE84C7FFE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.ActiveCfg = Release|Win32
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.Build.0 = Release|Win32
+		{525C57F1-D1F3-4AD2-B31D-F63CEEBA8BA6}.Release.ActiveCfg = Release|Win32
+		{525C57F1-D1F3-4AD2-B31D-F63CEEBA8BA6}.Release.Build.0 = Release|Win32
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.ActiveCfg = Release|Win32
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.Build.0 = Release|Win32
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.ActiveCfg = Release|Win32
+		{A2C79674-2511-4784-B82C-D75DE84C7FFE}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

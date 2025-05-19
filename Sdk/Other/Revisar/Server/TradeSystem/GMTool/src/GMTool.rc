@@ -1,0 +1,152 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DLG_LOGIN DIALOGEX 0, 0, 209, 133
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Login"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDT_ID,81,18,83,14,ES_AUTOHSCROLL | ES_NUMBER
+    EDITTEXT        IDC_EDT_PASSWD,81,38,83,14,ES_PASSWORD | ES_AUTOHSCROLL
+    COMBOBOX        IDC_CMB_SERVER,81,58,83,119,CBS_DROPDOWNLIST | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    RTEXT           "ID:",IDC_STATIC,16,21,52,9
+    RTEXT           "Password:",IDC_STATIC,16,40,52,9
+    RTEXT           "Server:",IDC_STATIC,24,58,49,13
+    PUSHBUTTON      "Login",IDC_BTN_LOGIN,81,98,55,17
+    LTEXT           "",IDC_LGN_STATE,37,80,131,13
+END
+
+IDD_DLG_MAIN DIALOGEX 0, 0, 431, 314
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "GM Mail Tool"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    PUSHBUTTON      "Next Mail",IDC_BTN_REQUEST,84,274,72,25
+    EDITTEXT        IDC_EDT_CONTEXT,59,73,349,90,ES_MULTILINE | ES_READONLY | 
+                    WS_VSCROLL
+    EDITTEXT        IDC_EDT_REPLY,59,173,349,90,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDT_PLAYER,59,30,349,13,ES_AUTOHSCROLL | ES_READONLY
+    PUSHBUTTON      "Reply Mail",IDC_BTN_REPLY,201,274,72,25
+    LTEXT           "",IDC_LABEL_STATE,12,11,315,11
+    RTEXT           "Player:",IDC_STATIC,14,32,37,10
+    EDITTEXT        IDC_EDT_TITLE,59,52,349,12,ES_AUTOHSCROLL | ES_READONLY
+    RTEXT           "Title:",IDC_STATIC,14,52,37,10
+    RTEXT           "Context:",IDC_STATIC,14,72,37,10
+    RTEXT           "Replay:",IDC_STATIC,14,173,37,10
+    PUSHBUTTON      "Show History",IDC_BTN_HISTORY,311,274,72,25
+END
+
+IDD_DLG_HISTORY DIALOGEX 0, 0, 513, 381
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "History"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_LST_HISTORY,"SysListView32",LVS_REPORT | 
+                    LVS_ALIGNLEFT | WS_BORDER | WS_TABSTOP,7,7,499,367
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_DLG_LOGIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 202
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 125
+    END
+
+    IDD_DLG_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 424
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 307
+    END
+
+    IDD_DLG_HISTORY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 506
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 374
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

@@ -1,0 +1,888 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#include ""res\\EffectEditer.rc2""  // 非 Microsoft Visual C++ 编辑资源\r\n"
+    "#include ""afxres.rc""         // 标准组件\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\EffectEditer.ico"
+IDR_EffectEditerTYPE    ICON                    "res\\EffectEditerDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP                  "res\\Toolbar.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR  30, 20
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_BUTSELECT
+    BUTTON      ID_BUTTRANSLATE
+    BUTTON      ID_BUTROTATION
+    BUTTON      ID_BUTSCALE
+    SEPARATOR
+    BUTTON      ID_BUTEDITTEXTURE
+    BUTTON      ID_BUTEDITCOORD
+    BUTTON      ID_BUTEDITMODEL
+    SEPARATOR
+    BUTTON      ID_BUTUNITE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU 
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建\tCtrl+N(&N)",            ID_FILE_NEW
+        MENUITEM "打开...\tCtrl+O(&O)",         ID_FILE_OPEN
+        MENUITEM "保存\tCtrl+S(&S)",            ID_FILE_SAVE
+        MENUITEM "另存为(&A)...",               ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "最近的文件",                  ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                    ID_APP_EXIT
+    END
+    POPUP "编辑(&E)"
+    BEGIN
+        MENUITEM "撤消\tCtrl+Z(&U)",            ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "剪切\tCtrl+X(&T)",            ID_EDIT_CUT
+        MENUITEM "复制\tCtrl+C(&C)",            ID_EDIT_COPY
+        MENUITEM "粘贴\tCtrl+V(&P)",            ID_EDIT_PASTE
+        MENUITEM "重设到原点",                  ID_BUTRESETORIGIN
+    END
+    POPUP "视图(&V)"
+    BEGIN
+        MENUITEM "工具栏(&T)",                  ID_VIEW_TOOLBAR
+        MENUITEM "状态栏(&S)",                  ID_VIEW_STATUS_BAR
+    END
+    POPUP "工具"
+    BEGIN
+        MENUITEM "选项",                        ID_MENUOPTION
+        MENUITEM "保存全部",                    ID_SAVEALL
+        MENUITEM "粒子编辑",                    ID_SHOWPARTDLG
+        MENUITEM "打开脚本",                    ID_32789
+        MENUITEM "执行脚本",                    ID_32790
+        MENUITEM "装入Item",                    ID_32791
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于 EffectEditer(&A)...",    ID_APP_ABOUT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS 
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 235, 55
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "关于 EffectEditer"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "EffectEditer Version 1.0",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2004",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,16,WS_GROUP
+END
+
+IDD_EFFECTEDITER_FORM DIALOGEX 0, 0, 618, 259
+STYLE DS_SETFONT | WS_CHILD | WS_CLIPCHILDREN
+FONT 9, "Microsoft Sans Serif", 400, 0, 0x0
+BEGIN
+    LTEXT           "",IDC_SHOWSCENE,7,7,299,244,SS_NOTIFY,
+                    WS_EX_DLGMODALFRAME | WS_EX_CLIENTEDGE
+    CONTROL         "",IDC_SLIDERFRAME,"msctls_trackbar32",TBS_NOTICKS | 
+                    WS_TABSTOP,342,183,189,15
+    PUSHBUTTON      " SetKey",IDC_BUTSETKEYFRAME,564,218,40,14,NOT 
+                    WS_TABSTOP
+    GROUPBOX        "帧控制",IDC_STATIC,307,171,304,80,0,WS_EX_DLGMODALFRAME | 
+                    WS_EX_TRANSPARENT | WS_EX_STATICEDGE
+    CONTROL         "Play",IDC_CHECKPLAY,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,564,180,40,36
+    PUSHBUTTON      "<<",IDC_BUTTON2,313,184,16,11,NOT WS_TABSTOP
+    PUSHBUTTON      "<",IDC_BUTTON3,330,184,8,11,NOT WS_TABSTOP
+    PUSHBUTTON      ">",IDC_BUTTON4,535,183,8,11,NOT WS_TABSTOP
+    PUSHBUTTON      ">>",IDC_BUTTON5,544,183,16,11,NOT WS_TABSTOP
+    GROUPBOX        "资源控制",IDC_STATIC,308,8,141,163,0,
+                    WS_EX_DLGMODALFRAME | WS_EX_TRANSPARENT | 
+                    WS_EX_STATICEDGE
+    EDITTEXT        IDC_EDIT2,463,202,30,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    CONTROL         "",IDC_SPIN1,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_ARROWKEYS | WS_TABSTOP,439,199,20,18
+    CONTROL         "",IDC_SLIDER2,"msctls_trackbar32",TBS_NOTICKS,342,202,
+                    94,15
+    CONTROL         "循环播放",IDC_CHECK2,"Button",BS_AUTOCHECKBOX,509,236,
+                    37,10
+    GROUPBOX        "当前信息",IDC_STATIC,449,8,162,124,0,
+                    WS_EX_DLGMODALFRAME | WS_EX_TRANSPARENT | 
+                    WS_EX_STATICEDGE
+    CONTROL         "X",IDC_CHECKX,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE,
+                    451,157,19,10
+    CONTROL         "Y",IDC_CHECKY,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE,
+                    505,157,18,10
+    CONTROL         "Z",IDC_CHECKZ,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE,
+                    561,157,17,10
+    CTEXT           "透明度",IDC_STATIC,317,205,24,13
+    CONTROL         "平移",ID_BUTTRANSLATE,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,453,138,21,15
+    CONTROL         "旋转",ID_BUTROTATION,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,477,138,21,15
+    CONTROL         "缩放",ID_BUTSCALE,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,501,138,21,15
+    CONTROL         "纹理",ID_BUTEDITTEXTURE,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,538,138,21,15
+    CONTROL         "坐标",ID_BUTEDITCOORD,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,561,138,21,15
+    CONTROL         "模型",ID_BUTEDITMODEL,"Button",BS_AUTOCHECKBOX | 
+                    BS_PUSHLIKE,584,138,23,15
+    LTEXT           "模型库",IDC_STATIC,313,17,26,8
+    LTEXT           "组合效果库",IDC_STATIC,313,61,37,8
+    LTEXT           "模型",IDC_STATIC,456,21,15,8
+    LISTBOX         IDC_LIST_SUBEFFLIB,311,95,49,71,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL
+    LTEXT           "子效果",IDC_STATIC,323,86,37,8
+    PUSHBUTTON      "选择颜色",IDC_BUTSELCOLOR,372,224,40,18
+    LTEXT           "缩放",IDC_STATIC,457,54,14,8
+    LTEXT           "旋转",IDC_STATIC,457,64,14,8
+    LTEXT           "平移",IDC_STATIC,457,75,14,8
+    LTEXT           "当前帧时间长度",IDC_STATIC,457,34,49,8
+    LTEXT           "全部动画长度",IDC_STATIC,528,114,42,8
+    LTEXT           "透明度",IDC_STATIC,456,99,22,8
+    LTEXT           "颜色",IDC_STATIC,457,86,16,8
+    LTEXT           "全部帧数量",IDC_STATIC,454,115,34,8
+    LTEXT           "X",IDC_STATIC,490,44,8,8
+    LTEXT           "Y",IDC_STATIC,531,44,8,8
+    LTEXT           "Z",IDC_STATIC,571,45,8,8
+    LTEXT           "R",IDC_STATIC,476,86,8,8
+    LTEXT           "G",IDC_STATIC,517,85,8,8
+    LTEXT           "B",IDC_STATIC,558,85,8,8
+    CTEXT           "名称",IDC_STRMODELNAME,476,20,47,10,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRFRAMETIME,522,33,79,10,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRFRAMECOUNT,495,114,31,10,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRLENGTH,573,113,31,10,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRSCALEX,480,54,26,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRSCALEY,522,54,28,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRSCALEZ,562,54,29,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRROTATX,480,64,26,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRROTATY,522,64,28,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRROTATZ,562,64,29,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRCOLORR,486,87,20,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRCOLORG,528,86,23,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRCOLORB,568,86,24,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRCOLORA,480,99,62,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    LISTBOX         IDC_LIST_PARTICLELIB2,392,95,49,71,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL
+    LTEXT           "当前组合库",IDC_STATIC,400,86,40,8
+    PUSHBUTTON      "添加组合效果",IDC_BUTTON1,362,96,28,17,BS_MULTILINE
+    PUSHBUTTON      "添加子效果",IDC_BUTTON6,362,121,28,17,BS_MULTILINE
+    PUSHBUTTON      "合并效果",IDC_BUTTON7,361,146,29,17,BS_MULTILINE
+    CTEXT           "名称",IDC_STRTRANSX,480,74,26,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRTRANSXY,522,74,28,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    CTEXT           "名称",IDC_STRTRANSZ,562,74,29,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    PUSHBUTTON      "替换模型",IDC_BUTTON8,401,19,19,23,BS_MULTILINE
+    LTEXT           "纹理库",IDC_STATIC,314,39,26,8
+    PUSHBUTTON      "应用纹理",IDC_BUTTON10,399,47,42,15,BS_MULTILINE
+    LTEXT           "类型",IDC_STATIC,530,20,15,8
+    CTEXT           "名称",IDC_STRTYPE,552,19,49,11,0,WS_EX_STATICEDGE
+    CONTROL         "BillBoard",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_DISABLED | WS_TABSTOP,546,97,54,13,
+                    WS_EX_DLGMODALFRAME
+    COMBOBOX        IDC_COMBO1,314,230,51,30,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "Alpha类型",IDC_STATIC,321,219,34,8
+    EDITTEXT        IDC_EDIT11,472,157,25,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    EDITTEXT        IDC_EDIT12,528,156,25,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    EDITTEXT        IDC_EDIT13,581,156,25,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    CONTROL         "编辑组合效果",IDC_CHECK4,"Button",BS_AUTOCHECKBOX,552,
+                    235,52,10
+    CONTROL         "循环旋转全部",IDC_CHECK5,"Button",BS_AUTOCHECKBOX,452,
+                    222,55,10
+    EDITTEXT        IDC_EDIT14,422,221,25,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    CTEXT           "名称",IDC_STRFRAMESHOW,525,202,35,9,SS_WORDELLIPSIS,
+                    WS_EX_STATICEDGE
+    COMBOBOX        IDC_COMBO8,313,26,82,219,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO9,313,47,82,219,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO10,312,71,128,219,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "可变模型",IDC_BUTTON20,422,19,19,23,BS_MULTILINE
+    CONTROL         "循环旋转单体",IDC_CHECK7,"Button",BS_AUTOCHECKBOX,452,
+                    237,55,10
+    EDITTEXT        IDC_EDIT46,421,235,25,12,ES_AUTOHSCROLL | NOT WS_TABSTOP
+    CONTROL         "旋转board",IDC_CHECK8,"Button",BS_AUTOCHECKBOX,509,222,
+                    45,10
+    LTEXT           "当前帧",IDC_STATIC,500,203,26,8
+END
+
+IDD_DLGOPTION DIALOGEX 0, 0, 267, 228
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Option"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,135,198,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,197,199,50,14
+    CONTROL         "",IDC_TAB_OPTION,"SysTabControl32",0x0,7,7,253,178
+    EDITTEXT        IDC_EDITTEXPATH,15,60,238,14,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    EDITTEXT        IDC_EDITMESHPATH,15,103,237,14,ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    PUSHBUTTON      "选择纹理路径",IDC_BUTSELTEXPATH,187,78,65,14
+    PUSHBUTTON      "选择模型库路径",IDC_BUTSELMESHPATH,187,124,65,14
+END
+
+IDD_DLGNEW DIALOGEX 0, 0, 206, 106
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "NewEffect"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "帧贴图",IDC_RADIO9,"Button",BS_AUTORADIOBUTTON | 
+                    WS_GROUP,19,21,40,10
+    CONTROL         "模型UV动画",IDC_RADIO4,"Button",BS_AUTORADIOBUTTON,19,
+                    35,57,10
+    CONTROL         "贴图动画",IDC_RADIO7,"Button",BS_AUTORADIOBUTTON,19,49,
+                    48,10
+    CONTROL         "普通模型",IDC_RADIO8,"Button",BS_AUTORADIOBUTTON,19,62,
+                    48,10
+    LTEXT           "动画帧数量",IDC_STATIC,90,49,32,8
+    EDITTEXT        IDC_EDITNEWNAME,130,28,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDITNEWFRAMECOUNT,129,47,40,14,ES_AUTOHSCROLL
+    DEFPUSHBUTTON   "OK",IDOK,55,82,50,14,WS_GROUP
+    PUSHBUTTON      "Cancel",IDCANCEL,109,82,50,14
+    LTEXT           "名称",IDC_STATIC,90,32,29,8
+    CONTROL         "BillBoard",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_TABSTOP,89,65,50,10
+END
+
+IDD_DLGEDITTEXTURE DIALOGEX 0, 0, 180, 217
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,116,175,50,25
+    LISTBOX         IDC_LIST1,8,39,74,165,LBS_SORT | LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    PUSHBUTTON      "替换纹理",IDC_BUTTON1,91,80,30,25,BS_MULTILINE
+    LTEXT           "坐标划分",IDC_STATIC,93,113,37,10
+    LTEXT           "行",IDC_STATIC,90,134,8,10
+    LTEXT           "列",IDC_STATIC,89,156,12,10
+    EDITTEXT        IDC_EDIT1,104,132,34,14,ES_AUTOHSCROLL,WS_EX_TRANSPARENT
+    EDITTEXT        IDC_EDIT3,104,153,33,14,ES_AUTOHSCROLL,WS_EX_TRANSPARENT
+    PUSHBUTTON      "切分",IDC_BUTTON9,143,128,23,21,BS_MULTILINE
+    EDITTEXT        IDC_EDIT4,125,92,40,14,ES_AUTOHSCROLL,WS_EX_TRANSPARENT
+    LTEXT           "帧纹理速度",IDC_STATIC,125,81,44,10
+    PUSHBUTTON      "设置",IDC_BUTTON3,136,111,30,14
+    PUSHBUTTON      "删除",IDC_BUTREMOVE,142,151,23,21,BS_MULTILINE
+    PUSHBUTTON      "添加纹理",IDC_BUTTON11,94,22,42,38,BS_MULTILINE
+    GROUPBOX        "纹理UV变换",IDC_STATIC,86,69,86,136
+    GROUPBOX        "纹理帧变换",IDC_STATIC,87,11,85,55
+    PUSHBUTTON      "清空纹理",IDC_BUTTON12,141,23,25,37,BS_MULTILINE
+    COMBOBOX        IDC_COMBO1,8,21,75,129,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "纹理列表",IDC_STATIC,12,10,33,8
+END
+
+IDD_DLGEDITCOORD DIALOGEX 0, 0, 198, 153
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "顶点一：",IDC_STATIC,14,70,36,8
+    LTEXT           "顶点二：",IDC_STATIC,14,23,36,8
+    LTEXT           "顶点三：",IDC_STATIC,68,25,36,8
+    LTEXT           "顶点四：",IDC_STATIC,70,70,36,8
+    LTEXT           "U",IDC_STATIC,103,39,15,8
+    LTEXT           "V",IDC_STATIC,103,56,15,8
+    LTEXT           "帧时间速度：",IDC_STATIC,129,20,49,8
+    CONTROL         "",IDC_SLIDER1,"msctls_trackbar32",TBS_TOP | TBS_NOTICKS | 
+                    WS_TABSTOP,7,124,100,15
+    EDITTEXT        IDC_EDIT3,14,79,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT7,14,95,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,14,36,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT9,14,52,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,68,37,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT8,68,53,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,70,80,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT10,69,96,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT1,129,33,37,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "设置",IDC_BUTTON9,168,34,23,13,BS_MULTILINE
+    PUSHBUTTON      "设置当前坐标",IDC_BUTTON1,114,122,32,24,BS_MULTILINE
+    PUSHBUTTON      "装入坐标文件",IDC_BUTTON11,156,122,32,24,BS_MULTILINE
+    EDITTEXT        IDC_EDIT15,129,72,37,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "设置",IDC_BUTTON12,168,73,23,13,BS_MULTILINE
+    LTEXT           "坐标套数：",IDC_STATIC,129,59,49,8
+    PUSHBUTTON      "默认坐标设置",IDC_BUTTON13,115,96,43,18,BS_MULTILINE
+    LTEXT           "U",IDC_STATIC,103,82,15,8
+    LTEXT           "V",IDC_STATIC,103,99,15,8
+END
+
+IDD_DLGPART DIALOGEX 0, 0, 719, 172
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MINIMIZEBOX | WS_POPUP | 
+    WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_NOPARENTNOTIFY | WS_EX_CLIENTEDGE
+CAPTION "粒子编辑器"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LISTBOX         IDC_LIST1,121,17,70,145,LBS_NOINTEGRALHEIGHT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LISTBOX         IDC_LIST2,223,90,76,12,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "组合系统库",IDC_STATIC,227,82,41,8
+    LTEXT           "子系统库",IDC_STATIC,136,6,33,8
+    LISTBOX         IDC_LIST3,7,18,67,142,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "当前组合库",IDC_STATIC,27,7,41,8
+    PUSHBUTTON      "保存",IDC_BUTTON1,218,138,90,21
+    PUSHBUTTON      "删除->",IDC_BUTTON9,80,79,31,14
+    CONTROL         "",IDC_SLIDER1,"msctls_trackbar32",TBS_NOTICKS | 
+                    WS_TABSTOP,363,109,143,15
+    EDITTEXT        IDC_EDIT2,345,24,32,14,ES_AUTOHSCROLL
+    LTEXT           "生命值",IDC_STATIC,345,16,25,8
+    EDITTEXT        IDC_EDIT16,345,46,32,14,ES_AUTOHSCROLL
+    LTEXT           "速度值",IDC_STATIC,347,38,25,8
+    EDITTEXT        IDC_EDIT17,381,24,32,14,ES_AUTOHSCROLL
+    LTEXT           "方向",IDC_STATIC,378,16,17,8
+    EDITTEXT        IDC_EDIT18,413,24,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT19,445,24,32,14,ES_AUTOHSCROLL
+    LTEXT           "x",IDC_STATIC,398,15,8,8
+    LTEXT           "y",IDC_STATIC,433,14,8,8
+    LTEXT           "z",IDC_STATIC,460,15,8,8
+    EDITTEXT        IDC_EDIT20,381,47,32,14,ES_AUTOHSCROLL
+    LTEXT           "加速度",IDC_STATIC,377,39,25,8
+    EDITTEXT        IDC_EDIT21,413,47,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT22,446,47,32,14,ES_AUTOHSCROLL
+    LTEXT           "x",IDC_STATIC,403,39,8,8
+    LTEXT           "y",IDC_STATIC,434,39,8,8
+    LTEXT           "z",IDC_STATIC,461,40,8,8
+    EDITTEXT        IDC_EDIT23,272,40,44,14,ES_AUTOHSCROLL
+    LTEXT           "名称",IDC_STATIC,231,32,17,8
+    COMBOBOX        IDC_COMBO1,229,20,97,76,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT24,391,70,32,14,ES_AUTOHSCROLL
+    LTEXT           "产生范围",IDC_STATIC,369,62,33,8
+    EDITTEXT        IDC_EDIT25,425,70,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT26,459,70,32,14,ES_AUTOHSCROLL
+    LTEXT           "x",IDC_STATIC,403,62,8,8
+    LTEXT           "y",IDC_STATIC,437,62,8,8
+    LTEXT           "z",IDC_STATIC,473,62,8,8
+    EDITTEXT        IDC_EDIT27,345,70,32,14,ES_AUTOHSCROLL
+    LTEXT           "数量",IDC_STATIC,347,62,17,8
+    COMBOBOX        IDC_COMBO2,512,24,59,203,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "帧控制",IDC_STATIC,339,112,25,8
+    COMBOBOX        IDC_COMBO3,512,48,57,194,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "模型",IDC_STATIC,520,40,17,8
+    EDITTEXT        IDC_EDIT28,507,109,32,14,ES_AUTOHSCROLL
+    LTEXT           "帧数量",IDC_STATIC,511,99,25,8
+    LTEXT           "纹理",IDC_STATIC,515,15,17,8
+    EDITTEXT        IDC_EDIT29,507,136,32,14,ES_AUTOHSCROLL
+    LTEXT           "帧大小",IDC_STATIC,511,125,25,8
+    PUSHBUTTON      "SetColor",IDC_BUTTON14,341,128,32,22
+    PUSHBUTTON      "<-添加",IDC_BUTTON15,82,17,29,14
+    CONTROL         "all",IDC_CHECK_BillBoard_All,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,487,93,23,10
+    COMBOBOX        IDC_COMBO4,574,24,50,102,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO5,572,48,50,105,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "dest混合",IDC_STATIC,566,37,31,8
+    LTEXT           "src混合",IDC_STATIC,566,16,26,8
+    COMBOBOX        IDC_COMBO6,624,24,50,124,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO7,624,48,50,101,CBS_DROPDOWNLIST | WS_VSCROLL | 
+                    WS_TABSTOP
+    LTEXT           "纹理过滤min",IDC_STATIC,618,37,44,8
+    LTEXT           "纹理过滤mag",IDC_STATIC,618,16,46,8
+    EDITTEXT        IDC_EDIT30,547,83,30,14,ES_AUTOHSCROLL
+    LTEXT           "帧角度",IDC_STATIC,509,85,25,8
+    EDITTEXT        IDC_EDIT31,589,83,30,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT32,633,83,30,14,ES_AUTOHSCROLL
+    LTEXT           "x",IDC_STATIC,537,83,8,8
+    LTEXT           "y",IDC_STATIC,581,83,8,8
+    LTEXT           "z",IDC_STATIC,625,85,8,8
+    EDITTEXT        IDC_EDIT33,436,136,32,14,ES_AUTOHSCROLL
+    LTEXT           "透明度",IDC_STATIC,441,125,25,8
+    LTEXT           "r:",IDC_COLORR,380,125,17,9
+    LTEXT           "g:",IDC_COLORG,379,133,21,8
+    LTEXT           "b:",IDC_COLORB,380,141,24,8
+    PUSHBUTTON      "新建",IDC_BUTTON16,235,40,29,15
+    PUSHBUTTON      "删除",IDC_BUTTON17,292,56,24,15
+    CONTROL         "播放",IDC_CHECK6,"Button",BS_AUTOCHECKBOX | BS_PUSHLIKE | 
+                    WS_TABSTOP,546,103,41,28
+    PUSHBUTTON      "合并",IDC_BUTTON18,234,58,51,14
+    PUSHBUTTON      "<-清除",IDC_BUTTON19,80,60,30,15
+    EDITTEXT        IDC_EDIT34,473,136,28,14,ES_AUTOHSCROLL
+    LTEXT           "播放时间",IDC_STATIC,471,125,33,8
+    EDITTEXT        IDC_EDIT35,631,118,35,14,ES_AUTOHSCROLL
+    LTEXT           "创建间隔",IDC_STATIC,594,120,33,8
+    EDITTEXT        IDC_EDIT36,547,64,28,14,ES_AUTOHSCROLL
+    LTEXT           "位置偏移",IDC_STATIC,501,67,33,8
+    EDITTEXT        IDC_EDIT37,589,64,31,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT38,635,64,28,14,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO8,222,122,86,252,CBS_DROPDOWN | WS_VSCROLL | 
+                    WS_TABSTOP
+    EDITTEXT        IDC_EDIT39,399,136,28,14,ES_AUTOHSCROLL
+    LTEXT           "延迟时间",IDC_STATIC,398,125,33,8
+    PUSHBUTTON      "新建Drap",IDC_BUTTON21,223,105,33,15
+    EDITTEXT        IDC_EDIT40,285,105,22,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT41,261,105,22,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "新建character动画",IDC_BUTTON22,197,20,24,34,
+                    BS_MULTILINE
+    EDITTEXT        IDC_EDIT42,302,87,28,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "合并粒子",IDC_BUTTON23,197,59,24,18,BS_MULTILINE
+    PUSHBUTTON      "添加路径",IDC_BUTTON24,81,33,30,25,BS_MULTILINE
+    PUSHBUTTON      "删除路径",IDC_BUTTON25,80,95,30,25,BS_MULTILINE
+    EDITTEXT        IDC_EDIT43,80,140,29,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT44,597,138,68,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "添加打击效果",IDC_BUTTON26,548,135,38,20,BS_MULTILINE
+    PUSHBUTTON      "发射器",IDC_BUTTON27,311,106,21,18,BS_MULTILINE
+    PUSHBUTTON      "删除发射",IDC_BUTTON28,311,127,21,28,BS_MULTILINE
+    EDITTEXT        IDC_EDIT45,631,101,36,14,ES_AUTOHSCROLL
+    LTEXT           "随机系数",IDC_STATIC,595,104,34,8
+    CONTROL         "模型方向   |",IDC_CHECK_MODEL_DIRECTOR,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,343,89,57,10
+    LTEXT           "Billboard",IDC_STATIC,401,93,28,8
+    CONTROL         "X",IDC_CHECK_BillBoard_X,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,431,93,20,10
+    CONTROL         "Y",IDC_CHECK_BillBoard_Y,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,449,93,20,10
+    CONTROL         "Z",IDC_CHECK_BillBoard_Z,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,465,93,20,10
+    LTEXT           "x",IDC_STATIC,537,67,8,8
+    LTEXT           "y",IDC_STATIC,581,67,8,8
+    LTEXT           "z",IDC_STATIC,627,67,8,8
+    LTEXT           "路径时间 ",IDC_STATIC,80,126,35,12
+    GROUPBOX        "参数显示",IDC_STATIC,224,3,108,76,0,WS_EX_DLGMODALFRAME
+    CONTROL         "Dummy方向",IDC_CHECK_DUMMY_DIRECTOR,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,343,101,55,10
+    EDITTEXT        IDC_EDIT_DirAngle,477,25,32,14,ES_AUTOHSCROLL
+    LTEXT           "偏移角度",IDC_STATIC,477,15,33,8
+END
+
+IDD_DLGMODELPARAM DIALOGEX 0, 0, 155, 50
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_MINIMIZEBOX | WS_POPUP | 
+    WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_CLIENTEDGE
+CAPTION "模型参数编辑"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT2,4,17,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT17,46,17,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT18,80,17,32,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT19,115,17,32,14,ES_AUTOHSCROLL
+    LTEXT           "片断",IDC_STATIC,5,5,21,10
+    LTEXT           "高度",IDC_STATIC,47,4,21,10
+    LTEXT           "顶宽",IDC_STATIC,81,5,21,10
+    LTEXT           "底宽",IDC_STATIC,115,4,21,10
+END
+
+IDD_DLGMESH DIALOGEX 0, 0, 128, 319
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION " "
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_TREE1,"SysTreeView32",TVS_HASBUTTONS | 
+                    TVS_HASLINES | TVS_LINESATROOT | TVS_SHOWSELALWAYS | 
+                    WS_BORDER | WS_TABSTOP | 0x800,3,2,119,154,
+                    WS_EX_DLGMODALFRAME | WS_EX_CLIENTEDGE
+    PUSHBUTTON      "Load",IDC_BUTTON1,107,183,19,14
+    EDITTEXT        IDC_EDIT1,75,184,29,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,9,183,36,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "Play",IDC_BUTTON9,49,183,22,15
+    LTEXT           "速度",IDC_STATIC,9,173,20,8
+    LTEXT           "角色",IDC_STATIC,75,175,20,8
+    PUSHBUTTON      "绑定特效到角色",IDC_BUTTON11,2,203,38,20,BS_MULTILINE
+    EDITTEXT        IDC_EDIT2,14,158,28,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT16,46,158,28,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "bindItem",IDC_BUTTON2,78,158,35,14
+    PUSHBUTTON      "绑定特效到武器",IDC_BUTTON13,44,203,37,21,BS_MULTILINE
+    PUSHBUTTON      "绑定武器到角色",IDC_BUTTON29,84,203,39,21,BS_MULTILINE
+    GROUPBOX        "效果组合",IDC_STATIC,3,235,119,83
+    PUSHBUTTON      "解除绑定",IDC_BUTTON30,85,225,38,11,BS_MULTILINE
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080403a8"
+        BEGIN
+            VALUE "CompanyName", "TODO: <公司名>"
+            VALUE "FileDescription", "TODO: <文件说明>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "EffectEditer.exe"
+            VALUE "LegalCopyright", "TODO: (C) <公司名>。保留所有权利。"
+            VALUE "OriginalFilename", "EffectEditer.exe"
+            VALUE "ProductName", "TODO: <产品名>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 936
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_EFFECTEDITER_FORM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 611
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 252
+    END
+
+    IDD_DLGOPTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 260
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 221
+    END
+
+    IDD_DLGNEW, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 198
+        TOPMARGIN, 6
+        BOTTOMMARGIN, 99
+    END
+
+    IDD_DLGEDITTEXTURE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 173
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 210
+    END
+
+    IDD_DLGEDITCOORD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 191
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 146
+    END
+
+    IDD_DLGPART, DIALOG
+    BEGIN
+        LEFTMARGIN, 4
+        RIGHTMARGIN, 712
+        TOPMARGIN, 3
+        BOTTOMMARGIN, 162
+    END
+
+    IDD_DLGMODELPARAM, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 148
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 43
+    END
+
+    IDD_DLGMESH, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 312
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDR_MAINFRAME           "EffectEditor\n\nEffectEditor\n\n\nEffectEditor.Document\nEffectEditor.Document"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "EffectEditor"
+    AFX_IDS_IDLEMESSAGE     "就绪"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_FILE_NEW             "创建新文档\n新建"
+    ID_FILE_OPEN            "打开现有文档\n打开"
+    ID_FILE_CLOSE           "关闭活动文档\n关闭"
+    ID_FILE_SAVE            "保存活动文档\n保存"
+    ID_FILE_SAVE_AS         "用新名称保存活动文档\n另存为"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_APP_ABOUT            "显示程序信息、版本号和版权\n关于"
+    ID_APP_EXIT             "退出应用程序；提示保存文档\n退出"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "打开此文档"
+    ID_FILE_MRU_FILE2       "打开此文档"
+    ID_FILE_MRU_FILE3       "打开此文档"
+    ID_FILE_MRU_FILE4       "打开此文档"
+    ID_FILE_MRU_FILE5       "打开此文档"
+    ID_FILE_MRU_FILE6       "打开此文档"
+    ID_FILE_MRU_FILE7       "打开此文档"
+    ID_FILE_MRU_FILE8       "打开此文档"
+    ID_FILE_MRU_FILE9       "打开此文档"
+    ID_FILE_MRU_FILE10      "打开此文档"
+    ID_FILE_MRU_FILE11      "打开此文档"
+    ID_FILE_MRU_FILE12      "打开此文档"
+    ID_FILE_MRU_FILE13      "打开此文档"
+    ID_FILE_MRU_FILE14      "打开此文档"
+    ID_FILE_MRU_FILE15      "打开此文档"
+    ID_FILE_MRU_FILE16      "打开此文档"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_NEXT_PANE            "切换到下一个窗格\n下一窗格"
+    ID_PREV_PANE            "切换回上一个窗格\n上一窗格"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "将活动窗口拆分为多个窗格\n拆分"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_EDIT_CLEAR           "清除选定内容\n清除"
+    ID_EDIT_CLEAR_ALL       "清除全部内容\n全部清除"
+    ID_EDIT_COPY            "复制选定内容并将其放到剪贴板上\n复制"
+    ID_EDIT_CUT             "剪切选定内容并将其放到剪贴板上\n剪切"
+    ID_EDIT_FIND            "查找指定的文本\n查找"
+    ID_EDIT_PASTE           "插入剪贴板内容\n粘贴"
+    ID_EDIT_REPEAT          "重复上一操作\n重复"
+    ID_EDIT_REPLACE         "用其他文本替换特定的文本\n替换"
+    ID_EDIT_SELECT_ALL      "选定整个文档\n全选"
+    ID_EDIT_UNDO            "撤消上一操作\n撤消"
+    ID_EDIT_REDO            "恢复上次撤消的操作\n重做"
+END
+
+STRINGTABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "显示或隐藏工具栏\n切换工具栏"
+    ID_VIEW_STATUS_BAR      "显示或隐藏状态栏\n切换状态栏"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "更改窗口大小"
+    AFX_IDS_SCMOVE          "更改窗口位置"
+    AFX_IDS_SCMINIMIZE      "将窗口缩小为图标"
+    AFX_IDS_SCMAXIMIZE      "使窗口最大化显示"
+    AFX_IDS_SCNEXTWINDOW    "切换到下一个文档窗口"
+    AFX_IDS_SCPREVWINDOW    "切换到前一个文档窗口"
+    AFX_IDS_SCCLOSE         "关闭活动窗口并提示保存文档"
+END
+
+STRINGTABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "将窗口恢复到正常大小"
+    AFX_IDS_SCTASKLIST      "激活任务列表"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE 4, 2
+#pragma code_page(936)
+#include "res\EffectEditer.rc2"  // 非 Microsoft Visual C++ 编辑资源
+#include "afxres.rc"         // 标准组件
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
